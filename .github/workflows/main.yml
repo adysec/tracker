@@ -1,0 +1,41 @@
+name: Daily Update Tracker
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 12 * * *'
+    
+env:
+  innoextract_version: 1.9
+  arch: amd64
+ 
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Update trackers_all.txt
+        shell: pwsh
+        run: |
+          curl https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/chenjia404/CnTrackersList/master/all.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/trackerslist_tracker.txt >> trackers_all.txt
+          sort trackers_all.txt | uniq > tmp.txt
+          mv tmp.txt trackers_all.txt          
+
+      - name: Commit and Push changes
+        run: |
+          echo $(date +'%Y%m%d') > date.txt
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -am "$(date +'%Y%m%d')"
+          git push -v --progress
