@@ -88,6 +88,7 @@ http://ipv6.tracker.m-team.cc:80/announce
 http://irrenhaus.dyndns.dk:80/announce
 http://isk.richardsw.club:6969/announce
 http://jp.moeweb.pw:6969/announce
+http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com:80/announce
 http://leidenfro.st:6969/announce
@@ -402,6 +403,7 @@ https://tr.qfruiti.com:443/announce
 https://tr.qfruiti.in:443/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga:443/announce
+https://track.solcloud.eu:443/announce
 https://track3r.site:443/announce
 https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.3moredays.com:443/announce
