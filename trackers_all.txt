@@ -191,6 +191,7 @@ http://tracker.aibt.xyz:900/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.anirena.com:80/announce
+http://tracker.auctor.tv:6969/announce
 http://tracker.baka-sub.cf:80/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.nibblepoker.lu:49227/announce
