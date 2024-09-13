@@ -166,6 +166,8 @@ http://tk1.trackerservers.com:8080/announce
 http://tk1.trackerservers.com:8080/announce
 http://tk1v6.trackerservers.com:8080/announce
 http://tk2.greedland.net:80/announce
+http://tk2.trackerservers.com:8080/announce
+http://tk2v6.trackerservers.com:8080/announce
 http://tor.rev.pm:6969/announce
 http://torrent-team.net:80/announce
 http://torrent-tracker.ru:80/announce
@@ -304,6 +306,7 @@ http://tracker2.torrentino.com:80/announce
 http://tracker3.ctix.cn:2095/announce
 http://tracker3.ctix.cn:8080/announce
 http://tracker3.itzmx.com:6961/announce
+http://tracker3.itzmx.com:8080/announce
 http://tracker3.torrentino.com:80/announce
 http://tracker4.itzmx.com:2710/announce
 http://tracker4.itzmx.com:6961/announce
