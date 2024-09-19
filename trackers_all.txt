@@ -1,4 +1,5 @@
-hhtps://torrent-tracker.hama3.net:443/announce
+https://torrent-tracker.hama3.net:443/announce
+http://t.acg.rip:6699/announce 
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
