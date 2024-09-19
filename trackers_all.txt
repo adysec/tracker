@@ -2471,4 +2471,5 @@ wss://tracker.btorrent.xyz:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.openwebtorrent.com:443/announceudp://open.stealth.si:80/announce
+wss://tracker.openwebtorrent.com:443/announce
+udp://open.stealth.si:80/announce
