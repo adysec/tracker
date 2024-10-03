@@ -1,7 +1,5 @@
 http://109.71.253.37:1096/announce
-http://125.227.79.123:6969/announce
 http://125.227.79.123:80/announce
-http://129.146.193.240:6699/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info/announce+108
 http://1337.abcvg.info:80/announce
@@ -15,11 +13,11 @@ http://184.61.17.58:9000/announce
 http://185.148.3.231/announce
 http://185.148.3.231:80/announce
 http://185.230.4.150:1337/announce
-http://192.9.228.30:6699/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://211.23.142.127:6969/announce
 http://211.75.210.220:6969/announce
+http://46.231.241.43:6969/announce
 http://46.29.161.6:2710/announce
 http://46.29.161.6:6961/announce
 http://46.29.162.181:6961/announce
@@ -29,7 +27,6 @@ http://54.39.98.124:80/announce
 http://74.48.17.122:6969/announce
 http://93.158.213.92:1337/announce
 http://93.88.129.16/announce
-http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://all4nothin.net/announce.php
 http://all4nothin.net:80/announce
@@ -67,7 +64,6 @@ http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
 http://bvarf.tracker.sh:2086/announce
-http://canardscitrons.nohost.me:6969/announce
 http://carbon-bonsai-621.appspot.com/announce
 http://carbon-bonsai-621.appspot.com:80/announce
 http://ch3oh.ru:6969/announce
@@ -102,9 +98,6 @@ http://lima-peru.subventas.com:443/announce
 http://masters-tb.com/announce.php
 http://masters-tb.com:80/announce
 http://masters-tb.com:80/announce.php
-http://mediaclub.tv/announce
-http://mediaclub.tv/announce.php
-http://mediaclub.tv:80/announce
 http://mediaclub.tv:80/announce.php
 http://milliontorrent.pl/announce.php
 http://milliontorrent.pl:80/announce
@@ -121,6 +114,7 @@ http://mvgforumtracker.mvgroup.org:80/tracker.php/announce
 http://mvgroup.org:2710/announce
 http://nagios.tks.sumy.ua:80/announce
 http://nyaa.tracker.wf:7777/announce
+http://open.acgtracker.com:1096/announce
 http://open.stealth.si:80/announce
 http://open.touki.ru/announce
 http://open.touki.ru/announce.php
@@ -137,7 +131,6 @@ http://retracker.joxnet.ru/announce
 http://retracker.joxnet.ru:80/announce
 http://retracker.x2k.ru:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
-http://share.camoe.cn:8080/announce
 http://smurfsoft.com:6969/announce
 http://t.acg.rip:6699/announce
 http://t.nyaatracker.com/announce
@@ -164,13 +157,11 @@ http://tr.nyacat.pw:80/announce
 http://tr1.aag.moe:2095/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
-http://tracker.1048576.cn:17272/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.auctor.tv:6969/announce
-http://tracker.breizh.pm:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.dler.com:6969/announce
@@ -204,7 +195,7 @@ http://tracker.noobsubs.net:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
 http://tracker.openzim.org:80/announce
-http://tracker.pcfreetime.com:6969/announce
+http://tracker.peckservers.com:9000/announce
 http://tracker.pimp4003.net/announce
 http://tracker.pimp4003.net:80/announce
 http://tracker.publictorrent.net/announce
@@ -219,8 +210,6 @@ http://tracker.tfile.me:80/announce
 http://tracker.torrentbytes.net/announce.php
 http://tracker.torrentbytes.net:80/announce
 http://tracker.torrentbytes.net:80/announce.php
-http://tracker.trackerfix.com/announce
-http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com/announce.php
 http://tracker.trancetraffic.com:80/announce
 http://tracker.trancetraffic.com:80/announce.php
@@ -228,15 +217,12 @@ http://tracker.vraphim.com:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.ykat.xyz:6969/announce
-http://tracker1.bt.moack.co.kr/announce
-http://tracker1.bt.moack.co.kr:80/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker1.torrentino.com/announce
 http://tracker1.torrentino.com:80/announce
 http://tracker2.ctix.cn:2095/announce
 http://tracker2.dler.com:80/announce
 http://tracker2.dler.org/announce
-http://tracker2.dler.org:80/announce
 http://tracker2.torrentino.com/announce
 http://tracker2.torrentino.com:80/announce
 http://tracker3.dler.org:2710/announce
@@ -262,6 +248,7 @@ http://www.legittorrents.info:80/announce
 http://www.legittorrents.info:80/announce.php
 http://www.mvgroup.org/tracker.php/announce
 http://www.mvgroup.org:2710/announce
+http://www.peckservers.com:9000/announce
 http://www.thetradersden.org/forums/tracker/announce.php
 http://www.thetradersden.org/forums/tracker:80/announce.php
 http://www.tribalmixes.com/announce.php
@@ -302,7 +289,6 @@ https://evening-badlands-6215.herokuapp.com:443/announce
 https://jvavav.com:443/announce
 https://mathkangaroo.jp:443/announce
 https://pybittrack.retiolus.net:443/announce
-https://retracker.x2k.ru:443/announce
 https://retracker2.x2k.ru:443/announce
 https://t1.hloli.org/announce
 https://t1.hloli.org:443/announce
@@ -318,11 +304,11 @@ https://tr.burnabyhighstar.com/announce
 https://tr.burnabyhighstar.com:443/announce
 https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
+https://tr2.trkb.ru:443/announce
 https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.bjut.jp:443/announce
 https://tracker.bt4g.com/announce
 https://tracker.bt4g.com:443/announce
-https://tracker.cangku.moe/announce
 https://tracker.cloudit.top/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.gcrenwp.top:443/announce
@@ -345,7 +331,6 @@ https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 https://tracker.parrotsec.org/announce
 https://tracker.parrotsec.org:443/announce
 https://tracker.pmman.tech:443/announce
-https://tracker.projectk.org:443/announce
 https://tracker.pterclub.com/announce
 https://tracker.pterclub.com:443/announce
 https://tracker.renfei.net/announce
