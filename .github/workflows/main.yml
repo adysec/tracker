@@ -38,8 +38,9 @@ jobs:
           curl https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt >> trackers_all.txt
           curl https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/ATaria2_all.txt >> trackers_all.txt
           curl https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/ATline_all.txt >> trackers_all.txt
-          sort trackers_all.txt | uniq > tmp.txt
-          mv tmp.txt trackers_all.txt
+          bash format.sh trackers_all.txt
+          sort formatted_trackers.txt | uniq > trackers_all.txt
+          rm -rf formatted_trackers.txt
 
       - name: Test tracker availability
         shell: bash
