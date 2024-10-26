@@ -18,9 +18,10 @@ fi
 # 使用tr将逗号替换为换行符，然后使用grep和sed来处理文件
 # - 使用grep -oP 来匹配以http://, https://, udp://, wss://开头并且以/announce结尾的内容
 # - 不进行贪婪匹配
-# - 去除每行末尾的所有空格或制表符
+# - 使用sed来省略默认端口
 tr ',' '\n' < "$input_file" | \
 grep -oP '(http|https|udp|wss)://[^/]+/announce' | \
+sed -E 's#(http://[^/]+):80/announce#\1/announce#; s#(https://[^/]+):443/announce#\1/announce#' | \
 sed 's/[ \t]*$//' > "$output_file"
 
 echo "Formatted trackers have been saved to $output_file"
