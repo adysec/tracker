@@ -45,21 +45,7 @@ jobs:
       - name: Test tracker availability
         shell: bash
         run: |
-          > trackers_best.txt
-          while IFS= read -r tracker; do
-            if [[ "$tracker" == http* ]]; then
-              # Check HTTP/HTTPS tracker
-              if curl --connect-timeout 10 --max-time 10 -sI "$tracker" | grep -q "HTTP/"; then
-                echo "$tracker" >> trackers_best.txt
-              fi
-            elif [[ "$tracker" == udp* ]]; then
-              # Check UDP tracker
-              tracker_url=$(echo "$tracker" | sed 's/udp:\/\///')
-              if echo -n '' | nc -w 3 -u "${tracker_url%%:*}" "${tracker_url##*:}"; then
-                echo "$tracker" >> trackers_best.txt
-              fi
-            fi
-          done < trackers_all.txt
+          bash test_trackers.sh trackers_all.txt
 
       - name: Commit and Push changes
         run: |
