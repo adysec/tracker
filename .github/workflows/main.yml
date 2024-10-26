@@ -45,7 +45,7 @@ jobs:
       - name: Test tracker availability
         shell: bash
         run: |
-          wscat
+          sudo apt install node-ws -y
           bash test_trackers.sh trackers_all.txt
 
       - name: Commit and Push changes
