@@ -361,6 +361,7 @@ http://jsb.by00/announce
 http://jvavav.com/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com/announce
+http://kiryuu-test.mywaifu.best:6969/announce
 http://laxclax.ddns.net00/announce
 http://laxclax.ddns.net:8000/announce
 http://leidenfro.st:6969/announce
