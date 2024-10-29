@@ -206,6 +206,7 @@ http://83.6.211.179:6969/announce
 http://83.6.218.103:6969/announce
 http://83.6.220.156:6969/announce
 http://83.6.223.8:6969/announce
+http://83.6.225.109:6969/announce
 http://83.6.225.61:6969/announce
 http://83.6.226.63:6969/announce
 http://83.6.227.65:6969/announce
@@ -1007,6 +1008,8 @@ udp://27.151.84.136:2710/announce
 udp://27.151.84.136:6969/announce
 udp://27.151.84.148:2710/announce
 udp://27.151.84.148:6969/announce
+udp://27.151.84.240:2710/announce
+udp://27.151.84.240:6969/announce
 udp://27.151.84.97:2710/announce
 udp://27.151.84.97:6969/announce
 udp://27.155.140.161:2710/announce
@@ -1077,6 +1080,7 @@ udp://83.6.101.246:6969/announce
 udp://83.6.102.25:6969/announce
 udp://83.6.210.153:6969/announce
 udp://83.6.218.103:6969/announce
+udp://83.6.225.109:6969/announce
 udp://83.6.225.61:6969/announce
 udp://85.239.33.28:6969/announce
 udp://86.57.161.157:6969/announce
@@ -1240,6 +1244,7 @@ udp://jp.moeweb.pw:6969/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
 udp://keke.re:6969/announce
+udp://kiryuu-test.mywaifu.best:6969/announce
 udp://kokodayo.site:6969/announce
 udp://kristof.bartanet.cz:6969/announce
 udp://laszlo130.go.ro:6969/announce
