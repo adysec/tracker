@@ -74,6 +74,7 @@ http://177.172.61.236:6969/announce
 http://177.172.63.135:6969/announce
 http://179.100.24.134:6969/announce
 http://179.118.133.224:6969/announce
+http://179.175.247.60:6969/announce
 http://180.97.219.76:8070/announce
 http://181.214.58.63:6969/announce
 http://184.61.17.58:9000/announce
@@ -123,6 +124,7 @@ http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30/announce
 http://220.130.15.30:6969/announce
+http://222.84.20.42:6969/announce
 http://222.84.22.60:6969/announce
 http://222.84.23.109:6969/announce
 http://27.197.187.78:6969/announce
@@ -435,6 +437,7 @@ http://retracker01-msk-virt.corbina.net/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
+http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
 http://seeders-paradise.org/announce
 http://servandroidkino.ru/announce
@@ -926,6 +929,7 @@ udp://119.28.71.45:8080/announce
 udp://120.36.84.188:2710/announce
 udp://120.36.84.3:2710/announce
 udp://120.36.84.3:6969/announce
+udp://120.36.84.48:6969/announce
 udp://121.199.16.229:6969/announce
 udp://125.227.79.123:6969/announce
 udp://125.227.79.123:80/announce
@@ -1024,6 +1028,8 @@ udp://34.89.30.59:1337/announce
 udp://34.89.30.59:6969/announce
 udp://34.89.51.235:1337/announce
 udp://34.89.51.235:6969/announce
+udp://34.89.91.10:1337/announce
+udp://34.89.91.10:6969/announce
 udp://34.94.76.146:1337/announce
 udp://34.94.76.146:6969/announce
 udp://35.227.59.57:1337/announce
