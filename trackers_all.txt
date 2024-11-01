@@ -202,6 +202,7 @@ http://83.31.216.220:6969/announce
 http://83.31.219.73:6969/announce
 http://83.31.33.73:6969/announce
 http://83.6.101.246:6969/announce
+http://83.6.126.206:6969/announce
 http://83.6.208.20:6969/announce
 http://83.6.209.31:6969/announce
 http://83.6.210.153:6969/announce
@@ -400,6 +401,7 @@ http://open.nyaatorrents.info:6544/announce
 http://open.nyap2p.com:8080/announce
 http://open.stealth.si/announce
 http://open.touki.ru/announce
+http://open.tracker.cl:1337/announce
 http://open.tracker.ink:6969/announce
 http://open.trackerlist.xyz/announce
 http://open.va.wiki:900/announce
@@ -849,6 +851,7 @@ https://tracker.kitaujisub.site/announce
 https://tracker.kmzs123.cn/announce
 https://tracker.kmzs123.top/announce
 https://tracker.kuroy.me/announce
+https://tracker.leechshield.link/announce
 https://tracker.lelux.fi/announce
 https://tracker.lilithraws.cf/announce
 https://tracker.lilithraws.org/announce
@@ -930,6 +933,7 @@ udp://119.28.71.45:8080/announce
 udp://120.36.84.188:2710/announce
 udp://120.36.84.3:2710/announce
 udp://120.36.84.3:6969/announce
+udp://120.36.84.48:2710/announce
 udp://120.36.84.48:6969/announce
 udp://121.199.16.229:6969/announce
 udp://125.227.79.123:6969/announce
@@ -1086,6 +1090,7 @@ udp://83.31.206.43:6969/announce
 udp://83.31.208.37:6969/announce
 udp://83.6.101.246:6969/announce
 udp://83.6.102.25:6969/announce
+udp://83.6.126.206:6969/announce
 udp://83.6.210.153:6969/announce
 udp://83.6.218.103:6969/announce
 udp://83.6.225.109:6969/announce
@@ -1195,6 +1200,7 @@ udp://debuz.com:6969/announce
 udp://devops.gay:6969/announce
 udp://dex.email:6969/announce
 udp://dht.bt251.com:6969/announce
+udp://discord.heihachi.pw:6969/announce
 udp://dmitrynegoda.com:6969/announce
 udp://dns.xxtor.com:53/announce
 udp://download.nerocloud.me:6969/announce
@@ -1556,6 +1562,7 @@ udp://tracker2.wasabii.com.tw:6969/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://tracker4.leechshield.link:6969/announce
 udp://tracker6.lelux.fi:6969/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://ts.populargamers.co.za:6969/announce
