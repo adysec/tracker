@@ -137,6 +137,8 @@ http://34.89.30.59:2710/announce
 http://34.89.51.235/announce
 http://34.89.91.10/announce
 http://34.89.91.10:11450/announce
+http://34.89.91.10:1337/announce
+http://34.89.91.10:2710/announce
 http://34.89.91.10:443/announce
 http://34.89.91.10:6960/announce
 http://34.89.91.10:6969/announce
@@ -144,14 +146,17 @@ http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
 http://34.94.76.146/announce
+http://34.94.76.146:11450/announce
 http://34.94.76.146:2701/announce
 http://34.94.76.146:2710/announce
+http://34.94.76.146:443/announce
 http://34.94.76.146:6969/announce
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
 http://35.227.59.57/announce
 http://35.227.59.57:1337/announce
 http://35.227.59.57:2710/announce
+http://35.227.59.57:6960/announce
 http://35.227.59.57:6969/announce
 http://37.235.174.46:2710/announce
 http://38.145.197.79:6961/announce
@@ -1117,6 +1122,7 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://78.153.130.109:6969/announce
 udp://78.40.116.12:6969/announce
 udp://79.116.36.178:1234/announce
+udp://7p41a8967.wicp.vip:22222/announce
 udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
