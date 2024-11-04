@@ -17,6 +17,7 @@ http://107.189.7.143:6969/announce
 http://109.71.253.37:1096/announce
 http://11.rarbg.com/announce
 http://116.252.176.125:6969/announce
+http://116.5.146.84:6969/announce
 http://116.8.90.165:6969/announce
 http://116.8.90.240:6969/announce
 http://116.8.90.57:6969/announce
@@ -154,7 +155,9 @@ http://34.94.76.146:6969/announce
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
 http://35.227.59.57/announce
+http://35.227.59.57:11450/announce
 http://35.227.59.57:1337/announce
+http://35.227.59.57:2701/announce
 http://35.227.59.57:2710/announce
 http://35.227.59.57:6960/announce
 http://35.227.59.57:6969/announce
@@ -1121,6 +1124,7 @@ udp://68.193.189.231:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://78.153.130.109:6969/announce
 udp://78.40.116.12:6969/announce
+udp://79.116.148.61:1234/announce
 udp://79.116.36.178:1234/announce
 udp://7p41a8967.wicp.vip:22222/announce
 udp://82.156.24.219:6969/announce
