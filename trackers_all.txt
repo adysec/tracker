@@ -139,6 +139,7 @@ http://34.89.51.235/announce
 http://34.89.91.10/announce
 http://34.89.91.10:11450/announce
 http://34.89.91.10:1337/announce
+http://34.89.91.10:2701/announce
 http://34.89.91.10:2710/announce
 http://34.89.91.10:443/announce
 http://34.89.91.10:6960/announce
@@ -241,6 +242,7 @@ http://83.6.225.109:6969/announce
 http://83.6.225.61:6969/announce
 http://83.6.226.63:6969/announce
 http://83.6.227.65:6969/announce
+http://83.6.231.164:6969/announce
 http://83.6.231.40:6969/announce
 http://83.6.232.23:6969/announce
 http://83.6.234.75:6969/announce
@@ -991,6 +993,7 @@ udp://172.105.235.127:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.123.1.180:6969/announce
 udp://176.31.250.174:6969/announce
+udp://176.56.4.199:6969/announce
 udp://176.56.7.44:6969/announce
 udp://176.99.7.59:6969/announce
 udp://178.156.140.15:53/announce
@@ -1143,6 +1146,7 @@ udp://83.6.210.153:6969/announce
 udp://83.6.218.103:6969/announce
 udp://83.6.225.109:6969/announce
 udp://83.6.225.61:6969/announce
+udp://83.6.231.164:6969/announce
 udp://85.239.33.28:6969/announce
 udp://86.57.161.157:6969/announce
 udp://88.216.2.71:6969/announce
