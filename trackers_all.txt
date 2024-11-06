@@ -16,6 +16,7 @@ http://107.189.31.134:6969/announce
 http://107.189.7.143:6969/announce
 http://109.71.253.37:1096/announce
 http://11.rarbg.com/announce
+http://116.16.46.54:6969/announce
 http://116.252.176.125:6969/announce
 http://116.5.146.84:6969/announce
 http://116.8.90.165:6969/announce
@@ -152,6 +153,7 @@ http://34.94.76.146:11450/announce
 http://34.94.76.146:2701/announce
 http://34.94.76.146:2710/announce
 http://34.94.76.146:443/announce
+http://34.94.76.146:6960/announce
 http://34.94.76.146:6969/announce
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
@@ -1001,6 +1003,7 @@ udp://178.156.140.201:3074/announce
 udp://178.170.48.154:1337/announce
 udp://178.215.224.155:6969/announce
 udp://179.175.247.60:6969/announce
+udp://18.191.163.220:6969/announce
 udp://181.214.58.63:6969/announce
 udp://184.105.226.26:6969/announce
 udp://185.102.219.163:6969/announce
@@ -1064,6 +1067,7 @@ udp://27.151.84.97:2710/announce
 udp://27.151.84.97:6969/announce
 udp://27.155.140.161:2710/announce
 udp://27.155.140.161:6969/announce
+udp://27.155.140.80:2710/announce
 udp://27.155.140.98:2710/announce
 udp://27.155.140.98:6969/announce
 udp://27.155.141.232:2710/announce
@@ -1442,6 +1446,7 @@ udp://tk1.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
+udp://tk4.leechshield.link:6969/announce
 udp://torrent.fedoraproject.org:6969/announce
 udp://torrent.hificode.in:6969/announce
 udp://torrent.ubuntu.com:6969/announce
