@@ -150,6 +150,7 @@ http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
 http://34.94.76.146/announce
 http://34.94.76.146:11450/announce
+http://34.94.76.146:1337/announce
 http://34.94.76.146:2701/announce
 http://34.94.76.146:2710/announce
 http://34.94.76.146:443/announce
@@ -842,6 +843,7 @@ https://tr.qfruiti.com/announce
 https://tr.qfruiti.in/announce
 https://tr.ready4.icu/announce
 https://tr.torland.ga/announce
+https://tr.zukizuki.org/announce
 https://tr2.trkb.ru/announce
 https://track.solcloud.eu/announce
 https://track3r.site/announce
