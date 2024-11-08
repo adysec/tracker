@@ -207,6 +207,7 @@ http://51.81.200.170:6699/announce
 http://51.81.46.170:6969/announce
 http://52.70.94.249/announce
 http://54.39.98.124/announce
+http://59.32.95.15:6969/announce
 http://59.32.95.78:6969/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
