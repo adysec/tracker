@@ -80,6 +80,7 @@ http://179.100.24.134:6969/announce
 http://179.118.133.224:6969/announce
 http://179.175.247.60:6969/announce
 http://180.113.224.97:6969/announce
+http://180.113.227.211:6969/announce
 http://180.97.219.76:8070/announce
 http://181.214.58.63:6969/announce
 http://184.61.17.58:9000/announce
