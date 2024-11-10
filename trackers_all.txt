@@ -17,6 +17,7 @@ http://107.189.7.143:6969/announce
 http://109.71.253.37:1096/announce
 http://11.rarbg.com/announce
 http://116.16.46.54:6969/announce
+http://116.16.47.170:6969/announce
 http://116.252.176.125:6969/announce
 http://116.5.146.84:6969/announce
 http://116.8.90.165:6969/announce
@@ -971,6 +972,7 @@ udp://120.36.84.3:2710/announce
 udp://120.36.84.3:6969/announce
 udp://120.36.84.48:2710/announce
 udp://120.36.84.48:6969/announce
+udp://120.36.85.245:2710/announce
 udp://121.199.16.229:6969/announce
 udp://125.227.79.123:6969/announce
 udp://125.227.79.123:80/announce
