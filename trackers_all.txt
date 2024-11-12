@@ -166,6 +166,7 @@ http://35.227.59.57:11450/announce
 http://35.227.59.57:1337/announce
 http://35.227.59.57:2701/announce
 http://35.227.59.57:2710/announce
+http://35.227.59.57:443/announce
 http://35.227.59.57:6960/announce
 http://35.227.59.57:6969/announce
 http://37.235.174.46:2710/announce
