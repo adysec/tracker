@@ -231,6 +231,7 @@ http://79.137.198.96:6969/announce
 http://83.31.187.118:6969/announce
 http://83.31.190.19:6969/announce
 http://83.31.191.97:6969/announce
+http://83.31.194.79:6969/announce
 http://83.31.199.157:6969/announce
 http://83.31.206.43:6969/announce
 http://83.31.208.37:6969/announce
@@ -513,6 +514,7 @@ http://thitgaluoc.dynu.net:6969/announce
 http://tinfoil.space:6969/announce
 http://tk.cubicview.site/announce
 http://tk.greedland.net/announce
+http://tk.leechshield.link/announce
 http://tk.trojangogogo.site:8989/announce
 http://tk1.trackerservers.com:8080/announce
 http://tk1v6.trackerservers.com:8080/announce
@@ -905,6 +907,7 @@ https://tracker.madtia.cc/announce
 https://tracker.midnightprogrammer.net/announce
 https://tracker.mlsub.net/announce
 https://tracker.moeblog.cn/announce
+https://tracker.moeking.me/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moxing.party:6969/announce
 https://tracker.nanoha.org/announce
@@ -1155,6 +1158,7 @@ udp://83.146.104.232:6969/announce
 udp://83.146.81.79:6969/announce
 udp://83.146.98.78:6969/announce
 udp://83.31.187.118:6969/announce
+udp://83.31.194.79:6969/announce
 udp://83.31.206.43:6969/announce
 udp://83.31.208.37:6969/announce
 udp://83.6.101.246:6969/announce
