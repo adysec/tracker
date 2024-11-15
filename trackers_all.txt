@@ -18,6 +18,7 @@ http://109.71.253.37:1096/announce
 http://11.rarbg.com/announce
 http://116.16.46.54:6969/announce
 http://116.16.47.170:6969/announce
+http://116.16.47.172:6969/announce
 http://116.252.176.125:6969/announce
 http://116.5.146.84:6969/announce
 http://116.5.171.105:6969/announce
@@ -29,6 +30,7 @@ http://116.9.207.121:6969/announce
 http://116.9.207.164:6969/announce
 http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
+http://117.84.129.196:6969/announce
 http://119.28.71.45:8080/announce
 http://125.227.79.123/announce
 http://125.227.79.123:6969/announce
@@ -102,6 +104,7 @@ http://187.56.205.168:6969/announce
 http://187.56.205.90:6969/announce
 http://187.57.14.62:6969/announce
 http://189.0.196.51:6969/announce
+http://189.0.78.33:6969/announce
 http://189.110.233.96:6969/announce
 http://189.18.163.82:6969/announce
 http://192.3.165.191:6969/announce
@@ -249,6 +252,7 @@ http://83.6.210.153:6969/announce
 http://83.6.211.179:6969/announce
 http://83.6.218.103:6969/announce
 http://83.6.220.156:6969/announce
+http://83.6.223.155:6969/announce
 http://83.6.223.8:6969/announce
 http://83.6.225.109:6969/announce
 http://83.6.225.61:6969/announce
@@ -1032,6 +1036,7 @@ udp://185.44.82.25:1337/announce
 udp://185.87.45.163:6969/announce
 udp://186.10.170.97:1337/announce
 udp://186.10.181.5:1337/announce
+udp://189.0.78.33:6969/announce
 udp://190.146.242.81:6969/announce
 udp://192.95.46.115:6969/announce
 udp://193.233.161.213:6969/announce
@@ -1166,6 +1171,7 @@ udp://83.6.102.25:6969/announce
 udp://83.6.126.206:6969/announce
 udp://83.6.210.153:6969/announce
 udp://83.6.218.103:6969/announce
+udp://83.6.223.155:6969/announce
 udp://83.6.225.109:6969/announce
 udp://83.6.225.61:6969/announce
 udp://83.6.231.164:6969/announce
