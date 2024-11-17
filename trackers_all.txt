@@ -20,6 +20,7 @@ http://116.16.46.54:6969/announce
 http://116.16.47.170:6969/announce
 http://116.16.47.172:6969/announce
 http://116.252.176.125:6969/announce
+http://116.5.145.13:6969/announce
 http://116.5.146.84:6969/announce
 http://116.5.171.105:6969/announce
 http://116.8.90.165:6969/announce
@@ -734,6 +735,7 @@ http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://vps02.net.orel.ru/announce
 http://web.open-tracker.cf:6969/announce
 http://wegkxfcivgx.chickenkiller.com/announce
+http://wegkxfcivgx.ydns.eu/announce
 http://wepzone.net:6969/announce
 http://wg.mortis.me:6969/announce
 http://widemus.de:6969/announce
@@ -797,6 +799,7 @@ https://grifon.info:80/announce
 https://gwp2-v19.rinet.ru/announce
 https://hcbt.pp.ua/announce
 https://inferno.demonoid.is/announce
+https://ipv4.rer.lol:2710/announce
 https://ipv6.tracker.m-team.cc/announce
 https://jvavav.com/announce
 https://k.avc.cx/announce
