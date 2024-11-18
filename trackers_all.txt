@@ -246,6 +246,7 @@ http://83.31.216.220:6969/announce
 http://83.31.219.73:6969/announce
 http://83.31.33.73:6969/announce
 http://83.6.101.246:6969/announce
+http://83.6.124.215:6969/announce
 http://83.6.126.206:6969/announce
 http://83.6.208.20:6969/announce
 http://83.6.209.31:6969/announce
@@ -399,6 +400,7 @@ http://inferno.demonoid.ooo:3416/announce
 http://inferno.demonoid.ooo:3418/announce
 http://inferno.demonoid.ph:3392/announce
 http://inferno.demonoid.ph:3415/announce
+http://ipv4.rer.lol:2710/announce
 http://ipv4.tracker.harry.lu/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://ipv6.1337.cx:6969/announce
@@ -1062,6 +1064,8 @@ udp://209.141.59.25:6969/announce
 udp://211.23.142.127:6969/announce
 udp://211.75.210.220:6969/announce
 udp://211.75.29.254:6969/announce
+udp://211.97.119.117:2710/announce
+udp://211.97.119.117:6969/announce
 udp://212.237.53.230:6969/announce
 udp://212.60.5.147:2710/announce
 udp://212.60.5.203:2710/announce
@@ -1171,6 +1175,7 @@ udp://83.31.206.43:6969/announce
 udp://83.31.208.37:6969/announce
 udp://83.6.101.246:6969/announce
 udp://83.6.102.25:6969/announce
+udp://83.6.124.215:6969/announce
 udp://83.6.126.206:6969/announce
 udp://83.6.210.153:6969/announce
 udp://83.6.218.103:6969/announce
