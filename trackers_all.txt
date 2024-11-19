@@ -220,6 +220,7 @@ http://54.39.98.124/announce
 http://59.32.95.13:6969/announce
 http://59.32.95.15:6969/announce
 http://59.32.95.78:6969/announce
+http://59.32.95.85:6969/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.166.123:6969/announce
