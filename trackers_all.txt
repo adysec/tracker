@@ -933,6 +933,7 @@ https://tracker.pterclub.com/announce
 https://tracker.publictorrent.net/announce
 https://tracker.quix.cf/announce
 https://tracker.renfei.net/announce
+https://tracker.renfei.net:8080/announce
 https://tracker.sakurato.art:23334/announce
 https://tracker.shittyurl.org/announce
 https://tracker.skynetcloud.site:8443/announce
@@ -1067,6 +1068,8 @@ udp://211.75.210.220:6969/announce
 udp://211.75.29.254:6969/announce
 udp://211.97.119.117:2710/announce
 udp://211.97.119.117:6969/announce
+udp://211.97.119.98:2710/announce
+udp://211.97.119.98:6969/announce
 udp://212.237.53.230:6969/announce
 udp://212.60.5.147:2710/announce
 udp://212.60.5.203:2710/announce
