@@ -1070,6 +1070,7 @@ udp://211.75.29.254:6969/announce
 udp://211.97.119.117:2710/announce
 udp://211.97.119.117:6969/announce
 udp://211.97.119.6:2710/announce
+udp://211.97.119.6:6969/announce
 udp://211.97.119.98:2710/announce
 udp://211.97.119.98:6969/announce
 udp://212.237.53.230:6969/announce
@@ -1166,6 +1167,7 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://78.153.130.109:6969/announce
 udp://78.40.116.12:6969/announce
 udp://79.116.148.61:1234/announce
+udp://79.116.152.105:1234/announce
 udp://79.116.36.178:1234/announce
 udp://7p41a8967.wicp.vip:22222/announce
 udp://82.156.24.219:6969/announce
@@ -1396,6 +1398,7 @@ udp://oh.fuuuuuck.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.8a.is:6969/announce
+udp://open.deadorbit.nl:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
