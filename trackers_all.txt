@@ -101,6 +101,7 @@ http://185.230.4.150:1337/announce
 http://185.232.169.109/announce
 http://185.70.187.79:6969/announce
 http://186.10.170.97:1337/announce
+http://187.10.24.160:6969/announce
 http://187.56.163.73:6969/announce
 http://187.56.205.168:6969/announce
 http://187.56.205.90:6969/announce
@@ -220,6 +221,7 @@ http://52.70.94.249/announce
 http://54.39.98.124/announce
 http://59.32.95.13:6969/announce
 http://59.32.95.15:6969/announce
+http://59.32.95.248:6969/announce
 http://59.32.95.78:6969/announce
 http://59.32.95.85:6969/announce
 http://61.216.109.95:6969/announce
@@ -827,6 +829,7 @@ https://seeders-paradise.org/announce
 https://shahidrazi.online/announce
 https://socket.onvo.me/announce
 https://sparkle.ghostchu-services.top/announce
+https://t.213891.xyz/announce
 https://t.btcland.xyz/announce
 https://t.peer-exchange.download/announce
 https://t.quic.ws/announce
@@ -980,6 +983,7 @@ udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://107.189.11.58:6969/announce
+udp://108.61.166.249:6969/announce
 udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
 udp://116.202.49.58:6969/announce
@@ -1044,6 +1048,7 @@ udp://185.44.82.25:1337/announce
 udp://185.87.45.163:6969/announce
 udp://186.10.170.97:1337/announce
 udp://186.10.181.5:1337/announce
+udp://187.10.24.160:6969/announce
 udp://189.0.78.33:6969/announce
 udp://190.146.242.81:6969/announce
 udp://192.95.46.115:6969/announce
@@ -1069,6 +1074,8 @@ udp://211.75.210.220:6969/announce
 udp://211.75.29.254:6969/announce
 udp://211.97.119.117:2710/announce
 udp://211.97.119.117:6969/announce
+udp://211.97.119.63:2710/announce
+udp://211.97.119.63:6969/announce
 udp://211.97.119.6:2710/announce
 udp://211.97.119.6:6969/announce
 udp://211.97.119.98:2710/announce
