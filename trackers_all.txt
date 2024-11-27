@@ -17,6 +17,7 @@ http://107.189.7.143:6969/announce
 http://109.71.253.37:1096/announce
 http://11.rarbg.com/announce
 http://116.16.41.96:6969/announce
+http://116.16.42.86:6969/announce
 http://116.16.46.54:6969/announce
 http://116.16.47.170:6969/announce
 http://116.16.47.172:6969/announce
