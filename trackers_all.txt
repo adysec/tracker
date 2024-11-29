@@ -18,6 +18,7 @@ http://109.71.253.37:1096/announce
 http://11.rarbg.com/announce
 http://116.16.41.96:6969/announce
 http://116.16.42.86:6969/announce
+http://116.16.45.177:6969/announce
 http://116.16.46.54:6969/announce
 http://116.16.47.170:6969/announce
 http://116.16.47.172:6969/announce
@@ -266,6 +267,7 @@ http://83.6.225.109:6969/announce
 http://83.6.225.61:6969/announce
 http://83.6.226.63:6969/announce
 http://83.6.227.65:6969/announce
+http://83.6.231.132:6969/announce
 http://83.6.231.164:6969/announce
 http://83.6.231.40:6969/announce
 http://83.6.232.23:6969/announce
@@ -1202,6 +1204,7 @@ udp://83.6.218.103:6969/announce
 udp://83.6.223.155:6969/announce
 udp://83.6.225.109:6969/announce
 udp://83.6.225.61:6969/announce
+udp://83.6.231.132:6969/announce
 udp://83.6.231.164:6969/announce
 udp://85.239.33.28:6969/announce
 udp://86.57.161.157:6969/announce
@@ -1218,6 +1221,7 @@ udp://9.rarbg.com:2810/announce
 udp://9.rarbg.me:2770/announce
 udp://9.rarbg.me:2790/announce
 udp://9.rarbg.to:2740/announce
+udp://91.208.197.19:6969/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.52:451/announce
 udp://91.216.110.53:451/announce
