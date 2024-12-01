@@ -87,6 +87,7 @@ http://173.254.204.71:1096/announce
 http://176.32.38.223:6961/announce
 http://177.172.61.236:6969/announce
 http://177.172.63.135:6969/announce
+http://177.172.66.120:6969/announce
 http://179.100.24.134:6969/announce
 http://179.118.133.224:6969/announce
 http://179.175.247.60:6969/announce
@@ -223,6 +224,7 @@ http://51.81.200.170:6699/announce
 http://51.81.46.170:6969/announce
 http://52.70.94.249/announce
 http://54.39.98.124/announce
+http://59.32.95.136:6969/announce
 http://59.32.95.13:6969/announce
 http://59.32.95.15:6969/announce
 http://59.32.95.248:6969/announce
@@ -1034,6 +1036,7 @@ udp://176.32.38.223:6961/announce
 udp://176.56.4.199:6969/announce
 udp://176.56.7.44:6969/announce
 udp://176.99.7.59:6969/announce
+udp://177.172.66.120:6969/announce
 udp://178.156.140.15:53/announce
 udp://178.156.140.201:3074/announce
 udp://178.170.48.154:1337/announce
@@ -1650,6 +1653,7 @@ udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.trojangogogo.site:8080/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.valete.tf:9999/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.vraphim.com:6969/announce
