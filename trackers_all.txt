@@ -1163,6 +1163,7 @@ udp://5.181.188.172:1337/announce
 udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://5.255.124.190:6969/announce
+udp://504e163a.host.njalla.net:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
 udp://51.15.41.46:6969/announce
@@ -1183,6 +1184,7 @@ udp://62.210.114.129:6969/announce
 udp://64.23.195.62:6969/announce
 udp://65.108.102.76:6969/announce
 udp://68.193.189.231:6969/announce
+udp://69.30.224.166:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://78.153.130.109:6969/announce
 udp://78.40.116.12:6969/announce
