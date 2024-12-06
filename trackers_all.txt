@@ -897,6 +897,7 @@ https://tracker.cangku.moe/announce
 https://tracker.cloudit.top/announce
 https://tracker.crawfish.cf/announce
 https://tracker.cyber-hub.net/announce
+https://tracker.dev-null.rocks/announce
 https://tracker.dmhy.pw/announce
 https://tracker.dnlab.net/announce
 https://tracker.expli.top/announce
@@ -1676,6 +1677,7 @@ udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce
 udp://tracker.ykat.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
