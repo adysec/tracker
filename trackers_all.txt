@@ -252,6 +252,7 @@ http://83.31.199.157:6969/announce
 http://83.31.206.43:6969/announce
 http://83.31.208.37:6969/announce
 http://83.31.209.3:6969/announce
+http://83.31.210.200:6969/announce
 http://83.31.211.243:6969/announce
 http://83.31.212.134:6969/announce
 http://83.31.215.174:6969/announce
@@ -908,6 +909,7 @@ https://tracker.fr.eu.org/announce
 https://tracker.gbitt.info/announce
 https://tracker.gcrenwp.top/announce
 https://tracker.gcrreen.xyz/announce
+https://tracker.guguan.us.kg/announce
 https://tracker.h3o2.me/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.ipfsscan.io/announce
@@ -1208,6 +1210,7 @@ udp://83.31.187.118:6969/announce
 udp://83.31.194.79:6969/announce
 udp://83.31.206.43:6969/announce
 udp://83.31.208.37:6969/announce
+udp://83.31.210.200:6969/announce
 udp://83.31.215.174:6969/announce
 udp://83.6.101.246:6969/announce
 udp://83.6.102.25:6969/announce
