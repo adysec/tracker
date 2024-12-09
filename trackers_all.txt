@@ -89,6 +89,7 @@ http://176.32.38.223:6961/announce
 http://177.172.61.236:6969/announce
 http://177.172.63.135:6969/announce
 http://177.172.66.120:6969/announce
+http://177.215.67.165:6969/announce
 http://179.100.24.134:6969/announce
 http://179.118.133.224:6969/announce
 http://179.175.247.60:6969/announce
@@ -260,6 +261,7 @@ http://83.31.216.220:6969/announce
 http://83.31.219.73:6969/announce
 http://83.31.33.73:6969/announce
 http://83.5.10.83:6969/announce
+http://83.5.56.81:6969/announce
 http://83.6.101.246:6969/announce
 http://83.6.124.215:6969/announce
 http://83.6.126.206:6969/announce
@@ -1045,6 +1047,7 @@ udp://176.56.4.199:6969/announce
 udp://176.56.7.44:6969/announce
 udp://176.99.7.59:6969/announce
 udp://177.172.66.120:6969/announce
+udp://177.215.67.165:6969/announce
 udp://178.156.140.15:53/announce
 udp://178.156.140.201:3074/announce
 udp://178.170.48.154:1337/announce
@@ -1199,6 +1202,7 @@ udp://79.116.148.61:1234/announce
 udp://79.116.152.105:1234/announce
 udp://79.116.36.178:1234/announce
 udp://79.117.113.253:1234/announce
+udp://79.117.28.48:1234/announce
 udp://7p41a8967.wicp.vip:22222/announce
 udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
@@ -1214,6 +1218,7 @@ udp://83.31.208.37:6969/announce
 udp://83.31.210.200:6969/announce
 udp://83.31.215.174:6969/announce
 udp://83.5.10.83:6969/announce
+udp://83.5.56.81:6969/announce
 udp://83.6.101.246:6969/announce
 udp://83.6.102.25:6969/announce
 udp://83.6.124.215:6969/announce
