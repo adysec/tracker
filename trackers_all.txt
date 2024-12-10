@@ -1198,6 +1198,7 @@ udp://69.30.224.166:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://78.153.130.109:6969/announce
 udp://78.40.116.12:6969/announce
+udp://79.116.13.63:1234/announce
 udp://79.116.148.61:1234/announce
 udp://79.116.152.105:1234/announce
 udp://79.116.36.178:1234/announce
