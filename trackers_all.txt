@@ -262,6 +262,7 @@ http://83.31.219.73:6969/announce
 http://83.31.33.73:6969/announce
 http://83.5.10.83:6969/announce
 http://83.5.56.81:6969/announce
+http://83.5.65.212:6969/announce
 http://83.6.101.246:6969/announce
 http://83.6.124.215:6969/announce
 http://83.6.126.206:6969/announce
@@ -1201,6 +1202,7 @@ udp://78.40.116.12:6969/announce
 udp://79.116.13.63:1234/announce
 udp://79.116.148.61:1234/announce
 udp://79.116.152.105:1234/announce
+udp://79.116.155.14:1234/announce
 udp://79.116.36.178:1234/announce
 udp://79.117.113.253:1234/announce
 udp://79.117.28.48:1234/announce
@@ -1220,6 +1222,7 @@ udp://83.31.210.200:6969/announce
 udp://83.31.215.174:6969/announce
 udp://83.5.10.83:6969/announce
 udp://83.5.56.81:6969/announce
+udp://83.5.65.212:6969/announce
 udp://83.6.101.246:6969/announce
 udp://83.6.102.25:6969/announce
 udp://83.6.124.215:6969/announce
@@ -1488,6 +1491,7 @@ udp://retracker.lanta-net.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://rfc5746.mywaifu.best:6969/announce
+udp://rt.tace.ru:6969/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
