@@ -29,15 +29,27 @@ jobs:
           curl https://raw.githubusercontent.com/chenjia404/CnTrackersList/master/all.txt >> trackers_all.txt
           curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/trackerslist_tracker.txt >> trackers_all.txt
           curl https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt >> trackers_all.txt
-          curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/refs/heads/main/trackerslist_combine.txt >> trackers_all.txt
-          curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/refs/heads/main/trackerslist_combine_aria2.txt >> trackers_all.txt
-          curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/refs/heads/main/trackerslist_exclude.txt >> trackers_all.txt
-          curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/refs/heads/main/trackerslist_exclude_aria2.txt >> trackers_all.txt
-          curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/refs/heads/main/trackerslist_tracker.txt >> trackers_all.txt
-          curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/refs/heads/main/trackerslist_tracker_aria2.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/Tunglies/TrackersList/refs/heads/main/all.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/trackerslist_combine.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/trackerslist_combine_aria2.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/trackerslist_exclude.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/trackerslist_exclude_aria2.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/trackerslist_tracker.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/trackerslist_tracker_aria2.txt >> trackers_all.txt
           curl https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt >> trackers_all.txt
           curl https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/ATaria2_all.txt >> trackers_all.txt
           curl https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/ATline_all.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/kn007/patch/refs/heads/master/trackers.list >> trackers_all.txt
+          curl https://raw.githubusercontent.com/kkkgo/all-tracker-list/main/trackerslist.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/dr5hx/tracker_merge/master/all.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/phiyuki/Tracker/main/main/trackers.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/Sinnar0047/trackerslist/master/trackers_all.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/roxio/LongTrackerList/main/2024_Trackers_ALL.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/Sereinfy/TrackersList/main/main/trackers.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/BoxMiao007/Library/main/Trackers/trackers.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/wcj343169893/Trackerslist/main/trackerslist_exclude.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/wcj343169893/Trackerslist/main/trackerslist_combine.txt >> trackers_all.txt
+          curl https://raw.githubusercontent.com/wcj343169893/Trackerslist/main/trackerslist_tracker.txt >> trackers_all.txt
           bash format.sh trackers_all.txt
           sort formatted_trackers.txt | uniq > trackers_all.txt
           rm -rf formatted_trackers.txt
