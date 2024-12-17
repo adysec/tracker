@@ -141,6 +141,7 @@ http://195.123.209.37:1337/announce
 http://198.251.84.144/announce
 http://1c.premierzal.ru:6969/announce
 http://200.170.109.89:6969/announce
+http://200.170.113.35:6969/announce
 http://200.232.254.1:6969/announce
 http://201.42.214.55:6969/announce
 http://201.43.209.254:6969/announce
@@ -1257,6 +1258,7 @@ udp://195.123.209.37:1337/announce
 udp://195.123.209.40:80/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
+udp://200.170.113.35:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
