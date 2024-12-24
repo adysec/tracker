@@ -280,6 +280,7 @@ http://83.31.187.118:6969/announce
 http://83.31.190.19:6969/announce
 http://83.31.191.97:6969/announce
 http://83.31.193.194:6969/announce
+http://83.31.194.235:6969/announce
 http://83.31.194.79:6969/announce
 http://83.31.199.157:6969/announce
 http://83.31.206.43:6969/announce
@@ -1410,6 +1411,7 @@ udp://83.146.81.79:6969/announce
 udp://83.146.98.78:6969/announce
 udp://83.31.187.118:6969/announce
 udp://83.31.193.194:6969/announce
+udp://83.31.194.235:6969/announce
 udp://83.31.194.79:6969/announce
 udp://83.31.206.43:6969/announce
 udp://83.31.208.37:6969/announce
@@ -1433,6 +1435,7 @@ udp://83.6.231.132:6969/announce
 udp://83.6.231.164:6969/announce
 udp://85.17.19.180:80/announce
 udp://85.239.33.28:6969/announce
+udp://86.127.250.81:1234/announce
 udp://86.57.161.157:6969/announce
 udp://88.216.2.71:6969/announce
 udp://88.80.28.7:6969/announce
