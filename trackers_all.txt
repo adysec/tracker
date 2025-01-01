@@ -1186,6 +1186,7 @@ udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://107.189.11.58:6969/announce
+udp://108.53.194.223:6969/announce
 udp://108.61.166.249:6969/announce
 udp://109.121.134.121:1337/announce
 udp://109.201.134.183:80/announce
@@ -1536,6 +1537,7 @@ udp://bandito.byterunner.io:6969/announce
 udp://bclearning.top:6969/announce
 udp://bedro.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
+udp://betelgeuse.freeddns.org:6969/announce
 udp://bigfoot1942.sektori.org:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://black-bird.ynh.fr:6969/announce
