@@ -133,6 +133,7 @@ http://189.0.196.51:6969/announce
 http://189.0.78.33:6969/announce
 http://189.110.233.96:6969/announce
 http://189.18.163.82:6969/announce
+http://189.18.97.116:6969/announce
 http://191.255.155.138:6969/announce
 http://191.255.155.187:6969/announce
 http://192.3.165.191:6969/announce
@@ -439,6 +440,7 @@ http://derpyradio.net:6969/announce
 http://dht.dhtclub.com:666/announce
 http://dn42.smrsh.net:6969/announce
 http://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+http://echostar.ddnsfree.com:8080/announce
 http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
 http://fe.dealclub.de:6969/announce
@@ -1270,6 +1272,7 @@ udp://186.10.181.5:1337/announce
 udp://187.10.24.160:6969/announce
 udp://188.165.253.109:1337/announce
 udp://189.0.78.33:6969/announce
+udp://189.18.97.116:6969/announce
 udp://190.146.242.81:6969/announce
 udp://191.101.229.236:1337/announce
 udp://191.255.155.138:6969/announce
