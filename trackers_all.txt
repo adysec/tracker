@@ -1040,6 +1040,7 @@ https://track3r.site/announce
 https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker.3moredays.com/announce
 https://tracker.4.babico.name.tr/announce
+https://tracker.aburaya.live/announce
 https://tracker.acgnx.se/announce
 https://tracker.aletorrenty.pl:2710/announce
 https://tracker.amelia.fun/announce
@@ -1274,6 +1275,7 @@ udp://187.10.24.160:6969/announce
 udp://188.165.253.109:1337/announce
 udp://189.0.78.33:6969/announce
 udp://189.18.97.116:6969/announce
+udp://189.69.168.180:6969/announce
 udp://190.146.242.81:6969/announce
 udp://191.101.229.236:1337/announce
 udp://191.255.155.138:6969/announce
@@ -1595,6 +1597,7 @@ udp://cutiegirl.ru:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
 udp://daveking.com:6969/announce
 udp://db.koikia.eu:6969/announce
