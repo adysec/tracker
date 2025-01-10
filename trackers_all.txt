@@ -122,6 +122,7 @@ http://185.232.169.109/announce
 http://185.5.97.139:8089/announce
 http://185.70.187.79:6969/announce
 http://186.10.170.119:1337/announce
+http://186.10.170.71:1337/announce
 http://186.10.170.97:1337/announce
 http://187.10.24.160:6969/announce
 http://187.56.163.73:6969/announce
