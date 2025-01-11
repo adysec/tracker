@@ -128,6 +128,7 @@ http://187.10.24.160:6969/announce
 http://187.56.163.73:6969/announce
 http://187.56.205.168:6969/announce
 http://187.56.205.90:6969/announce
+http://187.56.205.91:6969/announce
 http://187.57.14.62:6969/announce
 http://188.165.253.109:1337/announce
 http://189.0.196.51:6969/announce
@@ -1271,9 +1272,11 @@ udp://185.5.97.139:8089/announce
 udp://185.86.149.205:1337/announce
 udp://185.87.45.163:6969/announce
 udp://186.10.170.119:1337/announce
+udp://186.10.170.71:1337/announce
 udp://186.10.170.97:1337/announce
 udp://186.10.181.5:1337/announce
 udp://187.10.24.160:6969/announce
+udp://187.56.205.91:6969/announce
 udp://188.165.253.109:1337/announce
 udp://189.0.78.33:6969/announce
 udp://189.18.97.116:6969/announce
@@ -1434,6 +1437,7 @@ udp://78.30.254.12:2710/announce
 udp://78.40.116.12:6969/announce
 udp://79.116.13.63:1234/announce
 udp://79.116.148.61:1234/announce
+udp://79.116.150.234:1234/announce
 udp://79.116.152.105:1234/announce
 udp://79.116.155.14:1234/announce
 udp://79.116.36.178:1234/announce
@@ -1813,6 +1817,7 @@ udp://theodoric.fr:6969/announce
 udp://thetracker.org:80/announce
 udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
+udp://tinfoil.space:6969/announce
 udp://tk.cubicview.site:80/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
