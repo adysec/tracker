@@ -1450,6 +1450,7 @@ udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
 udp://83.146.104.109:6969/announce
 udp://83.146.104.232:6969/announce
+udp://83.146.104.30:6969/announce
 udp://83.146.81.79:6969/announce
 udp://83.146.98.78:6969/announce
 udp://83.31.187.118:6969/announce
