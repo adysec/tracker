@@ -15,6 +15,7 @@ http://106.14.254.164:6969/announce
 http://107.150.14.110:6969/announce
 http://107.152.127.9:6969/announce
 http://107.189.10.20.sslip.io:7777/announce
+http://107.189.2.131:1337/announce
 http://107.189.31.134:6969/announce
 http://107.189.7.143:6969/announce
 http://109.121.134.121:1337/announce
@@ -300,6 +301,7 @@ http://83.31.211.243:6969/announce
 http://83.31.212.134:6969/announce
 http://83.31.215.174:6969/announce
 http://83.31.216.220:6969/announce
+http://83.31.219.138:6969/announce
 http://83.31.219.73:6969/announce
 http://83.31.32.122:6969/announce
 http://83.31.33.73:6969/announce
@@ -678,6 +680,7 @@ http://tracker.computel.fr/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.corpscorp.online/announce
 http://tracker.cubicview.site/announce
+http://tracker.darkness.services:6969/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
@@ -1197,6 +1200,7 @@ udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://107.189.11.58:6969/announce
+udp://107.189.2.131:1337/announce
 udp://108.53.194.223:6969/announce
 udp://108.61.166.249:6969/announce
 udp://109.121.134.121:1337/announce
@@ -1463,6 +1467,7 @@ udp://83.31.206.43:6969/announce
 udp://83.31.208.37:6969/announce
 udp://83.31.210.200:6969/announce
 udp://83.31.215.174:6969/announce
+udp://83.31.219.138:6969/announce
 udp://83.31.32.122:6969/announce
 udp://83.5.10.83:6969/announce
 udp://83.5.56.81:6969/announce
