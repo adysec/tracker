@@ -46,6 +46,7 @@ http://116.9.207.164:6969/announce
 http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
 http://117.84.129.196:6969/announce
+http://118.163.198.106:6969/announce
 http://119.28.71.45:8080/announce
 http://125.227.35.196:6969/announce
 http://125.227.79.123/announce
@@ -1244,6 +1245,7 @@ udp://116.202.49.58:6969/announce
 udp://116.8.91.159:6969/announce
 udp://117.29.108.251:2710/announce
 udp://117.29.108.251:6969/announce
+udp://118.163.198.106:6969/announce
 udp://119.28.71.45:8080/announce
 udp://120.36.84.188:2710/announce
 udp://120.36.84.3:2710/announce
