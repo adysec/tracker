@@ -277,6 +277,7 @@ http://59.32.95.78:6969/announce
 http://59.32.95.85:6969/announce
 http://59.36.96.77:6969/announce
 http://5rt.tace.ru:60889/announce
+http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
@@ -1465,6 +1466,7 @@ udp://52.58.128.163:6969/announce
 udp://54.39.48.3:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
+udp://60.249.37.20:80/announce
 udp://61.216.149.33:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.138.18.152:6969/announce
