@@ -1190,6 +1190,7 @@ https://tracker.tvunderground.org.ru:3218/announce
 https://tracker.uraniumhexafluori.de/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.vectahosting.eu:8443/announce
+https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 https://tracker.yemekyedim.com/announce
 https://tracker.yoshi210.com:6969/announce
