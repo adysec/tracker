@@ -1136,6 +1136,7 @@ https://tracker.kicks-ass.net/announce
 https://tracker.kicks-ass.net:80/announce
 https://tracker.kitaujisub.site/announce
 https://tracker.kmzs123.cn/announce
+https://tracker.kmzs123.com/announce
 https://tracker.kmzs123.top/announce
 https://tracker.kuroy.me/announce
 https://tracker.kuroy.me:5944/announce
@@ -1231,6 +1232,7 @@ udp://0205.uptm.ch:6969/announce
 udp://10.rarbg.com/announce
 udp://10.rarbg.com:6969/announce
 udp://103.122.21.50:6969/announce
+udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://104.238.198.186:8000/announce
@@ -1985,6 +1987,7 @@ udp://tracker.kicks-ass.net:80/announce
 udp://tracker.kmzs123.cf:17272/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.kmzs123.com:17272/announce
+udp://tracker.kmzs123.com:443/announce
 udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://tracker.kuroy.me:5944/announce
