@@ -42,6 +42,7 @@ http://116.8.90.57:6969/announce
 http://116.8.91.159:6969/announce
 http://116.8.91.220:6969/announce
 http://116.8.91.6:6969/announce
+http://116.8.91.71:6969/announce
 http://116.9.207.121:6969/announce
 http://116.9.207.164:6969/announce
 http://116.9.207.198:6969/announce
@@ -287,6 +288,7 @@ http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
+http://61.216.165.60:6969/announce
 http://61.216.166.123:6969/announce
 http://61.222.178.227:6969/announce
 http://61.222.178.254:6969/announce
@@ -933,6 +935,7 @@ https://81.200.2.231/announce
 https://85.17.19.180/announce
 https://87.248.186.252:8080/announce
 https://87.253.152.137/announce
+https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com/announce
 https://91.216.110.47/announce
 https://91.217.91.21:3218/announce
 https://91.218.230.81:6969/announce
@@ -1490,6 +1493,7 @@ udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://60.249.37.20:80/announce
 udp://61.216.149.33:6969/announce
+udp://61.216.165.60:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.138.18.152:6969/announce
 udp://62.171.188.15:6666/announce
