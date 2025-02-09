@@ -347,6 +347,7 @@ http://83.6.225.109:6969/announce
 http://83.6.225.61:6969/announce
 http://83.6.226.63:6969/announce
 http://83.6.227.65:6969/announce
+http://83.6.230.142:6969/announce
 http://83.6.231.132:6969/announce
 http://83.6.231.164:6969/announce
 http://83.6.231.40:6969/announce
@@ -961,6 +962,7 @@ https://bt.henbt.com:2710/announce
 https://bt.nfshost.com/announce
 https://bt.ptlsp.com/announce
 https://bt.pusacg.org:8080/announce
+https://bt2.080609.xyz/announce
 https://bt2.careland.com.cn:6969/announce
 https://carapax.net/announce
 https://carbon-bonsai-621.appspot.com/announce
@@ -1562,6 +1564,7 @@ udp://83.6.222.32:6969/announce
 udp://83.6.223.155:6969/announce
 udp://83.6.225.109:6969/announce
 udp://83.6.225.61:6969/announce
+udp://83.6.230.142:6969/announce
 udp://83.6.231.132:6969/announce
 udp://83.6.231.164:6969/announce
 udp://85.17.19.180:80/announce
