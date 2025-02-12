@@ -36,6 +36,7 @@ http://116.5.146.84:6969/announce
 http://116.5.170.2:6969/announce
 http://116.5.171.105:6969/announce
 http://116.8.90.165:6969/announce
+http://116.8.90.213:6969/announce
 http://116.8.90.240:6969/announce
 http://116.8.90.54:6969/announce
 http://116.8.90.57:6969/announce
@@ -105,6 +106,7 @@ http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
 http://173.254.204.71:1096/announce
 http://176.32.38.223:6961/announce
+http://177.144.178.39:6969/announce
 http://177.172.61.236:6969/announce
 http://177.172.63.135:6969/announce
 http://177.172.66.120:6969/announce
@@ -292,6 +294,8 @@ http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.165.60:6969/announce
 http://61.216.166.123:6969/announce
+http://61.221.26.18/announce
+http://61.221.26.18:6969/announce
 http://61.222.178.227:6969/announce
 http://61.222.178.254:6969/announce
 http://62.182.85.138:666/announce
@@ -1314,6 +1318,7 @@ udp://176.32.38.223:6961/announce
 udp://176.56.4.199:6969/announce
 udp://176.56.7.44:6969/announce
 udp://176.99.7.59:6969/announce
+udp://177.144.178.39:6969/announce
 udp://177.172.66.120:6969/announce
 udp://177.172.66.210:6969/announce
 udp://177.215.67.165:6969/announce
@@ -1502,6 +1507,8 @@ udp://60.249.37.20:6969/announce
 udp://60.249.37.20:80/announce
 udp://61.216.149.33:6969/announce
 udp://61.216.165.60:6969/announce
+udp://61.221.26.18:6969/announce
+udp://61.221.26.18:80/announce
 udp://62.138.0.158:6969/announce
 udp://62.138.18.152:6969/announce
 udp://62.171.188.15:6666/announce
