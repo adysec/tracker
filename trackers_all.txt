@@ -1535,6 +1535,7 @@ udp://79.116.26.57:1234/announce
 udp://79.116.36.178:1234/announce
 udp://79.117.113.253:1234/announce
 udp://79.117.124.172:1234/announce
+udp://79.117.133.1:1234/announce
 udp://79.117.28.48:1234/announce
 udp://79.117.5.107:1234/announce
 udp://7p41a8967.wicp.vip:22222/announce
