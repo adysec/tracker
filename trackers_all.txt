@@ -294,6 +294,7 @@ http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
+http://61.216.165.60/announce
 http://61.216.165.60:6969/announce
 http://61.216.166.123:6969/announce
 http://61.221.26.18/announce
@@ -1270,6 +1271,7 @@ udp://11.rarbg.com:80/announce
 udp://111.90.151.241:6969/announce
 udp://114.55.113.60:6969/announce
 udp://116.202.49.58:6969/announce
+udp://116.8.90.241:6969/announce
 udp://116.8.91.159:6969/announce
 udp://116.8.91.220:6969/announce
 udp://116.8.91.71:6969/announce
@@ -1509,6 +1511,7 @@ udp://60.249.37.20:6969/announce
 udp://60.249.37.20:80/announce
 udp://61.216.149.33:6969/announce
 udp://61.216.165.60:6969/announce
+udp://61.216.165.60:80/announce
 udp://61.221.26.18:6969/announce
 udp://61.221.26.18:80/announce
 udp://62.138.0.158:6969/announce
@@ -2035,6 +2038,7 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.leena.network:6969/announce
 udp://tracker.lelux.fi:6969/announce
+udp://tracker.linvk.com:6969/announce
 udp://tracker.loadbt.com:6969/announce
 udp://tracker.lyretain.site:2710/announce
 udp://tracker.merded.xyz:8000/announce
