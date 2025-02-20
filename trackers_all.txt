@@ -71,6 +71,7 @@ http://147job.com:6969/announce
 http://148.252.75.241:6969/announce
 http://15.204.57.168:6969/announce
 http://151.115.49.115:1337/announce
+http://152.231.114.120:1337/announce
 http://152.249.214.53:6969/announce
 http://152.249.75.131:6969/announce
 http://152.249.97.159:6969/announce
@@ -1313,6 +1314,7 @@ udp://15.204.205.14:6969/announce
 udp://15.204.56.171:6969/announce
 udp://15.204.57.168:6969/announce
 udp://151.80.120.114:2710/announce
+udp://152.231.114.120:1337/announce
 udp://152.249.214.53:6969/announce
 udp://156.234.201.18:80/announce
 udp://157.131.124.190:6969/announce
@@ -1529,6 +1531,7 @@ udp://61.221.26.18:6969/announce
 udp://61.221.26.18:80/announce
 udp://62.138.0.158:6969/announce
 udp://62.138.18.152:6969/announce
+udp://62.165.63.187:6969/announce
 udp://62.171.188.15:6666/announce
 udp://62.210.114.129:6969/announce
 udp://62.212.85.66:2710/announce
@@ -1549,6 +1552,7 @@ udp://79.116.152.105:1234/announce
 udp://79.116.155.14:1234/announce
 udp://79.116.26.57:1234/announce
 udp://79.116.36.178:1234/announce
+udp://79.116.53.222:1234/announce
 udp://79.117.113.253:1234/announce
 udp://79.117.124.172:1234/announce
 udp://79.117.133.1:1234/announce
