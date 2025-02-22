@@ -203,6 +203,7 @@ http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30/announce
 http://220.130.15.30:6969/announce
+http://222.216.138.211:6969/announce
 http://222.216.139.165:6969/announce
 http://222.216.139.217:6969/announce
 http://222.84.20.42:6969/announce
@@ -1365,6 +1366,7 @@ udp://186.10.170.71:1337/announce
 udp://186.10.170.97:1337/announce
 udp://186.10.181.5:1337/announce
 udp://187.10.24.160:6969/announce
+udp://187.56.163.140:6969/announce
 udp://187.56.205.91:6969/announce
 udp://188.165.253.109:1337/announce
 udp://189.0.78.33:6969/announce
