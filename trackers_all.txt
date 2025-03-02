@@ -368,6 +368,7 @@ http://83.6.225.61:6969/announce
 http://83.6.226.63:6969/announce
 http://83.6.227.65:6969/announce
 http://83.6.230.142:6969/announce
+http://83.6.230.177:6969/announce
 http://83.6.231.132:6969/announce
 http://83.6.231.164:6969/announce
 http://83.6.231.40:6969/announce
@@ -1099,6 +1100,7 @@ https://tr2.trkb.ru/announce
 https://track.solcloud.eu/announce
 https://track3r.site/announce
 https://tracker-zhuqiy.dgj055.icu/announce
+https://tracker-zhuqiy.xn--1r3au8b.space/announce
 https://tracker.3moredays.com/announce
 https://tracker.4.babico.name.tr/announce
 https://tracker.aburaya.live/announce
@@ -1230,6 +1232,7 @@ https://tracker.wsaoa.eu.org/announce
 https://tracker.yarr.pt/announce
 https://tracker.yemekyedim.com/announce
 https://tracker.yoshi210.com:6969/announce
+https://tracker.zhuqiy.top/announce
 https://tracker.zhuque.in/announce
 https://tracker01.ilovelemonhd.me/announce
 https://tracker1.520.jp/announce
@@ -1607,6 +1610,7 @@ udp://83.6.223.155:6969/announce
 udp://83.6.225.109:6969/announce
 udp://83.6.225.61:6969/announce
 udp://83.6.230.142:6969/announce
+udp://83.6.230.177:6969/announce
 udp://83.6.231.132:6969/announce
 udp://83.6.231.164:6969/announce
 udp://85.17.19.180:80/announce
