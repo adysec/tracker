@@ -1415,6 +1415,7 @@ udp://211.23.142.127:6969/announce
 udp://211.23.142.127:80/announce
 udp://211.75.210.121:6969/announce
 udp://211.75.210.121:80/announce
+udp://211.75.210.122:6969/announce
 udp://211.75.210.122:80/announce
 udp://211.75.210.123:6969/announce
 udp://211.75.210.220:6969/announce
