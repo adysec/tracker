@@ -143,6 +143,7 @@ http://186.10.170.30:1337/announce
 http://186.10.170.71:1337/announce
 http://186.10.170.97:1337/announce
 http://187.10.24.160:6969/announce
+http://187.11.74.138:6969/announce
 http://187.56.163.140:6969/announce
 http://187.56.163.73:6969/announce
 http://187.56.205.168:6969/announce
@@ -193,6 +194,7 @@ http://211.75.210.121/announce
 http://211.75.210.121:6969/announce
 http://211.75.210.122/announce
 http://211.75.210.122:6969/announce
+http://211.75.210.123/announce
 http://211.75.210.123:6969/announce
 http://211.75.210.220/announce
 http://211.75.210.220:6969/announce
@@ -375,6 +377,7 @@ http://83.6.231.132:6969/announce
 http://83.6.231.164:6969/announce
 http://83.6.231.40:6969/announce
 http://83.6.232.23:6969/announce
+http://83.6.233.63:6969/announce
 http://83.6.234.75:6969/announce
 http://83.6.237.118:6969/announce
 http://85.17.19.180/announce
@@ -546,6 +549,7 @@ http://leidenfro.st:6969/announce
 http://li1406-230.members.linode.com:6969/announce
 http://li2021-95.members.linode.com:6969/announce
 http://lima-peru.subventas.com:443/announce
+http://lucke.fenesisu.moe:6969/announce
 http://mail.lakameraobscura.com:6969/announce
 http://mail.martin-gebhardt.com:8443/announce
 http://masters-tb.com/announce
@@ -1378,6 +1382,7 @@ udp://186.10.170.71:1337/announce
 udp://186.10.170.97:1337/announce
 udp://186.10.181.5:1337/announce
 udp://187.10.24.160:6969/announce
+udp://187.11.74.138:6969/announce
 udp://187.56.163.140:6969/announce
 udp://187.56.205.91:6969/announce
 udp://188.165.253.109:1337/announce
@@ -1422,6 +1427,7 @@ udp://211.75.210.121:80/announce
 udp://211.75.210.122:6969/announce
 udp://211.75.210.122:80/announce
 udp://211.75.210.123:6969/announce
+udp://211.75.210.123:80/announce
 udp://211.75.210.220:6969/announce
 udp://211.75.210.220:80/announce
 udp://211.75.29.254:6969/announce
@@ -1455,6 +1461,7 @@ udp://220.200.35.69:2710/announce
 udp://220.200.35.69:6969/announce
 udp://222.216.139.217:6969/announce
 udp://222.84.22.60:6969/announce
+udp://222.84.22.86:6969/announce
 udp://23.134.88.9:1337/announce
 udp://23.134.89.9:1337/announce
 udp://23.134.90.6:1337/announce
@@ -1618,6 +1625,7 @@ udp://83.6.230.142:6969/announce
 udp://83.6.230.177:6969/announce
 udp://83.6.231.132:6969/announce
 udp://83.6.231.164:6969/announce
+udp://83.6.233.63:6969/announce
 udp://85.17.19.180:80/announce
 udp://85.239.33.28:6969/announce
 udp://86.127.239.222:1234/announce
@@ -1705,6 +1713,7 @@ udp://boysbitte.be:6969/announce
 udp://brightstar.freeddns.org:6969/announce
 udp://brokenhelix.loseyourip.com:6969/announce
 udp://bry-dell-htpc.freeddns.org:6969/announce
+udp://bt-tracker.devnak.win:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
@@ -1834,6 +1843,7 @@ udp://llideong.cn:6969/announce
 udp://lloria.fr:6969/announce
 udp://ln.mtahost.co:6969/announce
 udp://lopatins.ru:5972/announce
+udp://lucke.fenesisu.moe:6969/announce
 udp://lulz.vpndb.org:3000/announce
 udp://madiator.com:6969/announce
 udp://mail.artixlinux.org:6969/announce
