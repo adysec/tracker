@@ -113,6 +113,7 @@ http://177.144.178.39:6969/announce
 http://177.172.61.236:6969/announce
 http://177.172.62.185:6969/announce
 http://177.172.63.135:6969/announce
+http://177.172.65.102:6969/announce
 http://177.172.66.120:6969/announce
 http://177.172.66.210:6969/announce
 http://177.215.67.165:6969/announce
@@ -254,6 +255,7 @@ http://37.19.5.155:6881/announce
 http://37.235.174.46:2710/announce
 http://37.27.188.67:6969/announce
 http://38.145.197.79:6961/announce
+http://4.tracker.devnak.win:6969/announce
 http://43.139.20.56:6969/announce
 http://45.154.253.10/announce
 http://45.154.253.4/announce
@@ -306,6 +308,7 @@ http://59.32.95.78:6969/announce
 http://59.32.95.85:6969/announce
 http://59.36.96.77:6969/announce
 http://5rt.tace.ru:60889/announce
+http://6.tracker.devnak.win:6969/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
 http://61.216.109.95:6969/announce
@@ -531,6 +534,7 @@ http://ipv4.rer.lol:2710/announce
 http://ipv4.tracker.harry.lu/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://ipv6.1337.cx:6969/announce
+http://ipv6.bt-tracker.devnak.win:6969/announce
 http://ipv6.govt.hu:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://ipv6.tracker.harry.lu/announce
@@ -1349,6 +1353,7 @@ udp://176.56.7.44:6969/announce
 udp://176.99.7.59:6969/announce
 udp://177.144.178.39:6969/announce
 udp://177.172.62.185:6969/announce
+udp://177.172.65.102:6969/announce
 udp://177.172.66.120:6969/announce
 udp://177.172.66.210:6969/announce
 udp://177.215.67.165:6969/announce
