@@ -349,6 +349,7 @@ http://83.31.219.129:6969/announce
 http://83.31.219.138:6969/announce
 http://83.31.219.73:6969/announce
 http://83.31.32.122:6969/announce
+http://83.31.33.142:6969/announce
 http://83.31.33.73:6969/announce
 http://83.31.64.195:6969/announce
 http://83.5.10.83:6969/announce
@@ -862,6 +863,7 @@ http://tracker.yuelili.com/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.eu.org:36107/announce
+http://tracker.zhuqiy.top/announce
 http://tracker1.bt.moack.co.kr/announce
 http://tracker1.itzmx.com80/announce
 http://tracker1.itzmx.com:8080/announce
@@ -1513,6 +1515,7 @@ udp://37.19.5.155:2710/announce
 udp://37.235.176.37:2710/announce
 udp://37.27.4.53:6969/announce
 udp://37.59.48.81:6969/announce
+udp://4.tracker.devnak.win:6969/announce
 udp://45.154.96.35:6969/announce
 udp://45.63.30.114:6969/announce
 udp://45.76.120.37:6969/announce
@@ -1551,6 +1554,7 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://54.39.48.3:6969/announce
 udp://6.pocketnet.app:6969/announce
+udp://6.tracker.devnak.win:6969/announce
 udp://60.249.37.20:6969/announce
 udp://60.249.37.20:80/announce
 udp://61.216.149.33:6969/announce
@@ -1608,6 +1612,7 @@ udp://83.31.215.174:6969/announce
 udp://83.31.219.129:6969/announce
 udp://83.31.219.138:6969/announce
 udp://83.31.32.122:6969/announce
+udp://83.31.33.142:6969/announce
 udp://83.31.64.195:6969/announce
 udp://83.5.10.83:6969/announce
 udp://83.5.56.81:6969/announce
@@ -1815,6 +1820,7 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.1337.cx:6969/announce
 udp://ipv6.69.mu:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
+udp://ipv6.bt-tracker.devnak.win:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.govt.hu:6969/announce
 udp://ipv6.rer.lol:6969/announce
