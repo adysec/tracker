@@ -21,6 +21,7 @@ http://107.189.7.143:6969/announce
 http://109.121.134.121:1337/announce
 http://109.71.253.37:1096/announce
 http://11.rarbg.com/announce
+http://110.187.214.137:6969/announce
 http://114.55.113.60:6969/announce
 http://116.16.41.96:6969/announce
 http://116.16.42.86:6969/announce
@@ -375,6 +376,7 @@ http://83.6.225.109:6969/announce
 http://83.6.225.61:6969/announce
 http://83.6.226.63:6969/announce
 http://83.6.227.65:6969/announce
+http://83.6.228.106:6969/announce
 http://83.6.230.142:6969/announce
 http://83.6.230.177:6969/announce
 http://83.6.231.132:6969/announce
@@ -1265,6 +1267,7 @@ https://trackers.ptlsp.com/announce
 https://trackers.run/announce
 https://trackme.theom.nz/announce
 https://trakx.herokuapp.com/announce
+https://trunker.ghostchu-services.top/announce
 https://ttk.pp.ua/announce
 https://voxhost.fr/announce
 https://w.wwwww.wtf/announce
@@ -1297,6 +1300,7 @@ udp://108.61.166.249:6969/announce
 udp://109.121.134.121:1337/announce
 udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
+udp://110.187.214.137:6969/announce
 udp://111.90.151.241:6969/announce
 udp://114.55.113.60:6969/announce
 udp://116.202.49.58:6969/announce
@@ -1631,6 +1635,7 @@ udp://83.6.222.32:6969/announce
 udp://83.6.223.155:6969/announce
 udp://83.6.225.109:6969/announce
 udp://83.6.225.61:6969/announce
+udp://83.6.228.106:6969/announce
 udp://83.6.230.142:6969/announce
 udp://83.6.230.177:6969/announce
 udp://83.6.231.132:6969/announce
