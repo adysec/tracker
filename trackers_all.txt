@@ -110,6 +110,7 @@ http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
 http://173.254.204.71:1096/announce
 http://176.32.38.223:6961/announce
+http://177.139.44.145:6969/announce
 http://177.144.178.39:6969/announce
 http://177.172.61.236:6969/announce
 http://177.172.62.185:6969/announce
@@ -703,6 +704,7 @@ http://tracker-udp.anirena.com/announce
 http://tracker-udp.gbitt.info/announce
 http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.1048576.cn:17272/announce
+http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.aibt.xyz:900/announce
 http://tracker.aletorrenty.pl:2710/announce
@@ -1357,6 +1359,7 @@ udp://176.32.38.223:6961/announce
 udp://176.56.4.199:6969/announce
 udp://176.56.7.44:6969/announce
 udp://176.99.7.59:6969/announce
+udp://177.139.44.145:6969/announce
 udp://177.144.178.39:6969/announce
 udp://177.172.62.185:6969/announce
 udp://177.172.65.102:6969/announce
