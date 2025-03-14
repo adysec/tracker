@@ -22,6 +22,7 @@ http://109.121.134.121:1337/announce
 http://109.71.253.37:1096/announce
 http://11.rarbg.com/announce
 http://110.187.214.137:6969/announce
+http://110.187.214.6:6969/announce
 http://114.55.113.60:6969/announce
 http://116.16.41.96:6969/announce
 http://116.16.42.86:6969/announce
@@ -1303,6 +1304,7 @@ udp://109.121.134.121:1337/announce
 udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
 udp://110.187.214.137:6969/announce
+udp://110.187.214.6:6969/announce
 udp://111.90.151.241:6969/announce
 udp://114.55.113.60:6969/announce
 udp://116.202.49.58:6969/announce
@@ -1999,6 +2001,7 @@ udp://tk4.leechshield.link:6969/announce
 udp://torrent.fedoraproject.org:6969/announce
 udp://torrent.gresille.org:80/announce
 udp://torrent.hificode.in:6969/announce
+udp://torrent.i.ng:6969/announce
 udp://torrent.ubuntu.com:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
