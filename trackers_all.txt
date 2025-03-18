@@ -67,6 +67,7 @@ http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
 http://138.124.183.78:6969/announce
+http://139.202.228.61:6969/announce
 http://140.82.21.192:8080/announce
 http://141.11.240.19/announce
 http://141.144.224.250:2710/announce
@@ -1173,6 +1174,7 @@ https://tracker.gcrenwp.top/announce
 https://tracker.gcrreen.xyz/announce
 https://tracker.ghostchu-services.top/announce
 https://tracker.grepler.com:6969/announce
+https://tracker.guguan.dpdns.org/announce
 https://tracker.guguan.us.kg/announce
 https://tracker.h3o2.me/announce
 https://tracker.hdarea.club/announce
@@ -1340,6 +1342,7 @@ udp://130.61.158.165:6969/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
 udp://138.124.183.78:6969/announce
+udp://139.202.228.61:6969/announce
 udp://141.11.240.19:6969/announce
 udp://142.132.183.104:6969/announce
 udp://143.198.64.177:6969/announce
@@ -1811,6 +1814,7 @@ udp://explodie.org:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
+udp://files.project-cataclysm.ru:6969/announce
 udp://files.samtechnic.ir:6969/announce
 udp://fleira.no:6969/announce
 udp://fosstorrents.com:6969/announce
@@ -2283,6 +2287,7 @@ wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.dnlab.net:443/announce
 wss://tracker.files.fm:7073/announce
+wss://tracker.ghostchu-services.top:443/announce
 wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
