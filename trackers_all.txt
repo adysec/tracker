@@ -68,6 +68,7 @@ http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
 http://138.124.183.78:6969/announce
 http://139.202.228.61:6969/announce
+http://139.202.230.226:6969/announce
 http://139.202.231.170:6969/announce
 http://140.82.21.192:8080/announce
 http://141.11.240.19/announce
@@ -802,6 +803,7 @@ http://tracker.letpo.com/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.lintk.me:2710/announce
 http://tracker.loadbt.com:6969/announce
+http://tracker.lyretain.site:2710/announce
 http://tracker.m-team.cc/announce
 http://tracker.merded.xyz00/announce
 http://tracker.merded.xyz:8000/announce
@@ -1302,6 +1304,7 @@ udp://104.143.10.186:8000/announce
 udp://104.238.198.186:8000/announce
 udp://104.244.77.14:1337/announce
 udp://104.244.77.87:6969/announce
+udp://106.55.172.54:6969/announce
 udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
@@ -1344,6 +1347,7 @@ udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
 udp://138.124.183.78:6969/announce
 udp://139.202.228.61:6969/announce
+udp://139.202.230.226:6969/announce
 udp://139.202.231.170:6969/announce
 udp://141.11.240.19:6969/announce
 udp://142.132.183.104:6969/announce
