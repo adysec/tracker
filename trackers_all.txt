@@ -56,6 +56,7 @@ http://116.9.207.226:6969/announce
 http://117.84.129.196:6969/announce
 http://118.163.198.106/announce
 http://118.163.198.106:6969/announce
+http://118.25.157.230:6969/announce
 http://119.28.71.45:8080/announce
 http://123.245.62.41:6969/announce
 http://123.245.62.47:6969/announce
@@ -67,6 +68,7 @@ http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
 http://138.124.183.78:6969/announce
+http://139.202.228.28:6969/announce
 http://139.202.228.61:6969/announce
 http://139.202.230.226:6969/announce
 http://139.202.231.170:6969/announce
@@ -1346,6 +1348,7 @@ udp://130.61.158.165:6969/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
 udp://138.124.183.78:6969/announce
+udp://139.202.228.28:6969/announce
 udp://139.202.228.61:6969/announce
 udp://139.202.230.226:6969/announce
 udp://139.202.231.170:6969/announce
