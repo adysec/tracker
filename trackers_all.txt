@@ -1337,6 +1337,7 @@ udp://117.29.108.251:2710/announce
 udp://117.29.108.251:6969/announce
 udp://118.163.198.106:6969/announce
 udp://118.163.198.106:80/announce
+udp://118.25.157.230:6969/announce
 udp://119.28.71.45:8080/announce
 udp://120.36.84.188:2710/announce
 udp://120.36.84.3:2710/announce
