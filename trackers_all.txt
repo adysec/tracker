@@ -178,6 +178,7 @@ http://191.255.155.187:6969/announce
 http://191.255.155.74:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
+http://193.177.162.187:6969/announce
 http://193.37.214.12:6969/announce
 http://193.53.126.151:2710/announce
 http://193.53.126.6:6961/announce
@@ -1230,6 +1231,7 @@ https://tracker.nanoha.org/announce
 https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me/announce
 https://tracker.nyaa.tk/announce
+https://tracker.opendev.cloud/announce
 https://tracker.opentracker.se/announce
 https://tracker.opentrackr.org:1337/announce
 https://tracker.parrotlinux.org/announce
@@ -1439,6 +1441,7 @@ udp://191.255.155.138:6969/announce
 udp://191.255.155.187:6969/announce
 udp://191.255.155.74:6969/announce
 udp://192.95.46.115:6969/announce
+udp://193.177.162.187:6969/announce
 udp://193.233.161.213:6969/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
