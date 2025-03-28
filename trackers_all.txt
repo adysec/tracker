@@ -130,6 +130,7 @@ http://177.172.63.135:6969/announce
 http://177.172.65.102:6969/announce
 http://177.172.66.120:6969/announce
 http://177.172.66.210:6969/announce
+http://177.188.141.175:6969/announce
 http://177.215.67.165:6969/announce
 http://178.175.143.27/announce
 http://178.33.73.26:2710/announce
@@ -1396,6 +1397,7 @@ udp://177.172.62.185:6969/announce
 udp://177.172.65.102:6969/announce
 udp://177.172.66.120:6969/announce
 udp://177.172.66.210:6969/announce
+udp://177.188.141.175:6969/announce
 udp://177.215.67.165:6969/announce
 udp://178.156.140.15:53/announce
 udp://178.156.140.201:3074/announce
@@ -1565,6 +1567,7 @@ udp://46.17.46.112:8080/announce
 udp://46.231.241.43:6969/announce
 udp://46.232.55.100:6969/announce
 udp://46.29.162.181:6961/announce
+udp://46.3.96.144:6969/announce
 udp://46.4.109.148:6969/announce
 udp://47.243.23.189:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
@@ -2056,6 +2059,7 @@ udp://tracker-cn.zhuqiy.eu.org:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker-us.silksa.co.za:6969/announce
+udp://tracker-v6.opendev.cloud:8000/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1048576.cn:17272/announce
