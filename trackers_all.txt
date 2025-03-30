@@ -210,6 +210,7 @@ http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.23.142.127/announce
 http://211.23.142.127:6969/announce
+http://211.75.205.189/announce
 http://211.75.210.121/announce
 http://211.75.210.121:6969/announce
 http://211.75.210.122/announce
@@ -375,6 +376,7 @@ http://83.5.10.83:6969/announce
 http://83.5.56.81:6969/announce
 http://83.5.65.212:6969/announce
 http://83.5.73.192:6969/announce
+http://83.6.101.217:6969/announce
 http://83.6.101.246:6969/announce
 http://83.6.124.215:6969/announce
 http://83.6.125.35:6969/announce
@@ -1473,6 +1475,7 @@ udp://210.61.187.208:6969/announce
 udp://210.61.187.208:80/announce
 udp://211.23.142.127:6969/announce
 udp://211.23.142.127:80/announce
+udp://211.75.205.189:80/announce
 udp://211.75.210.121:6969/announce
 udp://211.75.210.121:80/announce
 udp://211.75.210.122:6969/announce
@@ -1664,6 +1667,7 @@ udp://83.5.10.83:6969/announce
 udp://83.5.56.81:6969/announce
 udp://83.5.65.212:6969/announce
 udp://83.5.73.192:6969/announce
+udp://83.6.101.217:6969/announce
 udp://83.6.101.246:6969/announce
 udp://83.6.102.25:6969/announce
 udp://83.6.124.215:6969/announce
@@ -2018,6 +2022,7 @@ udp://t.overflow.biz:6969/announce
 udp://t.publictracker.xyz:6969/announce
 udp://t.zerg.pw:1337/announce
 udp://t.zerg.pw:6969/announce
+udp://t1.chfs.ch:6969/announce
 udp://t2.leech.ie:1337/announce
 udp://t3.leech.ie:1337/announce
 udp://taciturn-shadow.spb.ru:6969/announce
