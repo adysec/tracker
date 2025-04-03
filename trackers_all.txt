@@ -1400,6 +1400,7 @@ udp://176.123.1.180:6969/announce
 udp://176.31.250.174:6969/announce
 udp://176.32.38.223:6961/announce
 udp://176.56.4.199:6969/announce
+udp://176.56.6.77:6969/announce
 udp://176.56.7.44:6969/announce
 udp://176.99.7.59:6969/announce
 udp://177.139.44.145:6969/announce
@@ -1596,6 +1597,7 @@ udp://5.181.188.172:1337/announce
 udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://5.255.124.190:6969/announce
+udp://5.45.69.185:6969/announce
 udp://5.79.249.77:6969/announce
 udp://5.79.83.193:6969/announce
 udp://504e163a.host.njalla.net:6969/announce
