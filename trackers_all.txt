@@ -48,6 +48,7 @@ http://116.8.90.54:6969/announce
 http://116.8.90.57:6969/announce
 http://116.8.91.159:6969/announce
 http://116.8.91.220:6969/announce
+http://116.8.91.249:6969/announce
 http://116.8.91.6:6969/announce
 http://116.8.91.71:6969/announce
 http://116.9.207.121:6969/announce
@@ -78,6 +79,7 @@ http://139.202.230.226:6969/announce
 http://139.202.231.164:6969/announce
 http://139.202.231.170:6969/announce
 http://139.202.231.176:6969/announce
+http://139.202.231.55:6969/announce
 http://140.82.21.192:8080/announce
 http://141.11.240.19/announce
 http://141.144.224.250:2710/announce
@@ -164,6 +166,7 @@ http://186.10.170.30:1337/announce
 http://186.10.170.71:1337/announce
 http://186.10.170.97:1337/announce
 http://187.10.24.160:6969/announce
+http://187.11.73.178:6969/announce
 http://187.11.73.213:6969/announce
 http://187.11.74.138:6969/announce
 http://187.56.163.140:6969/announce
@@ -1377,6 +1380,7 @@ udp://139.202.230.226:6969/announce
 udp://139.202.231.164:6969/announce
 udp://139.202.231.170:6969/announce
 udp://139.202.231.176:6969/announce
+udp://139.202.231.55:6969/announce
 udp://141.11.240.19:6969/announce
 udp://142.132.183.104:6969/announce
 udp://143.198.64.177:6969/announce
@@ -1447,6 +1451,7 @@ udp://186.10.170.71:1337/announce
 udp://186.10.170.97:1337/announce
 udp://186.10.181.5:1337/announce
 udp://187.10.24.160:6969/announce
+udp://187.11.73.178:6969/announce
 udp://187.11.73.213:6969/announce
 udp://187.11.74.138:6969/announce
 udp://187.56.163.140:6969/announce
@@ -2189,6 +2194,7 @@ udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.netmap.top:6969/announce
+udp://tracker.nitrix.me:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.ocnix.net:6969/announce
 udp://tracker.ololosh.space:6969/announce
