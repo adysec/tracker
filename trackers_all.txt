@@ -42,6 +42,7 @@ http://116.5.170.2:6969/announce
 http://116.5.171.105:6969/announce
 http://116.8.90.165:6969/announce
 http://116.8.90.213:6969/announce
+http://116.8.90.235:6969/announce
 http://116.8.90.240:6969/announce
 http://116.8.90.241:6969/announce
 http://116.8.90.54:6969/announce
@@ -65,6 +66,7 @@ http://123.245.62.21:6969/announce
 http://123.245.62.3:6969/announce
 http://123.245.62.41:6969/announce
 http://123.245.62.47:6969/announce
+http://123.245.62.95:6969/announce
 http://125.227.35.196:6969/announce
 http://125.227.79.123/announce
 http://125.227.79.123:6969/announce
@@ -611,6 +613,7 @@ http://multi.open-tracker.cf:8000/announce
 http://mvgroup.org:2710/announce
 http://nagios.tks.sumy.ua/announce
 http://ns3107607.ip-54-36-126.eu:6969/announce
+http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 http://open.8a.is:6969/announce
@@ -1495,6 +1498,7 @@ udp://210.61.187.208:6969/announce
 udp://210.61.187.208:80/announce
 udp://211.23.142.127:6969/announce
 udp://211.23.142.127:80/announce
+udp://211.75.205.187:6969/announce
 udp://211.75.205.188:6969/announce
 udp://211.75.205.188:80/announce
 udp://211.75.205.189:6969/announce
@@ -1534,6 +1538,8 @@ udp://217.30.10.77:6969/announce
 udp://220.130.15.30:80/announce
 udp://220.200.35.124:2710/announce
 udp://220.200.35.124:6969/announce
+udp://220.200.35.56:2710/announce
+udp://220.200.35.56:6969/announce
 udp://220.200.35.65:2710/announce
 udp://220.200.35.65:6969/announce
 udp://220.200.35.69:2710/announce
