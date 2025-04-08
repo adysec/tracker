@@ -66,6 +66,7 @@ http://123.245.62.21:6969/announce
 http://123.245.62.3:6969/announce
 http://123.245.62.41:6969/announce
 http://123.245.62.47:6969/announce
+http://123.245.62.75:6969/announce
 http://123.245.62.95:6969/announce
 http://125.227.35.196:6969/announce
 http://125.227.79.123/announce
@@ -77,6 +78,7 @@ http://1337.abcvg.info/announce
 http://138.124.183.78:6969/announce
 http://139.202.228.28:6969/announce
 http://139.202.228.61:6969/announce
+http://139.202.229.106:6969/announce
 http://139.202.230.226:6969/announce
 http://139.202.231.164:6969/announce
 http://139.202.231.170:6969/announce
@@ -1353,6 +1355,7 @@ udp://110.187.215.166:6969/announce
 udp://111.90.151.241:6969/announce
 udp://114.55.113.60:6969/announce
 udp://116.202.49.58:6969/announce
+udp://116.8.90.235:6969/announce
 udp://116.8.90.241:6969/announce
 udp://116.8.91.159:6969/announce
 udp://116.8.91.220:6969/announce
@@ -1379,6 +1382,7 @@ udp://135.125.202.143:6969/announce
 udp://138.124.183.78:6969/announce
 udp://139.202.228.28:6969/announce
 udp://139.202.228.61:6969/announce
+udp://139.202.229.106:6969/announce
 udp://139.202.230.226:6969/announce
 udp://139.202.231.164:6969/announce
 udp://139.202.231.170:6969/announce
@@ -1964,6 +1968,7 @@ udp://new-line.net:6969/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
+udp://ns3109441.mypdns.org:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://nullzone.fr:6969/announce
 udp://odd-hd.fr:6969/announce
