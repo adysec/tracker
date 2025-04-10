@@ -80,6 +80,7 @@ http://139.202.228.28:6969/announce
 http://139.202.228.61:6969/announce
 http://139.202.229.106:6969/announce
 http://139.202.230.226:6969/announce
+http://139.202.230.63:6969/announce
 http://139.202.231.164:6969/announce
 http://139.202.231.170:6969/announce
 http://139.202.231.176:6969/announce
@@ -223,6 +224,7 @@ http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.23.142.127/announce
 http://211.23.142.127:6969/announce
+http://211.75.205.187/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.188/announce
 http://211.75.205.188:6969/announce
@@ -1386,6 +1388,7 @@ udp://139.202.228.28:6969/announce
 udp://139.202.228.61:6969/announce
 udp://139.202.229.106:6969/announce
 udp://139.202.230.226:6969/announce
+udp://139.202.230.63:6969/announce
 udp://139.202.231.164:6969/announce
 udp://139.202.231.170:6969/announce
 udp://139.202.231.176:6969/announce
