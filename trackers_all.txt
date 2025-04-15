@@ -68,6 +68,7 @@ http://123.245.62.37:6969/announce
 http://123.245.62.3:6969/announce
 http://123.245.62.41:6969/announce
 http://123.245.62.47:6969/announce
+http://123.245.62.58:6969/announce
 http://123.245.62.75:6969/announce
 http://123.245.62.95:6969/announce
 http://125.227.35.196:6969/announce
@@ -534,6 +535,7 @@ http://bz.tracker.bz/announce
 http://canardscitrons.nohost.me:6969/announce
 http://carbon-bonsai-621.appspot.com/announce
 http://ch3oh.ru:6969/announce
+http://chihaya.de/announce
 http://chouchou.top:8080/announce
 http://cloud.nyap2p.com:8080/announce
 http://cn.pcfreetime.com:6969/announce
