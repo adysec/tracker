@@ -1062,6 +1062,7 @@ https://carbon-bonsai-621.appspot.com/announce
 https://cernet-tracker.appspot.com/announce
 https://chdbits.xyz/announce
 https://chihaya-heroku.120181311.xyz/announce
+https://chihaya.de/announce
 https://danielcloud.ddns.net/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://docker-tracker-production.up.railway.app/announce
@@ -1580,6 +1581,7 @@ udp://220.200.35.97:6969/announce
 udp://222.216.139.217:6969/announce
 udp://222.84.22.60:6969/announce
 udp://222.84.22.86:6969/announce
+udp://222.84.23.141:6969/announce
 udp://23.134.88.9:1337/announce
 udp://23.134.89.9:1337/announce
 udp://23.134.90.6:1337/announce
