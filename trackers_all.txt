@@ -260,6 +260,7 @@ http://220.130.15.30:6969/announce
 http://222.216.138.211:6969/announce
 http://222.216.139.165:6969/announce
 http://222.216.139.217:6969/announce
+http://222.216.139.72:6969/announce
 http://222.84.20.42:6969/announce
 http://222.84.22.60:6969/announce
 http://222.84.22.86:6969/announce
@@ -1630,6 +1631,7 @@ udp://37.27.4.53:6969/announce
 udp://37.59.48.81:6969/announce
 udp://4.tracker.devnak.win:6969/announce
 udp://45.154.96.35:6969/announce
+udp://45.155.53.144:6969/announce
 udp://45.63.30.114:6969/announce
 udp://45.76.120.37:6969/announce
 udp://45.9.60.30:6969/announce
