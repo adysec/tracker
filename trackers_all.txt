@@ -1571,6 +1571,8 @@ udp://213.163.67.56:1337/announce
 udp://216.238.80.236:3074/announce
 udp://217.30.10.77:6969/announce
 udp://220.130.15.30:80/announce
+udp://220.200.35.117:2710/announce
+udp://220.200.35.117:6969/announce
 udp://220.200.35.124:2710/announce
 udp://220.200.35.124:6969/announce
 udp://220.200.35.56:2710/announce
