@@ -1439,6 +1439,7 @@ udp://176.32.38.223:6961/announce
 udp://176.56.4.199:6969/announce
 udp://176.56.6.77:6969/announce
 udp://176.56.7.44:6969/announce
+udp://176.56.7.89:6969/announce
 udp://176.99.7.59:6969/announce
 udp://177.139.44.145:6969/announce
 udp://177.139.47.236:6969/announce
@@ -2188,6 +2189,7 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker.ds.is:6969/announce
+udp://tracker.ducks.party:1984/announce
 udp://tracker.dump.cl:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.e-utp.net:6969/announce
@@ -2288,6 +2290,7 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.trafficmgr.net:6969/announce
