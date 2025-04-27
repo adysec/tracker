@@ -1648,6 +1648,7 @@ udp://46.232.55.100:6969/announce
 udp://46.29.162.181:6961/announce
 udp://46.3.96.144:6969/announce
 udp://46.4.109.148:6969/announce
+udp://46.59.69.118:6969/announce
 udp://47.243.23.189:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://49.12.76.8:8080/announce
