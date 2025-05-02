@@ -1719,6 +1719,7 @@ udp://79.116.26.57:1234/announce
 udp://79.116.36.178:1234/announce
 udp://79.116.39.36:1234/announce
 udp://79.116.53.222:1234/announce
+udp://79.116.70.135:1234/announce
 udp://79.117.113.253:1234/announce
 udp://79.117.124.172:1234/announce
 udp://79.117.133.1:1234/announce
