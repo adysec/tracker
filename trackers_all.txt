@@ -908,6 +908,7 @@ http://tracker.torrentuje.me:2710/announce
 http://tracker.torrentyorg.pl/announce
 http://tracker.trackerfix.com/announce
 http://tracker.trancetraffic.com/announce
+http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.vanitycore.co:6969/announce
@@ -1587,6 +1588,8 @@ udp://220.200.35.65:2710/announce
 udp://220.200.35.65:6969/announce
 udp://220.200.35.69:2710/announce
 udp://220.200.35.69:6969/announce
+udp://220.200.35.72:2710/announce
+udp://220.200.35.72:6969/announce
 udp://220.200.35.97:2710/announce
 udp://220.200.35.97:6969/announce
 udp://222.216.139.217:6969/announce
@@ -1722,6 +1725,7 @@ udp://79.116.53.222:1234/announce
 udp://79.116.70.135:1234/announce
 udp://79.117.113.253:1234/announce
 udp://79.117.124.172:1234/announce
+udp://79.117.126.151:1234/announce
 udp://79.117.133.1:1234/announce
 udp://79.117.28.48:1234/announce
 udp://79.117.5.107:1234/announce
