@@ -1510,6 +1510,7 @@ udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
 udp://193.53.126.6:6961/announce
 udp://194.106.216.222:80/announce
+udp://194.110.247.18:6969/announce
 udp://194.195.86.132:6969/announce
 udp://194.38.21.77:6969/announce
 udp://194.87.68.142:6969/announce
@@ -1729,6 +1730,7 @@ udp://79.117.126.151:1234/announce
 udp://79.117.133.1:1234/announce
 udp://79.117.28.48:1234/announce
 udp://79.117.5.107:1234/announce
+udp://79.117.63.250:1234/announce
 udp://7p41a8967.wicp.vip:22222/announce
 udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
