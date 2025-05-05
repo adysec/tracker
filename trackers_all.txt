@@ -144,6 +144,7 @@ http://173.254.204.71:1096/announce
 http://176.32.38.223:6961/announce
 http://177.139.44.145:6969/announce
 http://177.139.47.236:6969/announce
+http://177.139.47.40:6969/announce
 http://177.144.178.39:6969/announce
 http://177.172.61.236:6969/announce
 http://177.172.62.185:6969/announce
