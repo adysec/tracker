@@ -244,6 +244,7 @@ http://211.75.205.188:6969/announce
 http://211.75.205.189/announce
 http://211.75.205.189:6969/announce
 http://211.75.205.190/announce
+http://211.75.205.192:6969/announce
 http://211.75.210.121/announce
 http://211.75.210.121:6969/announce
 http://211.75.210.122/announce
@@ -367,6 +368,7 @@ http://5rt.tace.ru:60889/announce
 http://6.tracker.devnak.win:6969/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
+http://60.249.37.21:6969/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.165.60/announce
@@ -411,6 +413,7 @@ http://83.31.30.28:6969/announce
 http://83.31.32.122:6969/announce
 http://83.31.33.142:6969/announce
 http://83.31.33.73:6969/announce
+http://83.31.64.155:6969/announce
 http://83.31.64.195:6969/announce
 http://83.5.10.83:6969/announce
 http://83.5.56.81:6969/announce
@@ -1547,6 +1550,7 @@ udp://211.75.205.188:80/announce
 udp://211.75.205.189:6969/announce
 udp://211.75.205.189:80/announce
 udp://211.75.205.190:80/announce
+udp://211.75.205.192:6969/announce
 udp://211.75.210.121:6969/announce
 udp://211.75.210.121:80/announce
 udp://211.75.210.122:6969/announce
@@ -1763,6 +1767,7 @@ udp://83.31.219.138:6969/announce
 udp://83.31.30.28:6969/announce
 udp://83.31.32.122:6969/announce
 udp://83.31.33.142:6969/announce
+udp://83.31.64.155:6969/announce
 udp://83.31.64.195:6969/announce
 udp://83.5.10.83:6969/announce
 udp://83.5.56.81:6969/announce
@@ -1942,6 +1947,7 @@ udp://escalaenbernal.com:3074/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
+udp://extracker.dahrkael.net:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
