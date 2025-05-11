@@ -244,6 +244,7 @@ http://211.75.205.188:6969/announce
 http://211.75.205.189/announce
 http://211.75.205.189:6969/announce
 http://211.75.205.190/announce
+http://211.75.205.191:6969/announce
 http://211.75.205.192:6969/announce
 http://211.75.210.121/announce
 http://211.75.210.121:6969/announce
@@ -1551,6 +1552,7 @@ udp://211.75.205.189:6969/announce
 udp://211.75.205.189:80/announce
 udp://211.75.205.190:80/announce
 udp://211.75.205.192:6969/announce
+udp://211.75.205.192:80/announce
 udp://211.75.210.121:6969/announce
 udp://211.75.210.121:80/announce
 udp://211.75.210.122:6969/announce
@@ -1702,6 +1704,7 @@ udp://6.pocketnet.app:6969/announce
 udp://6.tracker.devnak.win:6969/announce
 udp://60.249.37.20:6969/announce
 udp://60.249.37.20:80/announce
+udp://60.249.37.21:6969/announce
 udp://61.216.149.33:6969/announce
 udp://61.216.165.60:6969/announce
 udp://61.216.165.60:80/announce
