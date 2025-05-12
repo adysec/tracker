@@ -244,7 +244,9 @@ http://211.75.205.188:6969/announce
 http://211.75.205.189/announce
 http://211.75.205.189:6969/announce
 http://211.75.205.190/announce
+http://211.75.205.190:6969/announce
 http://211.75.205.191:6969/announce
+http://211.75.205.192/announce
 http://211.75.205.192:6969/announce
 http://211.75.210.121/announce
 http://211.75.210.121:6969/announce
