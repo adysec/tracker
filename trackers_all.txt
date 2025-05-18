@@ -41,6 +41,7 @@ http://116.5.145.13:6969/announce
 http://116.5.146.84:6969/announce
 http://116.5.170.2:6969/announce
 http://116.5.171.105:6969/announce
+http://116.8.90.121:6969/announce
 http://116.8.90.165:6969/announce
 http://116.8.90.213:6969/announce
 http://116.8.90.235:6969/announce
@@ -224,6 +225,7 @@ http://200.170.109.89:6969/announce
 http://200.170.110.108:6969/announce
 http://200.170.113.35:6969/announce
 http://200.232.254.1:6969/announce
+http://201.13.49.112:6969/announce
 http://201.42.214.55:6969/announce
 http://201.43.209.254:6969/announce
 http://201.92.179.79:6969/announce
@@ -1595,6 +1597,7 @@ udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://200.170.110.108:6969/announce
 udp://200.170.113.35:6969/announce
+udp://201.13.49.112:6969/announce
 udp://201.92.179.79:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
@@ -1665,6 +1668,8 @@ udp://220.200.35.117:2710/announce
 udp://220.200.35.117:6969/announce
 udp://220.200.35.124:2710/announce
 udp://220.200.35.124:6969/announce
+udp://220.200.35.40:2710/announce
+udp://220.200.35.40:6969/announce
 udp://220.200.35.56:2710/announce
 udp://220.200.35.56:6969/announce
 udp://220.200.35.65:2710/announce
