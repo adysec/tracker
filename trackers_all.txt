@@ -381,6 +381,7 @@ http://5rt.tace.ru:60889/announce
 http://6.tracker.devnak.win:6969/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
+http://60.249.37.21/announce
 http://60.249.37.21:6969/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
@@ -444,6 +445,7 @@ http://83.6.126.206:6969/announce
 http://83.6.208.20:6969/announce
 http://83.6.209.31:6969/announce
 http://83.6.210.153:6969/announce
+http://83.6.210.47:6969/announce
 http://83.6.210.60:6969/announce
 http://83.6.210.62:6969/announce
 http://83.6.211.179:6969/announce
@@ -1779,6 +1781,7 @@ udp://6.tracker.devnak.win:6969/announce
 udp://60.249.37.20:6969/announce
 udp://60.249.37.20:80/announce
 udp://60.249.37.21:6969/announce
+udp://60.249.37.21:80/announce
 udp://61.216.149.33:6969/announce
 udp://61.216.165.60:6969/announce
 udp://61.216.165.60:80/announce
@@ -1859,6 +1862,7 @@ udp://83.6.124.215:6969/announce
 udp://83.6.125.35:6969/announce
 udp://83.6.126.206:6969/announce
 udp://83.6.210.153:6969/announce
+udp://83.6.210.47:6969/announce
 udp://83.6.210.60:6969/announce
 udp://83.6.210.62:6969/announce
 udp://83.6.218.103:6969/announce
