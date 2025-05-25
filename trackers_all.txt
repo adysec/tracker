@@ -2358,6 +2358,8 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.halfchub.club:6969/announce
 udp://tracker.hentai.gg:6969/announce
+udp://tracker.hifimarket.in:2710/announce
+udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 udp://tracker.iamhansen.xyz:2000/announce
 udp://tracker.ilibr.org:6969/announce
