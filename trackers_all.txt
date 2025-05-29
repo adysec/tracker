@@ -190,6 +190,7 @@ http://186.10.170.30:1337/announce
 http://186.10.170.71:1337/announce
 http://186.10.170.97:1337/announce
 http://187.10.24.160:6969/announce
+http://187.11.72.188:6969/announce
 http://187.11.73.178:6969/announce
 http://187.11.73.213:6969/announce
 http://187.11.74.138:6969/announce
@@ -281,6 +282,7 @@ http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30/announce
 http://220.130.15.30:6969/announce
+http://222.216.138.184:6969/announce
 http://222.216.138.211:6969/announce
 http://222.216.139.165:6969/announce
 http://222.216.139.217:6969/announce
@@ -1577,6 +1579,7 @@ udp://186.10.170.71:1337/announce
 udp://186.10.170.97:1337/announce
 udp://186.10.181.5:1337/announce
 udp://187.10.24.160:6969/announce
+udp://187.11.72.188:6969/announce
 udp://187.11.73.178:6969/announce
 udp://187.11.73.213:6969/announce
 udp://187.11.74.138:6969/announce
