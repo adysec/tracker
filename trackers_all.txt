@@ -476,6 +476,7 @@ http://83.6.230.142:6969/announce
 http://83.6.230.177:6969/announce
 http://83.6.231.132:6969/announce
 http://83.6.231.164:6969/announce
+http://83.6.231.203:6969/announce
 http://83.6.231.40:6969/announce
 http://83.6.232.23:6969/announce
 http://83.6.233.63:6969/announce
@@ -1900,6 +1901,7 @@ udp://83.6.230.142:6969/announce
 udp://83.6.230.177:6969/announce
 udp://83.6.231.132:6969/announce
 udp://83.6.231.164:6969/announce
+udp://83.6.231.203:6969/announce
 udp://83.6.233.63:6969/announce
 udp://85.17.19.180:80/announce
 udp://85.239.33.28:6969/announce
@@ -2432,6 +2434,7 @@ udp://tracker.picotorrent.one:6969/announce
 udp://tracker.pimpmyworld.to:6969/announce
 udp://tracker.pirateparty.gr:6969/announce
 udp://tracker.piratepublic.com:1337/announce
+udp://tracker.plx.im:6969/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.prq.to/announce
 udp://tracker.prq.to:80/announce
