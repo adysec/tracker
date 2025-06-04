@@ -285,6 +285,7 @@ http://220.130.15.30/announce
 http://220.130.15.30:6969/announce
 http://222.216.138.184:6969/announce
 http://222.216.138.211:6969/announce
+http://222.216.138.237:6969/announce
 http://222.216.139.165:6969/announce
 http://222.216.139.217:6969/announce
 http://222.216.139.72:6969/announce
