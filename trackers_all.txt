@@ -234,6 +234,7 @@ http://201.13.49.112:6969/announce
 http://201.42.214.55:6969/announce
 http://201.43.209.254:6969/announce
 http://201.92.179.79:6969/announce
+http://204.197.163.27/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://207.246.118.100:6961/announce
@@ -2448,6 +2449,7 @@ udp://tracker.publicbt.com:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.renfei.net:8080/announce
+udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.sbsub.com:2710/announce
 udp://tracker.sheesh.rip:6969/announce
 udp://tracker.shkinev.me:6969/announce
