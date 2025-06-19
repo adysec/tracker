@@ -70,6 +70,7 @@ http://118.25.157.230:6969/announce
 http://119.28.71.45:8080/announce
 http://123.245.62.106:6969/announce
 http://123.245.62.107:6969/announce
+http://123.245.62.108:6969/announce
 http://123.245.62.16:6969/announce
 http://123.245.62.21:6969/announce
 http://123.245.62.37:6969/announce
