@@ -200,6 +200,7 @@ http://187.11.72.236:6969/announce
 http://187.11.73.178:6969/announce
 http://187.11.73.213:6969/announce
 http://187.11.74.138:6969/announce
+http://187.11.75.196:6969/announce
 http://187.56.163.140:6969/announce
 http://187.56.163.73:6969/announce
 http://187.56.205.168:6969/announce
@@ -1601,6 +1602,7 @@ udp://187.11.72.236:6969/announce
 udp://187.11.73.178:6969/announce
 udp://187.11.73.213:6969/announce
 udp://187.11.74.138:6969/announce
+udp://187.11.75.196:6969/announce
 udp://187.56.163.140:6969/announce
 udp://187.56.205.91:6969/announce
 udp://188.165.253.109:1337/announce
