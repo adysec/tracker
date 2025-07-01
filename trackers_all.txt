@@ -1570,6 +1570,7 @@ udp://177.172.66.210:6969/announce
 udp://177.188.141.175:6969/announce
 udp://177.188.141.32:6969/announce
 udp://177.215.67.165:6969/announce
+udp://177.27.223.184:6969/announce
 udp://178.156.140.15:53/announce
 udp://178.156.140.201:3074/announce
 udp://178.170.48.154:1337/announce
