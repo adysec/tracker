@@ -1447,6 +1447,7 @@ https://trackme.theom.nz/announce
 https://trakx.herokuapp.com/announce
 https://trunker.ghostchu-services.top/announce
 https://ttk.pp.ua/announce
+https://ttracker.just-h.party/announce
 https://voxhost.fr/announce
 https://w.wwwww.wtf/announce
 https://www.peckservers.com:9000/announce
