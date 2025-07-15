@@ -225,6 +225,7 @@ http://191.254.171.95:6969/announce
 http://191.255.155.138:6969/announce
 http://191.255.155.187:6969/announce
 http://191.255.155.74:6969/announce
+http://191.255.193.44:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
 http://193.107.16.156:2710/announce
@@ -549,6 +550,7 @@ http://anidex.moe:6969/announce
 http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.torrentsmd.com:6969/announce
+http://asiatorrent.ddns.net:51413/announce
 http://asnet.pw:2710/announce
 http://atrack.pow7.com/announce
 http://baibako.tv/announce
@@ -1631,6 +1633,7 @@ udp://191.254.171.95:6969/announce
 udp://191.255.155.138:6969/announce
 udp://191.255.155.187:6969/announce
 udp://191.255.155.74:6969/announce
+udp://191.255.193.44:6969/announce
 udp://192.95.46.115:6969/announce
 udp://193.177.162.187:6969/announce
 udp://193.233.161.213:6969/announce
