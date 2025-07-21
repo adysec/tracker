@@ -68,6 +68,7 @@ http://118.163.198.106/announce
 http://118.163.198.106:6969/announce
 http://118.25.157.230:6969/announce
 http://119.28.71.45:8080/announce
+http://123.245.62.105:6969/announce
 http://123.245.62.106:6969/announce
 http://123.245.62.107:6969/announce
 http://123.245.62.108:6969/announce
@@ -225,6 +226,7 @@ http://191.23.71.103:6969/announce
 http://191.23.94.237:6969/announce
 http://191.254.171.95:6969/announce
 http://191.255.155.138:6969/announce
+http://191.255.155.153:6969/announce
 http://191.255.155.187:6969/announce
 http://191.255.155.74:6969/announce
 http://191.255.193.44:6969/announce
@@ -1636,6 +1638,7 @@ udp://191.23.71.103:6969/announce
 udp://191.23.94.237:6969/announce
 udp://191.254.171.95:6969/announce
 udp://191.255.155.138:6969/announce
+udp://191.255.155.153:6969/announce
 udp://191.255.155.187:6969/announce
 udp://191.255.155.74:6969/announce
 udp://191.255.193.44:6969/announce
