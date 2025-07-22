@@ -202,6 +202,7 @@ http://187.10.24.160:6969/announce
 http://187.11.72.188:6969/announce
 http://187.11.72.236:6969/announce
 http://187.11.73.178:6969/announce
+http://187.11.73.20:6969/announce
 http://187.11.73.213:6969/announce
 http://187.11.74.138:6969/announce
 http://187.11.75.196:6969/announce
@@ -1014,6 +1015,7 @@ http://tracker.torrenty.org:6969/announce
 http://tracker.torrentyorg.pl/announce
 http://tracker.trackerfix.com/announce
 http://tracker.trancetraffic.com/announce
+http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
@@ -1352,6 +1354,7 @@ https://tracker.hama3.net/announce
 https://tracker.hdarea.club/announce
 https://tracker.hdsky.me/announce
 https://tracker.hhanclub.top/announce
+https://tracker.home.kmzs123.cn:4443/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.internetwarriors.net:1337/announce
 https://tracker.ipfsscan.io/announce
@@ -1619,6 +1622,7 @@ udp://187.10.24.160:6969/announce
 udp://187.11.72.188:6969/announce
 udp://187.11.72.236:6969/announce
 udp://187.11.73.178:6969/announce
+udp://187.11.73.20:6969/announce
 udp://187.11.73.213:6969/announce
 udp://187.11.74.138:6969/announce
 udp://187.11.75.196:6969/announce
@@ -2165,6 +2169,7 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
+udp://joczo.duckdns.org:6969/announce
 udp://johnrosen1.com:6969/announce
 udp://jp.moeweb.pw:6969/announce
 udp://jutone.com:6969/announce
