@@ -242,6 +242,7 @@ http://194.106.216.222/announce
 http://195.123.209.37:1337/announce
 http://198.251.84.144/announce
 http://1c.premierzal.ru:6969/announce
+http://200.111.152.53:1337/announce
 http://200.170.109.89:6969/announce
 http://200.170.110.108:6969/announce
 http://200.170.113.35:6969/announce
