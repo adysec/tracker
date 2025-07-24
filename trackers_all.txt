@@ -216,6 +216,7 @@ http://188.165.253.109:1337/announce
 http://189.0.196.51:6969/announce
 http://189.0.78.33:6969/announce
 http://189.110.233.96:6969/announce
+http://189.18.127.125:6969/announce
 http://189.18.163.82:6969/announce
 http://189.18.96.56:6969/announce
 http://189.18.97.116:6969/announce
@@ -243,6 +244,7 @@ http://195.123.209.37:1337/announce
 http://198.251.84.144/announce
 http://1c.premierzal.ru:6969/announce
 http://200.111.152.53:1337/announce
+http://200.111.152.54:1337/announce
 http://200.170.109.89:6969/announce
 http://200.170.110.108:6969/announce
 http://200.170.113.35:6969/announce
@@ -558,6 +560,7 @@ http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.torrentsmd.com:6969/announce
 http://asiatorrent.ddns.net:51413/announce
+http://asiatorrent.giize.com:51413/announce
 http://asnet.pw:2710/announce
 http://atrack.pow7.com/announce
 http://baibako.tv/announce
@@ -1631,6 +1634,7 @@ udp://187.56.163.140:6969/announce
 udp://187.56.205.91:6969/announce
 udp://188.165.253.109:1337/announce
 udp://189.0.78.33:6969/announce
+udp://189.18.127.125:6969/announce
 udp://189.18.96.56:6969/announce
 udp://189.18.97.116:6969/announce
 udp://189.69.168.180:6969/announce
