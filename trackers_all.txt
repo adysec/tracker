@@ -322,6 +322,7 @@ http://222.84.22.86:6969/announce
 http://222.84.23.109:6969/announce
 http://222.84.23.141:6969/announce
 http://27.197.187.78:6969/announce
+http://31.38.161.123:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.89.51.235/announce
@@ -1795,6 +1796,7 @@ udp://27.155.141.232:2710/announce
 udp://27.155.141.232:6969/announce
 udp://27.155.141.50:2710/announce
 udp://27.155.141.50:6969/announce
+udp://31.38.161.123:6969/announce
 udp://34.89.30.59:1337/announce
 udp://34.89.30.59:6969/announce
 udp://34.89.51.235:1337/announce
