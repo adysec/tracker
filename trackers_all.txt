@@ -160,6 +160,7 @@ http://177.144.178.39:6969/announce
 http://177.172.61.236:6969/announce
 http://177.172.61.249:6969/announce
 http://177.172.62.168:6969/announce
+http://177.172.62.179:6969/announce
 http://177.172.62.185:6969/announce
 http://177.172.63.135:6969/announce
 http://177.172.65.102:6969/announce
