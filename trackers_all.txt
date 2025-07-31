@@ -81,6 +81,7 @@ http://123.245.62.41:6969/announce
 http://123.245.62.47:6969/announce
 http://123.245.62.53:6969/announce
 http://123.245.62.58:6969/announce
+http://123.245.62.69:6969/announce
 http://123.245.62.72:6969/announce
 http://123.245.62.75:6969/announce
 http://123.245.62.95:6969/announce
@@ -153,6 +154,7 @@ http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
 http://173.254.204.71:1096/announce
 http://176.32.38.223:6961/announce
+http://177.112.215.4:6969/announce
 http://177.139.44.145:6969/announce
 http://177.139.47.236:6969/announce
 http://177.139.47.40:6969/announce
@@ -651,6 +653,7 @@ http://echostar.ddnsfree.com:8080/announce
 http://exodus.desync.com/announce
 http://exodus.desync.com:6969/announce
 http://explodie.org:6969/announce
+http://extracker.dahrkael.net:6969/announce
 http://fe.dealclub.de:6969/announce
 http://finbytes.org/announce
 http://fleira.no:6969/announce
@@ -757,6 +760,7 @@ http://p2p.azu.red/announce
 http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://parag.rs:6969/announce
+http://passpulse.net:8000/announce
 http://peersteers.org/announce
 http://pow7.com/announce
 http://prestige.minimafia.nl:443/announce
@@ -903,6 +907,7 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.coppersurfer.tk:6969/announce
 http://tracker.corpscorp.online/announce
 http://tracker.cubicview.site/announce
+http://tracker.cutie.dating/announce
 http://tracker.darkness.services:6969/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.devil-torrents.pl/announce
@@ -1029,10 +1034,12 @@ http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.uw0.xyz:6969/announce
+http://tracker.valete.tf:9999/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.vrpnet.org:6969/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.wepzone.net:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
@@ -1582,6 +1589,7 @@ udp://176.56.7.44:6969/announce
 udp://176.56.7.89:6969/announce
 udp://176.79.98.66:6969/announce
 udp://176.99.7.59:6969/announce
+udp://177.112.215.4:6969/announce
 udp://177.139.44.145:6969/announce
 udp://177.139.47.236:6969/announce
 udp://177.139.47.40:6969/announce
@@ -2152,6 +2160,7 @@ udp://globalwave.no-ip.org:6969/announce
 udp://glotorrents.pw:6969/announce
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 udp://hbsy.zhuqiy.eu.org:6666/announce
+udp://hificode.in:6969/announce
 udp://home.kray.pw:6969/announce
 udp://home.yxgz.club:6969/announce
 udp://htz3.noho.st:6969/announce
@@ -2266,6 +2275,7 @@ udp://p4p.arenabg.ch:1337/announce
 udp://p4p.arenabg.com:1337/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://parag.rs:6969/announce
+udp://passpulse.net:8000/announce
 udp://peerfect.org:6969/announce
 udp://peru.subventas.com:53/announce
 udp://pirate.hz.is:1337/announce
@@ -2446,6 +2456,7 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.halfchub.club:6969/announce
+udp://tracker.healthcareindia.store:1337/announce
 udp://tracker.hentai.gg:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
@@ -2556,6 +2567,7 @@ udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
+udp://tracker.wepzone.net:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
@@ -2568,6 +2580,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
+udp://tracker.zupix.online:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
