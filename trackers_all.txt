@@ -227,6 +227,7 @@ http://189.0.78.33:6969/announce
 http://189.110.233.96:6969/announce
 http://189.18.127.125:6969/announce
 http://189.18.127.57:6969/announce
+http://189.18.162.106:6969/announce
 http://189.18.163.82:6969/announce
 http://189.18.96.56:6969/announce
 http://189.18.97.116:6969/announce
@@ -747,6 +748,7 @@ http://open-v6.demonoid.ch:6969/announce
 http://open.8a.is:6969/announce
 http://open.acgnxtracker.com/announce
 http://open.acgtracker.com:1096/announce
+http://open.demonii.si/announce
 http://open.lolicon.eu:7777/announce
 http://open.miotracker.com/announce
 http://open.nyaatorrents.info:6544/announce
@@ -1664,6 +1666,7 @@ udp://188.165.253.109:1337/announce
 udp://189.0.78.33:6969/announce
 udp://189.18.127.125:6969/announce
 udp://189.18.127.57:6969/announce
+udp://189.18.162.106:6969/announce
 udp://189.18.96.56:6969/announce
 udp://189.18.97.116:6969/announce
 udp://189.69.168.180:6969/announce
@@ -2274,6 +2277,7 @@ udp://open.8a.is:6969/announce
 udp://open.deadorbit.nl:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonii.si:1337/announce
+udp://open.demonii.si:80/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
@@ -2432,6 +2436,7 @@ udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
+udp://tracker.bontal.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.btzoo.eu:80/announce
