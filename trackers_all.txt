@@ -1150,6 +1150,7 @@ https://00.alarmasqueretaro.com/announce
 https://00.mercax.com/announce
 https://00.xxtor.com/announce
 https://0d.kebhana.mx/announce
+https://1.tracker.eu.org/announce
 https://104.28.1.30:8080/announce
 https://104.28.16.69/announce
 https://104.28.17.69/announce
