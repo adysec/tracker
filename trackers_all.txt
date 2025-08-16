@@ -827,6 +827,7 @@ http://shubt.net:2710/announce
 http://siambit.com/announce
 http://siambit.org/announce
 http://smurfsoft.com:6969/announce
+http://speedtest.iperson.xyz:6969/announce
 http://sugoi.pomf.se/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
@@ -1179,6 +1180,7 @@ https://3.tracker.eu.org/announce
 https://337hhh.xyz/announce
 https://37.19.5.139:6969/announce
 https://37.19.5.155:6881/announce
+https://4.tracker.eu.org/announce
 https://46.4.109.148:6969/announce
 https://5.79.249.77:6969/announce
 https://5.79.83.193:2710/announce
@@ -2369,6 +2371,7 @@ udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://smtp.loki.tel:25/announce
 udp://smurfsoft.com:6969/announce
 udp://soundmovie.ru:6969/announce
+udp://speedtest.iperson.xyz:6969/announce
 udp://srv5.digiboy.ir:6969/announce
 udp://ssb14.nohost.me:6969/announce
 udp://stargrave.org:6969/announce
@@ -2459,6 +2462,7 @@ udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.christianbro.pw:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
+udp://tracker.cloudbase.store:1333/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cubonegro.org:1337/announce
@@ -2580,6 +2584,7 @@ udp://tracker.sktorrent.net:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
+udp://tracker.startwork.cv:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.t-1.org:6969/announce
@@ -2623,6 +2628,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
+udp://tracker.zupix.online:1333/announce
 udp://tracker.zupix.online:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
