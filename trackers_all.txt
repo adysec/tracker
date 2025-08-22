@@ -241,6 +241,7 @@ http://189.69.171.75:6969/announce
 http://189.69.171.84:6969/announce
 http://189.79.12.24:6969/announce
 http://189.79.13.111:6969/announce
+http://191.23.62.147:6969/announce
 http://191.23.71.103:6969/announce
 http://191.23.94.237:6969/announce
 http://191.254.171.95:6969/announce
@@ -1340,6 +1341,7 @@ https://tracker.3moredays.com/announce
 https://tracker.4.babico.name.tr/announce
 https://tracker.aburaya.live/announce
 https://tracker.acgnx.se/announce
+https://tracker.alaskantf.com/announce
 https://tracker.aletorrenty.pl:2710/announce
 https://tracker.amelia.fun/announce
 https://tracker.babico.name.tr/announce
@@ -1691,6 +1693,7 @@ udp://189.79.12.24:6969/announce
 udp://189.79.13.111:6969/announce
 udp://190.146.242.81:6969/announce
 udp://191.101.229.236:1337/announce
+udp://191.23.62.147:6969/announce
 udp://191.23.71.103:6969/announce
 udp://191.23.94.237:6969/announce
 udp://191.254.171.95:6969/announce
