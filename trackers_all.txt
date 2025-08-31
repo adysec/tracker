@@ -190,6 +190,7 @@ http://179.100.24.134:6969/announce
 http://179.118.132.77:6969/announce
 http://179.118.133.224:6969/announce
 http://179.175.247.60:6969/announce
+http://179.98.254.201:6969/announce
 http://179.98.254.95:6969/announce
 http://179.98.51.208:6969/announce
 http://180.113.224.97:6969/announce
@@ -349,6 +350,9 @@ http://222.84.23.109:6969/announce
 http://222.84.23.141:6969/announce
 http://27.197.187.78:6969/announce
 http://31.38.161.123:6969/announce
+http://34.170.169.34/announce
+http://34.170.169.34:6960/announce
+http://34.170.169.34:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.89.51.235/announce
@@ -1651,6 +1655,7 @@ udp://178.215.224.155:6969/announce
 udp://178.33.73.26:2710/announce
 udp://179.118.132.77:6969/announce
 udp://179.175.247.60:6969/announce
+udp://179.98.254.201:6969/announce
 udp://179.98.254.95:6969/announce
 udp://179.98.51.208:6969/announce
 udp://18.191.163.220:6969/announce
@@ -2446,6 +2451,7 @@ udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
 udp://tracker-cn.zhuqiy.eu.org:6969/announce
+udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker-us.silksa.co.za:6969/announce
