@@ -355,7 +355,9 @@ http://31.38.161.123:6969/announce
 http://34.170.169.34/announce
 http://34.170.169.34:6960/announce
 http://34.170.169.34:6969/announce
+http://34.52.190.155/announce
 http://34.52.190.155:6960/announce
+http://34.52.190.155:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.89.51.235/announce
