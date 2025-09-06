@@ -543,6 +543,7 @@ http://83.6.212.121:6969/announce
 http://83.6.218.103:6969/announce
 http://83.6.220.156:6969/announce
 http://83.6.220.36:6969/announce
+http://83.6.222.251:6969/announce
 http://83.6.222.32:6969/announce
 http://83.6.223.155:6969/announce
 http://83.6.223.8:6969/announce
@@ -2045,6 +2046,7 @@ udp://83.6.210.62:6969/announce
 udp://83.6.212.121:6969/announce
 udp://83.6.218.103:6969/announce
 udp://83.6.220.36:6969/announce
+udp://83.6.222.251:6969/announce
 udp://83.6.222.32:6969/announce
 udp://83.6.223.155:6969/announce
 udp://83.6.225.109:6969/announce
@@ -2394,6 +2396,7 @@ udp://run.publictracker.xyz:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 udp://ryjer.com:6969/announce
 udp://sabross.xyz:6969/announce
+udp://saltwood.top:6969/announce
 udp://sanincode.com:6969/announce
 udp://santost12.xyz:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
