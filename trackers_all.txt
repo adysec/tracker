@@ -903,6 +903,7 @@ http://tr.bangumi.moe/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.cili001.com70/announce
 http://tr.cili001.com:8070/announce
+http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tr1.aag.moe:2095/announce
