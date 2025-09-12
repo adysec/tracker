@@ -399,6 +399,7 @@ http://37.27.188.67:6969/announce
 http://38.145.197.79:6961/announce
 http://4.tracker.devnak.win:6969/announce
 http://43.139.20.56:6969/announce
+http://44.30.4.3:6969/announce
 http://44.30.4.4:6969/announce
 http://45.13.119.213:6969/announce
 http://45.146.254.59/announce
@@ -1897,6 +1898,7 @@ udp://37.27.4.53:6969/announce
 udp://37.59.48.81:6969/announce
 udp://4.tracker.devnak.win:6969/announce
 udp://43.154.112.29:17272/announce
+udp://44.30.4.3:6969/announce
 udp://45.13.119.213:6969/announce
 udp://45.154.214.21:6969/announce
 udp://45.154.96.35:6969/announce
