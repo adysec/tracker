@@ -19,9 +19,17 @@ fi
 # - 使用grep -oP 来匹配以http://, https://, udp://, wss://开头并且以/announce结尾的内容
 # - 不进行贪婪匹配
 # - 使用sed来省略默认端口
+# - 过滤掉包含blackstr.txt中恶意IP的URL
 tr ',' '\n' < "$input_file" | \
 grep -oP '(http|https|udp|wss)://[^/]+/announce' | \
 sed -E 's#(http://[^/]+):80/announce#\1/announce#; s#(https://[^/]+):443/announce#\1/announce#' | \
-sed 's/[ \t]*$//' > "$output_file"
+sed 's/[ \t]*$//' | \
+{
+    if [ -f "blackstr.txt" ]; then
+        grep -v -F -f blackstr.txt
+    else
+        cat
+    fi
+} > "$output_file"
 
 echo "Formatted trackers have been saved to $output_file"

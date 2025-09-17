@@ -18,8 +18,14 @@ fi
 # 清空输出文件
 > "$output_file"
 
-# 读取文件并逐行处理
-while IFS= read -r tracker; do
+# 过滤掉包含blackstr.txt中恶意IP的URL，然后逐行处理
+{
+    if [ -f "blackstr.txt" ]; then
+        grep -v -F -f blackstr.txt "$input_file"
+    else
+        cat "$input_file"
+    fi
+} | while IFS= read -r tracker; do
     protocol=$(echo "$tracker" | grep -oE '^[a-z]+')
     
     case $protocol in
@@ -62,6 +68,6 @@ while IFS= read -r tracker; do
             echo "Unknown protocol: $protocol"
             ;;
     esac
-done < "$input_file"
+done
 
 echo "Testing complete."
