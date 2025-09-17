@@ -52,7 +52,7 @@ curl -s https://down.adysec.com/trackers_best_udp.txt
 
 创建 blackstr.txt 文件来过滤特定的 IP 地址或域名：
 
-```
+```bash
 # 示例：过滤恶意 IP
 echo "192.168.1.100" >> blackstr.txt
 echo "malicious-tracker.com" >> blackstr.txt
