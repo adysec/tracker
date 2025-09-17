@@ -7,6 +7,7 @@ if [ "$#" -ne 1 ]; then
 fi
 
 input_file="$1"
+output_file_main="trackers_best.txt"
 output_file_http="trackers_best_http.txt"
 output_file_https="trackers_best_https.txt"
 output_file_udp="trackers_best_udp.txt"
@@ -19,6 +20,7 @@ if [ ! -f "$input_file" ]; then
 fi
 
 # 清空所有输出文件
+> "$output_file_main"
 > "$output_file_http"
 > "$output_file_https"
 > "$output_file_udp"
@@ -38,6 +40,7 @@ fi
         http)
             if curl -s -f -m 1 "$tracker" &>/dev/null; then
                 echo "Success: $tracker"
+                echo "$tracker" >> "$output_file_main"
                 echo "$tracker" >> "$output_file_http"
             else
                 echo "Failed: $tracker"
@@ -46,6 +49,7 @@ fi
         https)
             if curl -s -f -m 1 "$tracker" &>/dev/null; then
                 echo "Success: $tracker"
+                echo "$tracker" >> "$output_file_main"
                 echo "$tracker" >> "$output_file_https"
             else
                 echo "Failed: $tracker"
@@ -57,14 +61,26 @@ fi
             host=$(echo "$host" | cut -d':' -f1)
             if nc -zuv -w 1 "$host" "$port" &>/dev/null; then
                 echo "Success: $tracker"
+                echo "$tracker" >> "$output_file_main"
                 echo "$tracker" >> "$output_file_udp"
             else
                 echo "Failed: $tracker"
             fi
             ;;
         wss)
-            if wscat -c "$tracker" --timeout 1 &>/dev/null; then
+            # WSS tracker 测试 - 使用简单的 TCP 连接测试
+            host=$(echo "$tracker" | sed 's|wss://||' | cut -d'/' -f1)
+            port=$(echo "$host" | cut -d':' -f2)
+            if [ "$port" = "$host" ]; then
+                port=443  # WSS 默认端口
+                host=$(echo "$host" | cut -d':' -f1)
+            else
+                host=$(echo "$host" | cut -d':' -f1)
+            fi
+            
+            if nc -zv -w 1 "$host" "$port" &>/dev/null; then
                 echo "Success: $tracker"
+                echo "$tracker" >> "$output_file_main"
                 echo "$tracker" >> "$output_file_wss"
             else
                 echo "Failed: $tracker"
