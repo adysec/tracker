@@ -20,6 +20,12 @@ https://raw.githubusercontent.com/adysec/tracker/main/trackers_all.txt
 
 经过连通性测试的可用tracker服务器，按协议分类：
 
+```
+https://down.adysec.com/trackers_best.txt
+或
+https://raw.githubusercontent.com/adysec/tracker/main/trackers_best.txt
+```
+
 #### HTTP协议
 ```
 https://down.adysec.com/trackers_best_http.txt
@@ -46,13 +52,6 @@ https://raw.githubusercontent.com/adysec/tracker/main/trackers_best_udp.txt
 https://down.adysec.com/trackers_best_wss.txt
 或
 https://raw.githubusercontent.com/adysec/tracker/main/trackers_best_wss.txt
-```
-
-#### 兼容性文件（保持向后兼容）
-```
-https://down.adysec.com/trackers_best.txt
-或
-https://raw.githubusercontent.com/adysec/tracker/main/trackers_best.txt
 ```
 
 ## 功能特性
