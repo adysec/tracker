@@ -17,33 +17,16 @@
 
 ## 📋 Tracker 列表
 
-### 全量 Tracker 列表
+本项目提供全量和优选两种类型的 Tracker 列表，其中优选列表支持按协议分类，所有列表均提供双源下载确保可用性。
 
-包含所有聚合的 Tracker 服务器（未经可用性筛选）：
-
-```
-https://down.adysec.com/trackers_all.txt
-https://raw.githubusercontent.com/adysec/tracker/main/trackers_all.txt
-```
-
-### 优选 Tracker 列表
-
-经过连通性测试的高质量 Tracker 服务器：
-
-**综合列表（推荐）**
-```
-https://down.adysec.com/trackers_best.txt
-https://raw.githubusercontent.com/adysec/tracker/main/trackers_best.txt
-```
-
-**按协议分类**
-
-| 协议 | 下载链接 |
-|------|----------|
-| HTTP | [`trackers_best_http.txt`](https://down.adysec.com/trackers_best_http.txt) \| [`GitHub`](https://raw.githubusercontent.com/adysec/tracker/main/trackers_best_http.txt) |
-| HTTPS | [`trackers_best_https.txt`](https://down.adysec.com/trackers_best_https.txt) \| [`GitHub`](https://raw.githubusercontent.com/adysec/tracker/main/trackers_best_https.txt) |
-| UDP | [`trackers_best_udp.txt`](https://down.adysec.com/trackers_best_udp.txt) \| [`GitHub`](https://raw.githubusercontent.com/adysec/tracker/main/trackers_best_udp.txt) |
-| WSS | [`trackers_best_wss.txt`](https://down.adysec.com/trackers_best_wss.txt) \| [`GitHub`](https://raw.githubusercontent.com/adysec/tracker/main/trackers_best_wss.txt) |
+| 类型 | 协议 | 说明 | 主要下载 | 备用下载 |
+|------|------|------|----------|----------|
+| **全量** | 全部 | 包含所有聚合的 Tracker 服务器（未经可用性筛选） | [`trackers_all.txt`](https://down.adysec.com/trackers_all.txt) | [`GitHub`](https://raw.githubusercontent.com/adysec/tracker/main/trackers_all.txt) |
+| **优选** | 全部 | 经过连通性测试的高质量 Tracker 服务器（推荐） | [`trackers_best.txt`](https://down.adysec.com/trackers_best.txt) | [`GitHub`](https://raw.githubusercontent.com/adysec/tracker/main/trackers_best.txt) |
+| **优选** | HTTP | 仅包含 HTTP 协议的可用 Tracker | [`trackers_best_http.txt`](https://down.adysec.com/trackers_best_http.txt) | [`GitHub`](https://raw.githubusercontent.com/adysec/tracker/main/trackers_best_http.txt) |
+| **优选** | HTTPS | 仅包含 HTTPS 协议的可用 Tracker | [`trackers_best_https.txt`](https://down.adysec.com/trackers_best_https.txt) | [`GitHub`](https://raw.githubusercontent.com/adysec/tracker/main/trackers_best_https.txt) |
+| **优选** | UDP | 仅包含 UDP 协议的可用 Tracker | [`trackers_best_udp.txt`](https://down.adysec.com/trackers_best_udp.txt) | [`GitHub`](https://raw.githubusercontent.com/adysec/tracker/main/trackers_best_udp.txt) |
+| **优选** | WSS | 仅包含 WSS 协议的可用 Tracker | [`trackers_best_wss.txt`](https://down.adysec.com/trackers_best_wss.txt) | [`GitHub`](https://raw.githubusercontent.com/adysec/tracker/main/trackers_best_wss.txt) |
 
 ## 🔧 使用方法
 
