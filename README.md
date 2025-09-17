@@ -17,17 +17,6 @@
 
 ## 📋 Tracker 列表
 
-### 全量 Tracker 列表
-
-包含所有聚合的 Tracker 服务器（未经可用性筛选）：
-
-```
-https://down.adysec.com/trackers_all.txt
-https://raw.githubusercontent.com/adysec/tracker/main/trackers_all.txt
-```
-
-## 📋 Tracker 列表
-
 本项目提供全量和优选两种类型的 Tracker 列表。全量列表包含从各大开源项目聚合的所有 Tracker 服务器，适合需要最大覆盖范围的用户；优选列表则经过严格的连通性测试，仅保留真正可用的高质量 Tracker，确保最佳的下载体验。
 
 为满足不同应用场景的需求，优选列表进一步按协议分类，用户可根据 BitTorrent 客户端的支持情况和网络环境选择合适的协议类型。其中 `trackers_best.txt` 为我们的推荐使用选项，它包含了所有协议的优质 Tracker，兼容性最佳。所有列表均提供主要和备用两个下载源，确保服务的高可用性。
@@ -71,13 +60,13 @@ echo "malicious-tracker.com" >> blackstr.txt
 
 本项目聚合以下优质开源项目的 Tracker 资源：
 
-    ngosang/trackerslist
-    XIU2/TrackersListCollection
-    chenjia404/CnTrackersList
-    hezhijie0327/Trackerslist
-    DeSireFire/animeTrackerList
-    NewTrackon
-    以及其他多个社区维护的项目
+- ngosang/trackerslist
+- XIU2/TrackersListCollection
+- chenjia404/CnTrackersList
+- hezhijie0327/Trackerslist
+- DeSireFire/animeTrackerList
+- NewTrackon
+- 以及其他多个社区维护的项目
 
 ## ⭐ Star History
 
