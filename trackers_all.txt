@@ -17,7 +17,6 @@ http://107.150.14.110:6969/announce
 http://107.152.127.9:6969/announce
 http://107.152.45.140/announce
 http://107.189.10.20.sslip.io:7777/announce
-http://107.189.2.131:1337/announce
 http://107.189.31.134:6969/announce
 http://107.189.7.143:6969/announce
 http://109.121.134.121:1337/announce
@@ -184,6 +183,7 @@ http://177.188.141.175:6969/announce
 http://177.188.141.32:6969/announce
 http://177.215.67.165:6969/announce
 http://177.27.223.184:6969/announce
+http://177.27.223.186:6969/announce
 http://177.68.44.127:6969/announce
 http://178.175.143.27/announce
 http://178.33.73.26:2710/announce
@@ -1553,7 +1553,6 @@ udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://107.189.11.58:6969/announce
-udp://107.189.2.131:1337/announce
 udp://107.189.3.200:6969/announce
 udp://108.53.194.223:6969/announce
 udp://108.61.166.249:6969/announce
@@ -1621,6 +1620,7 @@ udp://148.251.53.72:6969/announce
 udp://15.204.205.14:6969/announce
 udp://15.204.56.171:6969/announce
 udp://15.204.57.168:6969/announce
+udp://151.243.109.163:6969/announce
 udp://151.80.120.114:2710/announce
 udp://152.231.114.120:1337/announce
 udp://152.249.214.53:6969/announce
@@ -1663,6 +1663,7 @@ udp://177.188.141.175:6969/announce
 udp://177.188.141.32:6969/announce
 udp://177.215.67.165:6969/announce
 udp://177.27.223.184:6969/announce
+udp://177.27.223.186:6969/announce
 udp://178.156.140.15:53/announce
 udp://178.156.140.201:3074/announce
 udp://178.170.48.154:1337/announce
