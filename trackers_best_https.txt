@@ -1,5 +1,4 @@
 https://1.tracker.eu.org/announce
-https://1337.abcvg.info/announce
 https://2.tracker.eu.org/announce
 https://3.tracker.eu.org/announce
 https://337hhh.xyz/announce
@@ -13,8 +12,10 @@ https://sparkle.ghostchu-services.top/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
 https://t1.hloli.org/announce
+https://torrent.opiums.eu/announce
 https://torrent.tracker.durukanbal.com/announce
 https://tr.qfruiti.com/announce
+https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.gcrreen.xyz/announce
@@ -28,4 +29,3 @@ https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
-https://www.wareztorrent.com/announce
