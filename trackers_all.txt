@@ -1374,6 +1374,7 @@ https://tracker.babico.name.tr/announce
 https://tracker.baka.ink/announce
 https://tracker.bangumi.zip/announce
 https://tracker.baravik.org:6970/announce
+https://tracker.belmult.online/announce
 https://tracker.bittor.pw:1337/announce
 https://tracker.bittorrent.am/announce
 https://tracker.bjut.jp/announce
