@@ -13,6 +13,7 @@ https://sparkle.ghostchu-services.top/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
 https://t1.hloli.org/announce
+https://torrent.tracker.durukanbal.com/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.belmult.online/announce
