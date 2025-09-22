@@ -253,6 +253,7 @@ http://189.79.12.122:6969/announce
 http://189.79.12.24:6969/announce
 http://189.79.12.59:6969/announce
 http://189.79.13.111:6969/announce
+http://191.23.121.129:6969/announce
 http://191.23.62.147:6969/announce
 http://191.23.71.103:6969/announce
 http://191.23.94.237:6969/announce
@@ -484,6 +485,7 @@ http://74.48.17.122:6969/announce
 http://74.82.52.209:6969/announce
 http://75.127.14.224:2710/announce
 http://78.30.254.12:2710/announce
+http://79.111.12.213:6969/announce
 http://79.137.198.96:6969/announce
 http://80.246.243.18:6969/announce
 http://81.169.145.151/announce
@@ -1238,6 +1240,7 @@ https://bot.ponomar-sibir.ru/announce
 https://bruisedfumblingmotion.sddsdsdsddsdss.repl.co/announce
 https://bt.080609.xyz/announce
 https://bt.beatrice-raws.org/announce
+https://bt.bontal.net/announce
 https://bt.endpot.com/announce
 https://bt.henbt.com:2710/announce
 https://bt.nfshost.com/announce
@@ -1245,6 +1248,7 @@ https://bt.ptlsp.com/announce
 https://bt.pusacg.org:8080/announce
 https://bt2.080609.xyz/announce
 https://bt2.careland.com.cn:6969/announce
+https://burmese.app/announce
 https://carapax.net/announce
 https://carbon-bonsai-621.appspot.com/announce
 https://cernet-tracker.appspot.com/announce
@@ -1731,6 +1735,7 @@ udp://189.79.12.59:6969/announce
 udp://189.79.13.111:6969/announce
 udp://190.146.242.81:6969/announce
 udp://191.101.229.236:1337/announce
+udp://191.23.121.129:6969/announce
 udp://191.23.62.147:6969/announce
 udp://191.23.71.103:6969/announce
 udp://191.23.94.237:6969/announce
@@ -2165,6 +2170,7 @@ udp://brokenhelix.loseyourip.com:6969/announce
 udp://bry-dell-htpc.freeddns.org:6969/announce
 udp://bt-tracker.devnak.win:6969/announce
 udp://bt.aoeex.com:8000/announce
+udp://bt.bontal.net:443/announce
 udp://bt.bontal.net:6969/announce
 udp://bt.delbertbeta.cc:19943/announce
 udp://bt.ktrackers.com:6666/announce
