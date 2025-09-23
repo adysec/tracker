@@ -166,6 +166,7 @@ udp://187.11.75.196:6969/announce
 udp://187.56.163.140:6969/announce
 udp://187.56.205.91:6969/announce
 udp://187.57.130.109:6969/announce
+udp://187.57.130.147:6969/announce
 udp://187.57.131.202:6969/announce
 udp://187.57.229.141:6969/announce
 udp://188.165.253.109:1337/announce
