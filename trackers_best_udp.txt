@@ -313,6 +313,7 @@ udp://222.84.22.86:6969/announce
 udp://222.84.23.141:6969/announce
 udp://23.134.88.11:6969/announce
 udp://23.134.88.9:1337/announce
+udp://23.134.88.9:6969/announce
 udp://23.134.89.9:1337/announce
 udp://23.134.90.6:1337/announce
 udp://23.134.90.9:1337/announce
@@ -636,6 +637,7 @@ udp://eddie4.nl:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://engplus.ru:6969/announce
 udp://epider.me:6969/announce
+udp://escalaenbernal.com:3074/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
@@ -943,6 +945,7 @@ udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
 udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
+udp://www.peckservers.com:9000/announce
 udp://www.torrent.eu.org:451/announce
 udp://www.tvnihon.com:6969/announce
 udp://xxxtor.com:2710/announce
