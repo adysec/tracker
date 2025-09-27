@@ -690,7 +690,6 @@ udp://mail.artixlinux.org:6969/announce
 udp://mail.lakameraobscura.com:6969/announce
 udp://mail.realliferpg.de:6969/announce
 udp://mail.segso.net:6969/announce
-udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://mgtracker.org:2710/announce
 udp://mirror.aptus.co.tz:6969/announce

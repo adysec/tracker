@@ -861,6 +861,7 @@ http://speedtest.iperson.xyz:6969/announce
 http://sugoi.pomf.se/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
+http://t.al.uy/announce
 http://t.jaekr.sh:6969/announce
 http://t.nyaatracker.com/announce
 http://t.overflow.biz:6969/announce
