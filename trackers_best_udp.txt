@@ -752,6 +752,7 @@ udp://run.publictracker.xyz:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 udp://ryjer.com:6969/announce
 udp://saltwood.top:6969/announce
+udp://sanincode.com:6969/announce
 udp://santost12.xyz:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
 udp://seedpeer.net:6969/announce
@@ -814,7 +815,6 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.christianbro.pw:6969/announce
-udp://tracker.cloaka.xyz:1337/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cubonegro.lol:6969/announce

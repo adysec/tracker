@@ -19,9 +19,11 @@ https://tracker.bt4g.com/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.jdx3.org/announce
 https://tracker.keepfrds.com/announce
+https://tracker.madtia.cc/announce
 https://tracker.qingwa.pro/announce
 https://tracker.totheglory.im/announce
 https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
+https://www.wareztorrent.com/announce
