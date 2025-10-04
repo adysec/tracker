@@ -219,6 +219,7 @@ udp://200.168.117.55:6969/announce
 udp://200.170.110.108:6969/announce
 udp://200.170.113.35:6969/announce
 udp://201.13.49.112:6969/announce
+udp://201.13.49.202:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
