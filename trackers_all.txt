@@ -1107,6 +1107,7 @@ http://tracker.ykat.xyz:6969/announce
 http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com/announce
 http://tracker.zerobytes.xyz:1337/announce
+http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.eu.org:36107/announce
 http://tracker.zhuqiy.top/announce
@@ -1547,6 +1548,7 @@ https://x7x.up.railway.app/announce
 https://xtremex.herokuapp.com/announce
 https://yolo.liberbear.com/announce
 https://yolo.liberbear.com:80/announce
+https://yuki.bt.bontal.net/announce
 https://zer0day.000webhostapp.com/announce
 udp://0205.uptm.ch:6969/announce
 udp://10.rarbg.com/announce
