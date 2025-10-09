@@ -264,6 +264,7 @@ http://191.255.155.138:6969/announce
 http://191.255.155.153:6969/announce
 http://191.255.155.187:6969/announce
 http://191.255.155.74:6969/announce
+http://191.255.193.16:6969/announce
 http://191.255.193.44:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
@@ -1560,6 +1561,7 @@ udp://104.143.10.186:8000/announce
 udp://104.238.198.186:8000/announce
 udp://104.244.77.14:1337/announce
 udp://104.244.77.87:6969/announce
+udp://104.248.85.59:6969/announce
 udp://106.55.172.54:6969/announce
 udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
@@ -1677,6 +1679,7 @@ udp://177.188.141.32:6969/announce
 udp://177.215.67.165:6969/announce
 udp://177.27.223.184:6969/announce
 udp://177.27.223.186:6969/announce
+udp://178.128.94.74:6969/announce
 udp://178.156.140.15:53/announce
 udp://178.156.140.201:3074/announce
 udp://178.170.48.154:1337/announce
@@ -1753,6 +1756,7 @@ udp://191.255.155.138:6969/announce
 udp://191.255.155.153:6969/announce
 udp://191.255.155.187:6969/announce
 udp://191.255.155.74:6969/announce
+udp://191.255.193.16:6969/announce
 udp://191.255.193.44:6969/announce
 udp://192.95.46.115:6969/announce
 udp://193.177.162.187:6969/announce

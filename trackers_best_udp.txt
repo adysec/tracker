@@ -6,6 +6,7 @@ udp://104.143.10.186:8000/announce
 udp://104.238.198.186:8000/announce
 udp://104.244.77.14:1337/announce
 udp://104.244.77.87:6969/announce
+udp://104.248.85.59:6969/announce
 udp://106.55.172.54:6969/announce
 udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
@@ -121,6 +122,7 @@ udp://177.188.141.32:6969/announce
 udp://177.215.67.165:6969/announce
 udp://177.27.223.184:6969/announce
 udp://177.27.223.186:6969/announce
+udp://178.128.94.74:6969/announce
 udp://178.156.140.15:53/announce
 udp://178.156.140.201:3074/announce
 udp://178.170.48.154:1337/announce
@@ -197,6 +199,7 @@ udp://191.255.155.138:6969/announce
 udp://191.255.155.153:6969/announce
 udp://191.255.155.187:6969/announce
 udp://191.255.155.74:6969/announce
+udp://191.255.193.16:6969/announce
 udp://191.255.193.44:6969/announce
 udp://192.95.46.115:6969/announce
 udp://193.177.162.187:6969/announce
@@ -538,6 +541,10 @@ udp://89.234.156.205:451/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
+udp://9.rarbg.to:2710/announce
+udp://9.rarbg.to:2730/announce
+udp://9.rarbg.to:2740/announce
+udp://9.rarbg.to:2800/announce
 udp://91.208.197.19:6969/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.52:451/announce
@@ -617,6 +624,7 @@ udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
+udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
@@ -667,6 +675,7 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
+udp://joczo.duckdns.org:6969/announce
 udp://johnrosen1.com:6969/announce
 udp://jutone.com:6969/announce
 udp://kiryuu-test.mywaifu.best:6969/announce
@@ -736,6 +745,7 @@ udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
 udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
@@ -795,6 +805,7 @@ udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-udp.anirena.com:80/announce
