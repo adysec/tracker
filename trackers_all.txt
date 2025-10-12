@@ -107,6 +107,7 @@ http://139.202.231.170:6969/announce
 http://139.202.231.176:6969/announce
 http://139.202.231.249:6969/announce
 http://139.202.231.55:6969/announce
+http://140.235.237.23:6969/announce
 http://140.82.21.192:8080/announce
 http://141.11.240.19/announce
 http://141.144.224.250:2710/announce
@@ -286,6 +287,7 @@ http://200.168.117.55:6969/announce
 http://200.170.109.89:6969/announce
 http://200.170.110.108:6969/announce
 http://200.170.113.35:6969/announce
+http://200.170.113.5:6969/announce
 http://200.232.254.1:6969/announce
 http://201.13.49.112:6969/announce
 http://201.13.49.202:6969/announce
@@ -657,6 +659,7 @@ http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.poletracker.org:2710/announce
 http://bt.pusacg.org:8080/announce
+http://bt.rer.lol:2710/announce
 http://bt.rghost.net/announce
 http://bt.sc-ol.com:2710/announce
 http://bt.ttk.artvid.ru:6969/announce
@@ -1641,6 +1644,8 @@ udp://152.231.114.120:1337/announce
 udp://152.249.214.53:6969/announce
 udp://152.249.214.68:6969/announce
 udp://152.249.214.74:6969/announce
+udp://152.53.152.105:1984/announce
+udp://152.53.152.105:54123/announce
 udp://156.234.201.18:80/announce
 udp://157.131.124.190:6969/announce
 udp://158.101.161.60:3131/announce
@@ -1769,6 +1774,7 @@ udp://194.106.216.222:80/announce
 udp://194.110.247.18:6969/announce
 udp://194.195.86.132:6969/announce
 udp://194.38.21.77:6969/announce
+udp://194.62.248.73:15480/announce
 udp://194.87.68.142:6969/announce
 udp://195.123.209.37:1337/announce
 udp://195.123.209.40:80/announce
@@ -1779,6 +1785,7 @@ udp://200.148.11.147:6969/announce
 udp://200.168.117.55:6969/announce
 udp://200.170.110.108:6969/announce
 udp://200.170.113.35:6969/announce
+udp://200.170.113.5:6969/announce
 udp://201.13.49.112:6969/announce
 udp://201.13.49.202:6969/announce
 udp://201.13.51.82:6969/announce
@@ -1792,6 +1799,7 @@ udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
+udp://209.50.255.93:3218/announce
 udp://210.61.187.208:6969/announce
 udp://210.61.187.208:80/announce
 udp://210.61.187.209:6969/announce
@@ -2131,6 +2139,7 @@ udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://94.103.87.87:6969/announce
+udp://94.136.190.183:1333/announce
 udp://94.136.190.183:1337/announce
 udp://94.136.190.183:2710/announce
 udp://94.136.190.183:6969/announce
