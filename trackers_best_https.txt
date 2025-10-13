@@ -1,9 +1,8 @@
-https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
 https://mathkangaroo.jp/announce
 https://opentracker.xyz/announce
-https://retracker2.x2k.ru/announce
+https://retracker.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
@@ -11,7 +10,6 @@ https://torrent.tracker.durukanbal.com/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.belmult.online/announce
-https://tracker.bt4g.com/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.jdx3.org/announce
 https://tracker.keepfrds.com/announce
@@ -22,3 +20,4 @@ https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
+https://www.wareztorrent.com/announce
