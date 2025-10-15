@@ -123,6 +123,7 @@ http://15.204.57.168:6969/announce
 http://151.115.49.115:1337/announce
 http://152.231.114.120:1337/announce
 http://152.231.114.55:1337/announce
+http://152.243.213.163:6969/announce
 http://152.249.214.53:6969/announce
 http://152.249.214.68:6969/announce
 http://152.249.214.74:6969/announce
@@ -1644,6 +1645,7 @@ udp://15.204.57.168:6969/announce
 udp://151.243.109.163:6969/announce
 udp://151.80.120.114:2710/announce
 udp://152.231.114.120:1337/announce
+udp://152.243.213.163:6969/announce
 udp://152.249.214.53:6969/announce
 udp://152.249.214.68:6969/announce
 udp://152.249.214.74:6969/announce
