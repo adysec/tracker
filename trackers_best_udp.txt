@@ -649,7 +649,6 @@ udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://eccologic.net:6969/announce
 udp://eddie4.nl:6969/announce
-udp://elementsbrowser.com:6969/announce
 udp://engplus.ru:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
@@ -797,7 +796,6 @@ udp://thagoat.rocks:6969/announce
 udp://themaninashed.com:6969/announce
 udp://theodoric.fr:6969/announce
 udp://thetracker.org:80/announce
-udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk.cubicview.site:80/announce
 udp://tk1.trackerservers.com:8080/announce
@@ -964,6 +962,7 @@ udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
 udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
+udp://www.peckservers.com:9000/announce
 udp://www.torrent.eu.org:451/announce
 udp://www.tvnihon.com:6969/announce
 udp://xxxtor.com:2710/announce
