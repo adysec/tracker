@@ -77,6 +77,7 @@ udp://148.251.53.72:6969/announce
 udp://15.204.205.14:6969/announce
 udp://15.204.56.171:6969/announce
 udp://15.204.57.168:6969/announce
+udp://151.243.109.110:6969/announce
 udp://151.243.109.163:6969/announce
 udp://151.80.120.114:2710/announce
 udp://152.231.114.120:1337/announce
@@ -230,6 +231,7 @@ udp://201.13.49.112:6969/announce
 udp://201.13.49.202:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
@@ -649,6 +651,7 @@ udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://eccologic.net:6969/announce
 udp://eddie4.nl:6969/announce
+udp://elementsbrowser.com:6969/announce
 udp://engplus.ru:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
@@ -796,6 +799,7 @@ udp://thagoat.rocks:6969/announce
 udp://themaninashed.com:6969/announce
 udp://theodoric.fr:6969/announce
 udp://thetracker.org:80/announce
+udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk.cubicview.site:80/announce
 udp://tk1.trackerservers.com:8080/announce
