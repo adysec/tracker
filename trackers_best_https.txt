@@ -5,6 +5,7 @@ https://3.tracker.eu.org/announce
 https://337hhh.xyz/announce
 https://4.tracker.eu.org/announce
 https://bt.beatrice-raws.org/announce
+https://opentracker.xyz/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
@@ -17,10 +18,10 @@ https://tracker.bt4g.com/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.jdx3.org/announce
 https://tracker.keepfrds.com/announce
-https://tracker.madtia.cc/announce
 https://tracker.totheglory.im/announce
 https://tracker.uraniumhexafluori.de/announce
 https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
+https://www.wareztorrent.com/announce
