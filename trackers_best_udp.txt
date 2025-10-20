@@ -766,6 +766,7 @@ udp://rt.tace.ru:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 udp://ryjer.com:6969/announce
+udp://sabross.xyz:6969/announce
 udp://saltwood.top:6969/announce
 udp://sanincode.com:6969/announce
 udp://santost12.xyz:6969/announce
@@ -896,6 +897,7 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.renfei.net:8080/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.sbsub.com:2710/announce
+udp://tracker.shkinev.me:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skillindia.site:6969/announce
