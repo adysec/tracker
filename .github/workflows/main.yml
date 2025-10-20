@@ -53,6 +53,7 @@ jobs:
           curl https://raw.githubusercontent.com/jhhd88/trackerslist/refs/heads/master/trackerslist.txt >> trackers_all.txt
           curl https://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt >> trackers_all.txt
           curl https://torrends.to/torrent-tracker-list/?download=latest >> trackers_all.txt
+          curl https://bt.me88.top/ >> trackers_all.txt
           curl https://download2390.mediafire.com/4clmhb2up6mgbAg73W8O9khMX7aY8w4QBaXHJu5XxADIz6Brz2tdMXdeLUk3XxfvUDrRl-VYeEfJ2SSc1fOe2Xm3VruuR8vEyKnc7xYmwaSBVoPy40faVgPg0wva1iVOSBNSJfX94cTm9BvMU3pT5692_ovSwnX-p5hTgnZ1hlAz/i0cronnuwj5co6n/super+fast+trackers.txt >> trackers_all.txt
           curl https://newtrackon.com/api/stable >> trackers_all.txt
           bash format.sh trackers_all.txt
