@@ -1273,6 +1273,7 @@ https://cernet-tracker.appspot.com/announce
 https://chdbits.xyz/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://chihaya.de/announce
+https://cny.fan/announce
 https://danielcloud.ddns.net/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://docker-tracker-production.up.railway.app/announce
@@ -1712,6 +1713,7 @@ udp://182.176.139.129:6969/announce
 udp://184.105.151.166:6969/announce
 udp://184.105.226.26:6969/announce
 udp://185.102.219.163:6969/announce
+udp://185.121.168.244:1337/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.189.13.108:6969/announce
