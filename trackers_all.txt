@@ -372,6 +372,8 @@ http://222.84.23.141:6969/announce
 http://27.197.187.78:6969/announce
 http://31.38.161.123:6969/announce
 http://34.170.169.34/announce
+http://34.170.169.34:11450/announce
+http://34.170.169.34:1337/announce
 http://34.170.169.34:2710/announce
 http://34.170.169.34:6960/announce
 http://34.170.169.34:6969/announce
