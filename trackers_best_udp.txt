@@ -13,6 +13,8 @@ udp://107.175.221.194:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://107.189.11.58:6969/announce
 udp://107.189.3.200:6969/announce
+udp://107.189.4.235:1337/announce
+udp://107.189.7.165:6969/announce
 udp://108.53.194.223:6969/announce
 udp://108.61.166.249:6969/announce
 udp://109.121.134.121:1337/announce
@@ -106,6 +108,7 @@ udp://176.56.7.44:6969/announce
 udp://176.56.7.89:6969/announce
 udp://176.79.98.66:6969/announce
 udp://176.99.7.59:6969/announce
+udp://177.112.215.129:6969/announce
 udp://177.112.215.131:6969/announce
 udp://177.112.215.4:6969/announce
 udp://177.139.44.145:6969/announce
@@ -636,6 +639,7 @@ udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
+udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
@@ -820,7 +824,6 @@ udp://trackarr.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
-udp://tracker-us.silksa.co.za:6969/announce
 udp://tracker-v6.opendev.cloud:8000/announce
 udp://tracker.1048576.cn:17272/announce
 udp://tracker.1337x.org:80/announce
@@ -862,6 +865,7 @@ udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.filepit.to:6969/announce
 udp://tracker.files.fm:6969/announce
+udp://tracker.filetracker.pl:8089/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.fortu.io:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -875,6 +879,8 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
+udp://tracker.kmzs123.com:17272/announce
+udp://tracker.kmzs123.com:443/announce
 udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.kuroy.me:5944/announce
 udp://tracker.leechers-paradise.org:6969/announce
