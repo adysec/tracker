@@ -192,6 +192,7 @@ udp://189.18.97.116:6969/announce
 udp://189.69.167.130:6969/announce
 udp://189.69.168.180:6969/announce
 udp://189.69.169.237:6969/announce
+udp://189.69.171.209:6969/announce
 udp://189.69.171.75:6969/announce
 udp://189.69.171.84:6969/announce
 udp://189.79.12.122:6969/announce
@@ -819,7 +820,6 @@ udp://torrents.artixlinux.org:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tr.bangumi.moe:6969/announce
-udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
@@ -884,7 +884,6 @@ udp://tracker.kmzs123.com:17272/announce
 udp://tracker.kmzs123.com:443/announce
 udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.kuroy.me:5944/announce
-udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lyretain.site:2710/announce
 udp://tracker.merded.xyz:8000/announce
 udp://tracker.mg64.net:2710/announce

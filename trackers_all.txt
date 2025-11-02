@@ -258,6 +258,7 @@ http://189.18.97.116:6969/announce
 http://189.69.167.130:6969/announce
 http://189.69.168.180:6969/announce
 http://189.69.169.237:6969/announce
+http://189.69.171.209:6969/announce
 http://189.69.171.75:6969/announce
 http://189.69.171.84:6969/announce
 http://189.79.12.122:6969/announce
@@ -382,6 +383,8 @@ http://34.170.169.34:6969/announce
 http://34.52.190.155/announce
 http://34.52.190.155:6960/announce
 http://34.52.190.155:6969/announce
+http://34.66.57.33/announce
+http://34.66.57.33:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.89.51.235/announce
@@ -1770,6 +1773,7 @@ udp://189.18.97.116:6969/announce
 udp://189.69.167.130:6969/announce
 udp://189.69.168.180:6969/announce
 udp://189.69.169.237:6969/announce
+udp://189.69.171.209:6969/announce
 udp://189.69.171.75:6969/announce
 udp://189.69.171.84:6969/announce
 udp://189.79.12.122:6969/announce
