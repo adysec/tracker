@@ -1,7 +1,7 @@
 https://1.tracker.eu.org/announce
 https://1337.abcvg.info/announce
-https://2.tracker.eu.org/announce
 https://3.tracker.eu.org/announce
+https://4.tracker.eu.org/announce
 https://bt.beatrice-raws.org/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
@@ -9,11 +9,10 @@ https://sparkle.ghostchu-services.top/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
 https://tr.qfruiti.com/announce
-https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
 https://tracker.belmult.online/announce
 https://tracker.bt4g.com/announce
-https://tracker.guguan.dpdns.org/announce
+https://tracker.cyber-hub.net/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
 https://tracker.totheglory.im/announce
