@@ -189,6 +189,7 @@ http://177.172.67.94:6969/announce
 http://177.188.141.137:6969/announce
 http://177.188.141.175:6969/announce
 http://177.188.141.32:6969/announce
+http://177.215.65.176:6969/announce
 http://177.215.67.165:6969/announce
 http://177.27.223.184:6969/announce
 http://177.27.223.186:6969/announce
@@ -1710,6 +1711,7 @@ udp://177.172.67.247:6969/announce
 udp://177.172.67.94:6969/announce
 udp://177.188.141.175:6969/announce
 udp://177.188.141.32:6969/announce
+udp://177.215.65.176:6969/announce
 udp://177.215.67.165:6969/announce
 udp://177.27.223.184:6969/announce
 udp://177.27.223.186:6969/announce
