@@ -7,18 +7,19 @@
 
 本项目自动收集、测试和维护高质量的 BitTorrent Tracker 服务器列表。通过每日自动化流程，从多个开源项目聚合 Tracker 数据，进行连通性测试，并提供按协议分类的优选列表。
 
-```
-# 提供推荐tracker服务器，使用本项目中全量tracker服务器进行负载均衡配置，在不影响连接peer数量的情况下，大幅度减少对tracker的并发请求
-https://tracker.adysec.com/announce
-```
+**提供推荐tracker服务器，使用本项目中全量tracker服务器进行负载均衡配置，理论上相当于加入了本项目所有tracker服务器，且可以大幅度减少对tracker服务器的并发请求**
 
-### ✨ 核心特性
-
-- 🛡️ **安全可靠**：集成威胁情报，自动过滤恶意 IP 地址
-- 🔄 **实时更新**：每日自动更新，确保 Tracker 列表时效性
-- 📊 **协议分类**：支持 HTTP、HTTPS、UDP、WSS 四种协议分类
-- 🚀 **高可用性**：仅保留经过连通性测试的可用 Tracker
-- 🌐 **多源聚合**：整合十余个知名开源项目的 Tracker 资源
+[`https://tracker.adysec.com/announce`](https://tracker.adysec.com/announce)
+```
+       客户端
+          │
+          ▼
+    推荐 Tracker
+       │
+  ┌────┼────┼────┐
+  ▼    ▼    ▼
+  A    B    C
+```
 
 ## 📋 Tracker 列表
 
@@ -34,6 +35,14 @@ https://tracker.adysec.com/announce
 | **优选** | HTTPS | 仅包含 HTTPS 协议的可用 Tracker | [`trackers_best_https.txt`](https://down.adysec.com/trackers_best_https.txt) | [`GitHub`](https://raw.githubusercontent.com/adysec/tracker/main/trackers_best_https.txt) |
 | **优选** | UDP | 仅包含 UDP 协议的可用 Tracker | [`trackers_best_udp.txt`](https://down.adysec.com/trackers_best_udp.txt) | [`GitHub`](https://raw.githubusercontent.com/adysec/tracker/main/trackers_best_udp.txt) |
 | **优选** | WSS | 仅包含 WSS 协议的可用 Tracker | [`trackers_best_wss.txt`](https://down.adysec.com/trackers_best_wss.txt) | [`GitHub`](https://raw.githubusercontent.com/adysec/tracker/main/trackers_best_wss.txt) |
+
+### ✨ 核心特性
+
+- 🛡️ **安全可靠**：集成威胁情报，自动过滤恶意 IP 地址
+- 🔄 **实时更新**：每日自动更新，确保 Tracker 列表时效性
+- 📊 **协议分类**：支持 HTTP、HTTPS、UDP、WSS 四种协议分类
+- 🚀 **高可用性**：仅保留经过连通性测试的可用 Tracker
+- 🌐 **多源聚合**：整合十余个知名开源项目的 Tracker 资源
 
 ## 🔧 使用方法
 
