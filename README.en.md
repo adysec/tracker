@@ -14,19 +14,7 @@ Through a daily automated workflow, it aggregates tracker data from multiple ope
 
 `https://tracker.adysec.com/announce`
 
-arduino   
-複製程式碼   
-   Client  
-      │   
-         
-Recommended Tracker   
-│   
-┌────┼────┼────┐   
-▼ ▼ ▼   
-A B C   
 
-markdown
-複製程式碼
 
 ## 📋 Tracker Lists
 
