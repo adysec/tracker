@@ -1,12 +1,20 @@
 https://1337.abcvg.info/announce
+https://bittracker.nekosunevr.co.uk/announce
 https://bt.beatrice-raws.org/announce
+https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
 https://torrent.tracker.durukanbal.com/announce
+https://tr-rh-zhuqiy.dgj055.icu/announce
+https://tr-zhuqiy-1.dgj055.icu/announce
+https://tr-zhuqiy-2.dgj055.icu/announce
+https://tr.kxmp.cf/announce
 https://tr.qfruiti.com/announce
+https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
+https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker.belmult.online/announce
 https://tracker.bt4g.com/announce
 https://tracker.cyber-hub.net/announce
@@ -20,3 +28,4 @@ https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
 https://tracker2.leaves.red/announce
 https://tracker3.leaves.red/announce
+https://www.wareztorrent.com/announce
