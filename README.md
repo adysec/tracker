@@ -1,3 +1,4 @@
+[🇨🇳 简体中文](README.md) | [🇺🇸 English](README.en.md)
 # BitTorrent Tracker 聚合项目
 
 [![更新状态](https://github.com/adysec/tracker/workflows/Daily%20Update%20Tracker/badge.svg)](https://github.com/adysec/tracker/actions)
