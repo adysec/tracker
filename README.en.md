@@ -68,32 +68,29 @@ curl -s https://down.adysec.com/trackers_best.txt
 
 # Get trackers for a specific protocol (e.g., UDP)
 curl -s https://down.adysec.com/trackers_best_udp.txt
-🔧 Custom Filtering
+```
+
+### 🔧 Custom Filtering
 Create a blackstr.txt file to filter specific IP addresses or domains:
 
-bash
-複製程式碼
+```bash
 # Example: filter malicious IP / domain
 echo "192.168.1.100" >> blackstr.txt
 echo "malicious-tracker.com" >> blackstr.txt
-📊 Data Sources
+```
+
+## 📊 Data Sources
+
 This project aggregates tracker resources from the following high-quality open-source projects:
 
-ngosang/trackerslist
+- ngosang/trackerslist
+- XIU2/TrackersListCollection
+- chenjia404/CnTrackersList
+- hezhijie0327/Trackerslist
+- DeSireFire/animeTrackerList
 
-XIU2/TrackersListCollection
+## 💡 Motivation
 
-chenjia404/CnTrackersList
-
-hezhijie0327/Trackerslist
-
-DeSireFire/animeTrackerList
-
-NewTrackon
-
-And several other community-maintained projects
-
-💡 Motivation
 Many public trackers perform poorly in real-world use and severely degrade download experience.
 This project aims to automatically aggregate, test, and filter trackers to provide a truly usable, frequently updated list for both personal use and the community.
 
@@ -103,21 +100,6 @@ However, most public torrents are concentrated in adult content, making it diffi
 Any tracker naturally logs clients’ IP and port information, which has threat-intelligence value.
 For example, you can observe which countries or regions a torrent is most frequently downloaded from, or quickly estimate the location and impact scope in a data-leak incident based on connection distribution.
 
-⭐ Star History
+## ⭐ Star History
+
 If this project is helpful to you, please consider giving it a ⭐ on GitHub!
-
-複製程式碼
-
-
-
-
-
-
-
-
-
-進階思考
-
-
-
-ChatGPT 可能會出錯。請查核重要資訊。
