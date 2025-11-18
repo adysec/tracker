@@ -191,6 +191,7 @@ http://177.188.141.175:6969/announce
 http://177.188.141.32:6969/announce
 http://177.215.65.176:6969/announce
 http://177.215.67.165:6969/announce
+http://177.215.67.185:6969/announce
 http://177.27.223.184:6969/announce
 http://177.27.223.186:6969/announce
 http://177.68.44.127:6969/announce
