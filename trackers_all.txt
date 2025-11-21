@@ -262,6 +262,7 @@ http://189.18.97.201:6969/announce
 http://189.69.167.130:6969/announce
 http://189.69.168.180:6969/announce
 http://189.69.169.237:6969/announce
+http://189.69.169.89:6969/announce
 http://189.69.171.209:6969/announce
 http://189.69.171.75:6969/announce
 http://189.69.171.84:6969/announce
@@ -1783,6 +1784,7 @@ udp://189.18.97.201:6969/announce
 udp://189.69.167.130:6969/announce
 udp://189.69.168.180:6969/announce
 udp://189.69.169.237:6969/announce
+udp://189.69.169.89:6969/announce
 udp://189.69.171.209:6969/announce
 udp://189.69.171.75:6969/announce
 udp://189.69.171.84:6969/announce
@@ -2632,6 +2634,7 @@ udp://tracker.filetracker.pl:8089/announce
 udp://tracker.flashtorrents.org:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.fortu.io:6969/announce
+udp://tracker.frozen-layer.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.grepler.com:6969/announce
