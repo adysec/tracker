@@ -177,6 +177,7 @@ udp://187.11.73.213:6969/announce
 udp://187.11.74.138:6969/announce
 udp://187.11.75.17:6969/announce
 udp://187.11.75.196:6969/announce
+udp://187.34.25.113:6969/announce
 udp://187.56.163.140:6969/announce
 udp://187.56.205.91:6969/announce
 udp://187.57.130.109:6969/announce
@@ -922,7 +923,6 @@ udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.sktorrent.net:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
