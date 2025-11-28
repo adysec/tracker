@@ -519,6 +519,7 @@ http://64.112.43.194:6969/announce
 http://65.108.2.176:2710/announce
 http://65.130.190.21:9000/announce
 http://65.130.205.148:9000/announce
+http://66.154.105.124:6969/announce
 http://74.48.17.122:6969/announce
 http://74.82.52.209:6969/announce
 http://75.127.14.224:2710/announce
