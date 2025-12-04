@@ -1154,7 +1154,6 @@ http://tracker.zhuqiy.eu.org:36107/announce
 http://tracker.zhuqiy.top/announce
 http://tracker01.loveapp.com:6789/announce
 http://tracker1.bt.moack.co.kr/announce
-http://tracker1.itzmx.com80/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker1.torrentino.com/announce
 http://tracker1.wasabii.com.tw:6969/announce
@@ -1170,10 +1169,8 @@ http://tracker3.ctix.cn:2095/announce
 http://tracker3.ctix.cn:8080/announce
 http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
-http://tracker3.itzmx.com:8080/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.itzmx.com:2710/announce
-http://tracker4.itzmx.com:6961/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://tracker810.xyz:11450/announce
@@ -1568,7 +1565,6 @@ https://tracker1.loli.co.nz/announce
 https://tracker1.wasabii.com.tw:6969/announce
 https://tracker1.wimix.org/announce
 https://tracker2.ctix.cn/announce
-https://tracker2.itzmx.com:6961/announce
 https://tracker2.leaves.red/announce
 https://tracker2.wasabii.com.tw:6969/announce
 https://tracker3.ctix.cn/announce
