@@ -366,6 +366,7 @@ http://212.60.5.147:2710/announce
 http://212.60.5.203:2710/announce
 http://213.159.215.198:6970/announce
 http://213.163.67.56:1337/announce
+http://216.144.239.90:6969/announce
 http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
