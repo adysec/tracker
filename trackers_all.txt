@@ -1,11 +1,3 @@
-http://tracker1.itzmx.com:8080/announce
-http://tracker2.itzmx.com:6961/announce
-http://tracker3.itzmx.com:6961/announce
-http://tracker4.itzmx.com:2710/announce
-udp://tracker1.itzmx.com:8080/announce
-udp://tracker2.itzmx.com:6961/announce
-udp://tracker3.itzmx.com:6961/announce
-udp://tracker4.itzmx.com:2710/announce
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
@@ -381,6 +373,7 @@ http://220.130.15.27:6969/announce
 http://220.130.15.30/announce
 http://220.130.15.30:6969/announce
 http://220.200.35.40:2710/announce
+http://220.250.51.200:2710/announce
 http://222.216.138.184:6969/announce
 http://222.216.138.211:6969/announce
 http://222.216.138.224:6969/announce
@@ -1945,6 +1938,7 @@ udp://220.200.35.72:2710/announce
 udp://220.200.35.72:6969/announce
 udp://220.200.35.97:2710/announce
 udp://220.200.35.97:6969/announce
+udp://220.250.51.200:6969/announce
 udp://222.216.138.237:6969/announce
 udp://222.216.139.217:6969/announce
 udp://222.216.139.248:6969/announce
