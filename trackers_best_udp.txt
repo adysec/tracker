@@ -119,6 +119,7 @@ udp://177.139.47.40:6969/announce
 udp://177.144.178.170:6969/announce
 udp://177.144.178.39:6969/announce
 udp://177.172.61.249:6969/announce
+udp://177.172.61.33:6969/announce
 udp://177.172.62.168:6969/announce
 udp://177.172.62.185:6969/announce
 udp://177.172.65.102:6969/announce
@@ -839,6 +840,7 @@ udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-udp.anirena.com:80/announce
@@ -878,6 +880,7 @@ udp://tracker.ds.is:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.dump.cl:6969/announce
 udp://tracker.eddie4.nl:6969/announce
+udp://tracker.edkj.club:6969/announce
 udp://tracker.encrypted-data.xyz:1337/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
@@ -930,6 +933,7 @@ udp://tracker.shkinev.me:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skillindia.site:6969/announce
+udp://tracker.sktorrent.net:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
