@@ -208,6 +208,7 @@ http://179.118.132.77:6969/announce
 http://179.118.133.224:6969/announce
 http://179.175.247.60:6969/announce
 http://179.175.247.98:6969/announce
+http://179.98.254.138:6969/announce
 http://179.98.254.201:6969/announce
 http://179.98.254.95:6969/announce
 http://179.98.51.208:6969/announce
@@ -855,6 +856,7 @@ http://p4p.arenabg.com:1337/announce
 http://parag.rs:6969/announce
 http://passpulse.net:8000/announce
 http://peersteers.org/announce
+http://play.aimisayo.com:6969/announce
 http://pow7.com/announce
 http://prestige.minimafia.nl:443/announce
 http://private.minimafia.nl:443/announce
@@ -1746,6 +1748,7 @@ udp://178.215.224.155:6969/announce
 udp://178.33.73.26:2710/announce
 udp://179.118.132.77:6969/announce
 udp://179.175.247.60:6969/announce
+udp://179.98.254.138:6969/announce
 udp://179.98.254.201:6969/announce
 udp://179.98.254.95:6969/announce
 udp://179.98.51.208:6969/announce
@@ -2480,6 +2483,7 @@ udp://peerfect.org:6969/announce
 udp://peru.subventas.com:53/announce
 udp://pirate.hz.is:1337/announce
 udp://pirate.t-1.org:1337/announce
+udp://play.aimisayo.com:6969/announce
 udp://pow7.com:80/announce
 udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
