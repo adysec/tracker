@@ -204,6 +204,7 @@ http://177.68.44.127:6969/announce
 http://178.175.143.27/announce
 http://178.33.73.26:2710/announce
 http://179.100.24.134:6969/announce
+http://179.118.129.194:6969/announce
 http://179.118.132.77:6969/announce
 http://179.118.133.224:6969/announce
 http://179.175.247.60:6969/announce
@@ -1748,6 +1749,7 @@ udp://178.156.140.201:3074/announce
 udp://178.170.48.154:1337/announce
 udp://178.215.224.155:6969/announce
 udp://178.33.73.26:2710/announce
+udp://179.118.129.194:6969/announce
 udp://179.118.132.77:6969/announce
 udp://179.175.247.60:6969/announce
 udp://179.98.254.138:6969/announce
@@ -2406,6 +2408,7 @@ udp://keke.re:6969/announce
 udp://kiryuu-test.mywaifu.best:6969/announce
 udp://kokodayo.site:6969/announce
 udp://kristof.bartanet.cz:6969/announce
+udp://laestrygonian.ooguy.com:9001/announce
 udp://laszlo130.go.ro:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
@@ -2786,6 +2789,7 @@ udp://tracker.vrpnet.org:6969/announce
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
 udp://tracker.wepzone.net:6969/announce
+udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
