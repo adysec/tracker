@@ -210,6 +210,7 @@ udp://189.69.171.84:6969/announce
 udp://189.79.12.122:6969/announce
 udp://189.79.12.24:6969/announce
 udp://189.79.12.59:6969/announce
+udp://189.79.12.91:6969/announce
 udp://189.79.13.111:6969/announce
 udp://190.146.242.81:6969/announce
 udp://191.101.229.236:1337/announce
@@ -819,6 +820,7 @@ udp://storage.groupees.com:6969/announce
 udp://su-data.com:6969/announce
 udp://t.jaekr.sh:6969/announce
 udp://t.nyaatracker.com:80/announce
+udp://t.overflow.biz:6969/announce
 udp://t.zerg.pw:1337/announce
 udp://t.zerg.pw:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
