@@ -53,6 +53,11 @@ jobs:
           curl https://bt.me88.top/ >> trackers_all.txt
           curl https://download2390.mediafire.com/4clmhb2up6mgbAg73W8O9khMX7aY8w4QBaXHJu5XxADIz6Brz2tdMXdeLUk3XxfvUDrRl-VYeEfJ2SSc1fOe2Xm3VruuR8vEyKnc7xYmwaSBVoPy40faVgPg0wva1iVOSBNSJfX94cTm9BvMU3pT5692_ovSwnX-p5hTgnZ1hlAz/i0cronnuwj5co6n/super+fast+trackers.txt >> trackers_all.txt
           curl https://newtrackon.com/api/stable >> trackers_all.txt
+          curl https://trackers.run/s/rw_ws_up_hp_hs_v4.txt >> trackers_all.txt
+          curl https://cf.trackerslist.com/all.txt >> trackers_all.txt
+          curl https://www.gbsat.org/bt/tracker.txt >> trackers_all.txt
+          curl https://newtrackon.com/api/stable?include_ipv4_only_trackers=1&include_ipv6_only_trackers=1 >> trackers_all.txt
+          curl https://dns.icoa.cn/tracker/ >> trackers_all.txt
           bash format.sh trackers_all.txt
           sort formatted_trackers.txt | uniq > trackers_all.txt
           rm -rf formatted_trackers.txt
