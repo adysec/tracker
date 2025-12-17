@@ -58,6 +58,7 @@ jobs:
           curl "https://www.gbsat.org/bt/tracker.txt" >> trackers_all.txt
           curl "https://newtrackon.com/api/stable?include_ipv4_only_trackers=1&include_ipv6_only_trackers=1" >> trackers_all.txt
           curl "https://dns.icoa.cn/tracker/" >> trackers_all.txt
+          curl "https://trackerstatus.live/?download=online" >> trackers_all.txt
           bash format.sh trackers_all.txt
           sort formatted_trackers.txt | uniq > trackers_all.txt
           rm -rf formatted_trackers.txt
