@@ -200,6 +200,7 @@ udp://187.57.130.147:6969/announce
 udp://187.57.131.202:6969/announce
 udp://187.57.229.141:6969/announce
 udp://188.165.253.109:1337/announce
+udp://189.0.78.245:6969/announce
 udp://189.0.78.33:6969/announce
 udp://189.18.127.125:6969/announce
 udp://189.18.127.57:6969/announce
@@ -265,6 +266,7 @@ udp://201.13.49.112:6969/announce
 udp://201.13.49.202:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
@@ -273,6 +275,7 @@ udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
+udp://209.250.249.67:6969/announce
 udp://209.50.255.93:3218/announce
 udp://210.61.187.208:6969/announce
 udp://210.61.187.208:80/announce
@@ -332,6 +335,7 @@ udp://212.60.5.147:2710/announce
 udp://212.60.5.203:2710/announce
 udp://213.163.67.56:1337/announce
 udp://216.238.80.236:3074/announce
+udp://217.156.123.49:1337/announce
 udp://217.30.10.77:6969/announce
 udp://220.130.15.30:6969/announce
 udp://220.130.15.30:80/announce
@@ -635,6 +639,7 @@ udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://anidex.moe:6969/announce
 udp://anzix.net:6969/announce
+udp://api.alarmasqueretaro.com:3074/announce
 udp://app.icon256.com:8000/announce
 udp://astrr.ru:6969/announce
 udp://astrra.space:6969/announce
@@ -739,6 +744,7 @@ udp://joczo.duckdns.org:6969/announce
 udp://johnrosen1.com:6969/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
+udp://kingof.torrentonline.cc:42069/announce
 udp://kiryuu-test.mywaifu.best:6969/announce
 udp://kokodayo.site:6969/announce
 udp://kristof.bartanet.cz:6969/announce
@@ -770,7 +776,11 @@ udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
+udp://node01.edge-team.cc:42069/announce
+udp://node01.madtia.cc:42069/announce
+udp://node01.torrentonline.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
+udp://node02.torrentonline.cc:42069/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns3109441.mypdns.org:6969/announce
@@ -809,7 +819,6 @@ udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
 udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
-udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
@@ -844,8 +853,6 @@ udp://su-data.com:6969/announce
 udp://t.jaekr.sh:6969/announce
 udp://t.nyaatracker.com:80/announce
 udp://t.overflow.biz:6969/announce
-udp://t.zerg.pw:1337/announce
-udp://t.zerg.pw:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://tc.animereactor.ru:8082/announce
@@ -867,7 +874,6 @@ udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-de.ololosh.space:6969/announce
@@ -1026,6 +1032,7 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wg.mortis.me:6969/announce
 udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce

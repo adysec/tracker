@@ -1,5 +1,3 @@
-https://edge-team.cc/announce
-https://torrentonline.cc/announce
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
@@ -260,6 +258,7 @@ http://187.57.14.62:6969/announce
 http://187.57.229.141:6969/announce
 http://188.165.253.109:1337/announce
 http://189.0.196.51:6969/announce
+http://189.0.78.245:6969/announce
 http://189.0.78.33:6969/announce
 http://189.110.233.96:6969/announce
 http://189.18.127.125:6969/announce
@@ -377,6 +376,7 @@ http://212.60.5.203:2710/announce
 http://213.159.215.198:6970/announce
 http://213.163.67.56:1337/announce
 http://216.144.239.90:6969/announce
+http://217.156.123.49:1337/announce
 http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
@@ -413,6 +413,10 @@ http://34.52.190.155:6960/announce
 http://34.52.190.155:6969/announce
 http://34.66.57.33/announce
 http://34.66.57.33:11450/announce
+http://34.66.57.33:1337/announce
+http://34.66.57.33:2701/announce
+http://34.66.57.33:2710/announce
+http://34.66.57.33:443/announce
 http://34.66.57.33:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
@@ -1346,6 +1350,7 @@ https://cny.fan/announce
 https://danielcloud.ddns.net/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://docker-tracker-production.up.railway.app/announce
+https://edge-team.cc/announce
 https://evening-badlands-6215.herokuapp.com/announce
 https://explodie.org:6969/announce
 https://fbiagent.cyou/announce
@@ -1422,6 +1427,7 @@ https://torrent.gresille.org/announce
 https://torrent.opiums.eu/announce
 https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
+https://torrentonline.cc/announce
 https://torrents.linuxmint.com/announce
 https://torrentsmd.com:8080/announce
 https://torrentsmd.eu:8080/announce
@@ -1839,6 +1845,7 @@ udp://187.57.130.147:6969/announce
 udp://187.57.131.202:6969/announce
 udp://187.57.229.141:6969/announce
 udp://188.165.253.109:1337/announce
+udp://189.0.78.245:6969/announce
 udp://189.0.78.33:6969/announce
 udp://189.18.127.125:6969/announce
 udp://189.18.127.57:6969/announce
@@ -1913,6 +1920,7 @@ udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
+udp://209.250.249.67:6969/announce
 udp://209.50.255.93:3218/announce
 udp://210.61.187.208:6969/announce
 udp://210.61.187.208:80/announce
@@ -1972,6 +1980,7 @@ udp://212.60.5.147:2710/announce
 udp://212.60.5.203:2710/announce
 udp://213.163.67.56:1337/announce
 udp://216.238.80.236:3074/announce
+udp://217.156.123.49:1337/announce
 udp://217.30.10.77:6969/announce
 udp://220.130.15.30:6969/announce
 udp://220.130.15.30:80/announce
@@ -2463,6 +2472,7 @@ udp://jp.moeweb.pw:6969/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
 udp://keke.re:6969/announce
+udp://kingof.torrentonline.cc:42069/announce
 udp://kiryuu-test.mywaifu.best:6969/announce
 udp://kokodayo.site:6969/announce
 udp://kristof.bartanet.cz:6969/announce
@@ -2504,7 +2514,11 @@ udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
+udp://node01.edge-team.cc:42069/announce
+udp://node01.madtia.cc:42069/announce
+udp://node01.torrentonline.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
+udp://node02.torrentonline.cc:42069/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
@@ -2928,6 +2942,7 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wambo.club:1337/announce
+udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
 udp://wg.mortis.me:6969/announce
 udp://widemus.de:6969/announce
