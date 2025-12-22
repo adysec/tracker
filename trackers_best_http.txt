@@ -1,3 +1,4 @@
+http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://185.230.4.150:1337/announce
@@ -20,9 +21,9 @@ http://35.227.59.57:443/announce
 http://35.227.59.57:6960/announce
 http://35.227.59.57:6969/announce
 http://45.13.119.213:6969/announce
+http://all4nothin.net/announce
 http://big-boss-tracker.net/announce
 http://bithq.org/announce
-http://bt.3kb.xyz/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -35,7 +36,6 @@ http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
 http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
-http://open.demonii.si/announce
 http://open.stealth.si/announce
 http://p4p.arenabg.com:1337/announce
 http://peersteers.org/announce
@@ -44,16 +44,13 @@ http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
 http://siambit.com/announce
-http://t.nyaatracker.com/announce
 http://thetracker.org/announce
 http://torrent.mp3quran.net/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://torrentzilla.org/announce
-http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
-http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
@@ -68,8 +65,8 @@ http://tracker.trancetraffic.com/announce
 http://tracker.tricitytorrents.com:2710/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
+http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
-http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
 http://tracker2.torrentino.com/announce
