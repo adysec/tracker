@@ -174,6 +174,7 @@ udp://185.216.179.62:25/announce
 udp://185.225.68.26:6969/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
+udp://185.249.198.175:1337/announce
 udp://185.44.82.25:1337/announce
 udp://185.5.97.139:8089/announce
 udp://185.83.215.123:6969/announce
@@ -184,6 +185,7 @@ udp://186.10.170.30:1337/announce
 udp://186.10.170.56:1337/announce
 udp://186.10.170.71:1337/announce
 udp://186.10.170.97:1337/announce
+udp://186.10.172.248:1337/announce
 udp://186.10.181.5:1337/announce
 udp://187.10.24.160:6969/announce
 udp://187.11.72.188:6969/announce
@@ -332,6 +334,7 @@ udp://211.97.119.98:2710/announce
 udp://211.97.119.98:6969/announce
 udp://212.1.226.176:2710/announce
 udp://212.237.53.230:6969/announce
+udp://212.42.38.197:6969/announce
 udp://212.47.227.58:6969/announce
 udp://212.60.5.147:2710/announce
 udp://212.60.5.203:2710/announce
@@ -521,6 +524,7 @@ udp://79.117.28.48:1234/announce
 udp://79.117.5.107:1234/announce
 udp://79.117.63.250:1234/announce
 udp://80.71.224.126:6969/announce
+udp://81.230.84.201:6969/announce
 udp://81.7.10.104:6969/announce
 udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
@@ -708,6 +712,7 @@ udp://discord.heihachi.pw:6969/announce
 udp://dmitrynegoda.com:6969/announce
 udp://dns.xxtor.com:53/announce
 udp://download.nerocloud.me:6969/announce
+udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://eccologic.net:6969/announce
 udp://eddie4.nl:6969/announce
@@ -874,6 +879,7 @@ udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
+udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce

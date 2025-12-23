@@ -175,6 +175,7 @@ http://177.112.215.131:6969/announce
 http://177.112.215.4:6969/announce
 http://177.112.215.99:6969/announce
 http://177.139.44.145:6969/announce
+http://177.139.44.78:6969/announce
 http://177.139.47.236:6969/announce
 http://177.139.47.40:6969/announce
 http://177.144.178.170:6969/announce
@@ -238,6 +239,7 @@ http://186.10.170.30:1337/announce
 http://186.10.170.56:1337/announce
 http://186.10.170.71:1337/announce
 http://186.10.170.97:1337/announce
+http://186.10.172.248:1337/announce
 http://187.10.24.160:6969/announce
 http://187.11.72.188:6969/announce
 http://187.11.72.236:6969/announce
@@ -332,6 +334,7 @@ http://201.42.214.55:6969/announce
 http://201.43.209.254:6969/announce
 http://201.92.179.79:6969/announce
 http://204.197.163.27/announce
+http://207.211.184.229:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://207.246.118.100:6961/announce
@@ -1822,6 +1825,7 @@ udp://185.216.179.62:25/announce
 udp://185.225.68.26:6969/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
+udp://185.249.198.175:1337/announce
 udp://185.44.82.25:1337/announce
 udp://185.5.97.139:8089/announce
 udp://185.83.215.123:6969/announce
@@ -1832,6 +1836,7 @@ udp://186.10.170.30:1337/announce
 udp://186.10.170.56:1337/announce
 udp://186.10.170.71:1337/announce
 udp://186.10.170.97:1337/announce
+udp://186.10.172.248:1337/announce
 udp://186.10.181.5:1337/announce
 udp://187.10.24.160:6969/announce
 udp://187.11.72.188:6969/announce
@@ -1981,6 +1986,7 @@ udp://211.97.119.98:2710/announce
 udp://211.97.119.98:6969/announce
 udp://212.1.226.176:2710/announce
 udp://212.237.53.230:6969/announce
+udp://212.42.38.197:6969/announce
 udp://212.47.227.58:6969/announce
 udp://212.60.5.147:2710/announce
 udp://212.60.5.203:2710/announce
@@ -2175,6 +2181,7 @@ udp://79.117.5.107:1234/announce
 udp://79.117.63.250:1234/announce
 udp://7p41a8967.wicp.vip:22222/announce
 udp://80.71.224.126:6969/announce
+udp://81.230.84.201:6969/announce
 udp://81.7.10.104:6969/announce
 udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
