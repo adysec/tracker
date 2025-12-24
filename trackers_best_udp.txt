@@ -695,7 +695,7 @@ udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
-udp://d13bttrck.duckdns.org:6969/announce
+udp://cutscloud.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
@@ -860,7 +860,6 @@ udp://su-data.com:6969/announce
 udp://sx.xxtor.com:6969/announce
 udp://t.jaekr.sh:6969/announce
 udp://t.nyaatracker.com:80/announce
-udp://t.overflow.biz:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://tc.animereactor.ru:8082/announce
