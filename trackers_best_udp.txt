@@ -642,6 +642,7 @@ udp://acxx.de:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://aegir.sexy:6969/announce
+udp://amigacity.xyz:6969/announce
 udp://anidex.moe:6969/announce
 udp://anzix.net:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
