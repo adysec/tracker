@@ -1,6 +1,5 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://185.230.4.150:1337/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
@@ -21,17 +20,16 @@ http://35.227.59.57:443/announce
 http://35.227.59.57:6960/announce
 http://35.227.59.57:6969/announce
 http://45.13.119.213:6969/announce
+http://93.88.129.16/announce
 http://all4nothin.net/announce
 http://asiatorrent.giize.com:51413/announce
-http://big-boss-tracker.net/announce
-http://bithq.org/announce
 http://bt.3kb.xyz/announce
+http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
+http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
-http://bt02.nnm-club.info:2710/announce
 http://data-bg.net/announce
 http://extracker.dahrkael.net:6969/announce
-http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
@@ -41,7 +39,6 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://p4p.arenabg.com:1337/announce
 http://peersteers.org/announce
-http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
@@ -67,7 +64,10 @@ http://tracker.openzim.org/announce
 http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
+http://tracker.tricitytorrents.com:2710/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.xfapi.top:6868/announce
+http://tracker.xfapi.top:9999/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
 http://tracker2.torrentino.com/announce

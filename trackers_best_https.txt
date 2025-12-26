@@ -13,7 +13,6 @@ https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.hdarea.club/announce
-https://tracker.iochimari.moe/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
 https://tracker.totheglory.im/announce
