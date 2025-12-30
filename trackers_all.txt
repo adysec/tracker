@@ -1903,6 +1903,7 @@ udp://192.95.46.115:6969/announce
 udp://193.148.251.93:6969/announce
 udp://193.177.162.187:6969/announce
 udp://193.233.161.213:6969/announce
+udp://193.34.92.5:80/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
 udp://193.53.126.6:6961/announce
@@ -2747,6 +2748,7 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.desu.sh:6969/announce
 udp://tracker.dev-null.rocks:6969/announce
+udp://tracker.dhitechnical.com:6969/announce
 udp://tracker.dix.tf:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
