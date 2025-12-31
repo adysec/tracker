@@ -199,6 +199,7 @@ http://177.188.141.137:6969/announce
 http://177.188.141.175:6969/announce
 http://177.188.141.32:6969/announce
 http://177.215.65.176:6969/announce
+http://177.215.65.40:6969/announce
 http://177.215.67.115:6969/announce
 http://177.215.67.165:6969/announce
 http://177.215.67.185:6969/announce
@@ -1795,6 +1796,7 @@ udp://177.172.67.94:6969/announce
 udp://177.188.141.175:6969/announce
 udp://177.188.141.32:6969/announce
 udp://177.215.65.176:6969/announce
+udp://177.215.65.40:6969/announce
 udp://177.215.67.115:6969/announce
 udp://177.215.67.165:6969/announce
 udp://177.27.223.184:6969/announce
@@ -2087,6 +2089,7 @@ udp://37.19.5.155:2710/announce
 udp://37.235.176.37:2710/announce
 udp://37.27.4.53:6969/announce
 udp://37.59.48.81:6969/announce
+udp://38.175.99.50:6969/announce
 udp://4.tracker.devnak.win:6969/announce
 udp://41.79.68.156:6969/announce
 udp://43.139.20.56:6969/announce
