@@ -1600,6 +1600,7 @@ https://tracker.sjtu.edu.cn/announce
 https://tracker.skynetcloud.site:8443/announce
 https://tracker.skyts.net:6969/announce
 https://tracker.sloppyta.co/announce
+https://tracker.soshifanclub.com/announce
 https://tracker.srv00.com/announce
 https://tracker.tamersunion.org/announce
 https://tracker.tfile.me/announce
