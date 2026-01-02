@@ -1882,6 +1882,7 @@ udp://189.69.167.130:6969/announce
 udp://189.69.168.180:6969/announce
 udp://189.69.169.237:6969/announce
 udp://189.69.169.89:6969/announce
+udp://189.69.170.69:6969/announce
 udp://189.69.171.209:6969/announce
 udp://189.69.171.75:6969/announce
 udp://189.69.171.84:6969/announce
