@@ -4,11 +4,14 @@ http://1337.abcvg.info/announce
 http://185.230.4.150:1337/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
+http://93.88.129.16/announce
+http://all4nothin.net/announce
 http://asiatorrent.giize.com:51413/announce
 http://big-boss-tracker.net/announce
 http://bithq.org/announce
 http://bt.3kb.xyz/announce
 http://bt.beatrice-raws.org/announce
+http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -22,6 +25,7 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://p4p.arenabg.com:1337/announce
 http://peersteers.org/announce
+http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
@@ -60,11 +64,12 @@ http://trackers.ibzu.me/announce
 http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.bitseduce.com/announce
-http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://bt.ptlsp.com/announce
+https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
@@ -206,6 +211,7 @@ udp://177.112.215.4:6969/announce
 udp://177.112.215.99:6969/announce
 udp://177.139.44.145:6969/announce
 udp://177.139.47.105:6969/announce
+udp://177.139.47.18:6969/announce
 udp://177.139.47.236:6969/announce
 udp://177.139.47.40:6969/announce
 udp://177.144.178.170:6969/announce
@@ -1171,3 +1177,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
