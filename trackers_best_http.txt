@@ -11,7 +11,6 @@ http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
-http://btx.anifilm.tv/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
@@ -23,7 +22,6 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://p4p.arenabg.com:1337/announce
 http://peersteers.org/announce
-http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
@@ -37,6 +35,7 @@ http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://torrentzilla.org/announce
 http://tr.nyacat.pw/announce
+http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
@@ -60,7 +59,6 @@ http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://trackers.ibzu.me/announce
-http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.bitseduce.com/announce
 http://www.siambt.com/announce
