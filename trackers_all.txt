@@ -2414,6 +2414,7 @@ udp://cloud.arzanmodern.ir:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 udp://code2chicken.nl:6969/announce
+udp://colivioo.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
