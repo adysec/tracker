@@ -1714,6 +1714,7 @@ udp://125.227.79.123:6969/announce
 udp://125.227.79.123:80/announce
 udp://128.199.70.66:5944/announce
 udp://130.61.158.165:6969/announce
+udp://132.226.6.145:6969/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
 udp://135.125.236.64:6969/announce
