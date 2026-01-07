@@ -1,4 +1,4 @@
-https://bt.beatrice-raws.org/announce
+https://1337.abcvg.info/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
@@ -9,7 +9,7 @@ https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
-https://tracker.guguan.us.kg/announce
+https://tracker.cyber-hub.net/announce
 https://tracker.iochimari.moe/announce
 https://tracker.keepfrds.com/announce
 https://tracker.renfei.net/announce
@@ -18,4 +18,3 @@ https://tracker.uraniumhexafluori.de/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
-https://trackers.ptlsp.com/announce
