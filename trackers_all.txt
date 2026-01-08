@@ -1076,6 +1076,7 @@ http://tracker.etree.org:6969/announce
 http://tracker.ex.ua/announce
 http://tracker.fansub.id/announce
 http://tracker.fdn.fr:6969/announce
+http://tracker.file09.com/announce
 http://tracker.filemail.com:6969/announce
 http://tracker.files.fm:6969/announce
 http://tracker.filetracker.pl:8089/announce
@@ -1498,6 +1499,7 @@ https://tracker.bittorrent.am/announce
 https://tracker.bjut.jp/announce
 https://tracker.bt-hash.com/announce
 https://tracker.bt4g.com/announce
+https://tracker.bug38.com/announce
 https://tracker.bulao.ren/announce
 https://tracker.calculate.ru:6969/announce
 https://tracker.cangku.moe/announce
