@@ -988,6 +988,7 @@ udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
+udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pcfreetime.com:6969/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://tracker.pimpmyworld.to:6969/announce
