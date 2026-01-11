@@ -829,6 +829,7 @@ udp://open.u-p.pw:6969/announce
 udp://open.xxtor.com:3074/announce
 udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
+udp://opentracker.xyz:443/announce
 udp://opentrackr.org:1337/announce
 udp://p4p.arenabg.ch:1337/announce
 udp://p4p.arenabg.com:1337/announce
@@ -909,7 +910,6 @@ udp://tracker-de.ololosh.space:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
-udp://tracker.1048576.cn:17272/announce
 udp://tracker.1337x.org:80/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.4.babico.name.tr:3131/announce
