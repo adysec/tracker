@@ -348,6 +348,7 @@ udp://211.97.119.7:2710/announce
 udp://211.97.119.7:6969/announce
 udp://211.97.119.84:2710/announce
 udp://211.97.119.84:6969/announce
+udp://211.97.119.88:6969/announce
 udp://211.97.119.98:2710/announce
 udp://211.97.119.98:6969/announce
 udp://212.1.226.176:2710/announce
@@ -968,6 +969,7 @@ udp://tracker.iamhansen.xyz:2000/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.ixuexi.click:6969/announce
+udp://tracker.justseed.it:1337/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.kmzs123.com:17272/announce
 udp://tracker.kmzs123.com:443/announce
