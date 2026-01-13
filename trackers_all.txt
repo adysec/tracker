@@ -128,6 +128,7 @@ http://148.252.75.241:6969/announce
 http://15.204.57.168:6969/announce
 http://151.115.49.115:1337/announce
 http://152.231.114.120:1337/announce
+http://152.231.114.51:1337/announce
 http://152.231.114.55:1337/announce
 http://152.243.213.163:6969/announce
 http://152.249.214.198:6969/announce
