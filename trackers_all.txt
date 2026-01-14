@@ -2194,6 +2194,7 @@ udp://65.108.102.76:6969/announce
 udp://65.21.91.32:6969/announce
 udp://68.193.189.231:6969/announce
 udp://69.30.224.166:6969/announce
+udp://69.30.233.234:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://6rt.tace.ru:80/announce
 udp://7.rarbg.me:2710/announce
