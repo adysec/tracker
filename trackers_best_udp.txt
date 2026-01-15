@@ -987,6 +987,7 @@ udp://tracker.moxing.party:6969/announce
 udp://tracker.msm8916.com:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.netmap.top:6969/announce
+udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce

@@ -1,7 +1,8 @@
-http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
+http://51.68.122.172/announce
 http://93.88.129.16/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
@@ -52,7 +53,6 @@ http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
-http://www.ansktracker.net/announce
 http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
