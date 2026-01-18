@@ -1,15 +1,15 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
-http://93.88.129.16/announce
+http://51.68.122.172/announce
 http://asiatorrent.giize.com:51413/announce
 http://bithq.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
+http://bt02.nnm-club.info:2710/announce
 http://extracker.dahrkael.net:6969/announce
 http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
@@ -19,6 +19,7 @@ http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
+http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
@@ -33,6 +34,8 @@ http://torrentzilla.org/announce
 http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
+http://tracker.bt4g.com:2095/announce
+http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -56,15 +59,12 @@ http://www.ansktracker.net/announce
 http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
-https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
-https://torrent.tracker.durukanbal.com/announce
 https://torrentonline.cc/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
@@ -78,7 +78,6 @@ https://tracker.uraniumhexafluori.de/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
-https://www.wareztorrent.com/announce
 udp://0205.uptm.ch:6969/announce
 udp://103.122.21.50:6969/announce
 udp://103.251.166.126:6969/announce
@@ -169,6 +168,7 @@ udp://151.243.109.110:6969/announce
 udp://151.243.109.163:6969/announce
 udp://151.80.120.114:2710/announce
 udp://152.231.114.120:1337/announce
+udp://152.231.114.51:1337/announce
 udp://152.243.213.163:6969/announce
 udp://152.249.214.198:6969/announce
 udp://152.249.214.53:6969/announce
@@ -307,6 +307,7 @@ udp://189.18.163.167:6969/announce
 udp://189.18.96.56:6969/announce
 udp://189.18.97.116:6969/announce
 udp://189.18.97.201:6969/announce
+udp://189.69.167.105:6969/announce
 udp://189.69.167.130:6969/announce
 udp://189.69.168.180:6969/announce
 udp://189.69.169.237:6969/announce
