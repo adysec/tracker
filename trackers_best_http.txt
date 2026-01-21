@@ -3,14 +3,12 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
-http://93.88.129.16/announce
+http://51.68.122.172/announce
 http://bithq.org/announce
-http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
-http://concen.org:6969/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
@@ -39,7 +37,6 @@ http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -51,6 +48,7 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
+http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
 http://tracker2.torrentino.com/announce

@@ -291,7 +291,6 @@ udp://201.13.49.112:6969/announce
 udp://201.13.49.202:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
-udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
@@ -716,14 +715,12 @@ udp://ch3oh.ru:6969/announce
 udp://chihaya.de:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://city21.pk:6969/announce
-udp://cloud.arzanmodern.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
-udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
@@ -878,7 +875,6 @@ udp://shizzle.hammetjus.nl:6969/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://smurfsoft.com:6969/announce
 udp://soundmovie.ru:6969/announce
-udp://srv5.digiboy.ir:6969/announce
 udp://ssb14.nohost.me:6969/announce
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
@@ -996,6 +992,7 @@ udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
