@@ -696,8 +696,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bt.rer.lol:2710/announce
 udp://bt.rer.lol:6969/announce
-udp://bt.sc-ol.com:2710/announce
-udp://bt.xxx-tracker.com:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.54new.com:8080/announce
@@ -853,7 +851,6 @@ udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
 udp://region.nl1.privex.cc:6969/announce
-udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
