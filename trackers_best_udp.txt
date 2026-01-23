@@ -227,6 +227,7 @@ udp://189.18.162.106:6969/announce
 udp://189.18.162.54:6969/announce
 udp://189.18.163.167:6969/announce
 udp://189.18.96.56:6969/announce
+udp://189.18.96.9:6969/announce
 udp://189.18.97.116:6969/announce
 udp://189.18.97.201:6969/announce
 udp://189.69.167.105:6969/announce
@@ -853,7 +854,6 @@ udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
 udp://region.nl1.privex.cc:6969/announce
-udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
@@ -895,7 +895,6 @@ udp://thagoat.rocks:6969/announce
 udp://themaninashed.com:6969/announce
 udp://theodoric.fr:6969/announce
 udp://thetracker.org:80/announce
-udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk.cubicview.site:80/announce
 udp://torrent.fedoraproject.org:6969/announce
