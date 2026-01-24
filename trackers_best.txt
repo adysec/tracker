@@ -2,7 +2,6 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
-http://93.88.129.16/announce
 http://bithq.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
@@ -14,11 +13,9 @@ http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
-http://litter.fluffykitten.moe:1337/announce
 http://mediaclub.tv/announce
 http://nagios.tks.sumy.ua/announce
 http://npupt.com/announce
-http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.ohys.net/announce
@@ -44,7 +41,6 @@ http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
-http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.top/announce
@@ -64,6 +60,7 @@ https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
+https://torrent.tracker.durukanbal.com/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
@@ -213,6 +210,7 @@ udp://177.172.61.249:6969/announce
 udp://177.172.61.33:6969/announce
 udp://177.172.62.168:6969/announce
 udp://177.172.62.185:6969/announce
+udp://177.172.62.240:6969/announce
 udp://177.172.65.102:6969/announce
 udp://177.172.65.168:6969/announce
 udp://177.172.66.120:6969/announce
@@ -869,6 +867,7 @@ udp://leet-tracker.moe:23861/announce
 udp://leet-tracker.moe:38151/announce
 udp://line-net.ru:6969/announce
 udp://linfan.moe:6969/announce
+udp://litter.fluffykitten.moe:1337/announce
 udp://llideong.cn:6969/announce
 udp://lloria.fr:6969/announce
 udp://ln.mtahost.co:6969/announce
@@ -1190,3 +1189,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce

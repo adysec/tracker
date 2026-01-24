@@ -192,6 +192,7 @@ http://177.172.61.33:6969/announce
 http://177.172.62.168:6969/announce
 http://177.172.62.179:6969/announce
 http://177.172.62.185:6969/announce
+http://177.172.62.240:6969/announce
 http://177.172.63.135:6969/announce
 http://177.172.65.102:6969/announce
 http://177.172.65.168:6969/announce
@@ -1813,6 +1814,7 @@ udp://177.172.61.249:6969/announce
 udp://177.172.61.33:6969/announce
 udp://177.172.62.168:6969/announce
 udp://177.172.62.185:6969/announce
+udp://177.172.62.240:6969/announce
 udp://177.172.65.102:6969/announce
 udp://177.172.65.168:6969/announce
 udp://177.172.66.120:6969/announce
@@ -2559,6 +2561,7 @@ udp://li1406-230.members.linode.com:6969/announce
 udp://li2021-95.members.linode.com:6969/announce
 udp://line-net.ru:6969/announce
 udp://linfan.moe:6969/announce
+udp://litter.fluffykitten.moe:1337/announce
 udp://llideong.cn:6969/announce
 udp://lloria.fr:6969/announce
 udp://ln.mtahost.co:6969/announce
