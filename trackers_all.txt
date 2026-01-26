@@ -252,6 +252,7 @@ http://186.10.170.186:1337/announce
 http://186.10.170.23:1337/announce
 http://186.10.170.30:1337/announce
 http://186.10.170.56:1337/announce
+http://186.10.170.58:1337/announce
 http://186.10.170.71:1337/announce
 http://186.10.170.97:1337/announce
 http://186.10.172.248:1337/announce
