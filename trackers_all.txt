@@ -1418,6 +1418,7 @@ https://open.touki.ru/announce
 https://opentracker.8880085.xyz/announce
 https://opentracker.acgnx.se/announce
 https://opentracker.cc/announce
+https://opentracker.co/announce
 https://opentracker.i2p.rocks/announce
 https://opentracker.xyz/announce
 https://ourbits.club/announce
