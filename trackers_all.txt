@@ -277,6 +277,7 @@ http://187.57.130.147:6969/announce
 http://187.57.131.202:6969/announce
 http://187.57.132.20:6969/announce
 http://187.57.132.246:6969/announce
+http://187.57.132.65:6969/announce
 http://187.57.14.62:6969/announce
 http://187.57.229.141:6969/announce
 http://188.165.253.109:1337/announce
@@ -1906,6 +1907,7 @@ udp://187.57.130.147:6969/announce
 udp://187.57.131.202:6969/announce
 udp://187.57.132.20:6969/announce
 udp://187.57.132.246:6969/announce
+udp://187.57.132.65:6969/announce
 udp://187.57.229.141:6969/announce
 udp://188.165.253.109:1337/announce
 udp://189.0.78.245:6969/announce
