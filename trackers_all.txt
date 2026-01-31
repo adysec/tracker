@@ -419,6 +419,7 @@ http://220.130.15.30/announce
 http://220.130.15.30:6969/announce
 http://220.200.35.40:2710/announce
 http://220.250.51.200:2710/announce
+http://222.191.171.198:6969/announce
 http://222.216.138.184:6969/announce
 http://222.216.138.211:6969/announce
 http://222.216.138.224:6969/announce
@@ -2919,6 +2920,7 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.renfei.net:8080/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.sbsub.com:2710/announce
+udp://tracker.sharebro.in:6969/announce
 udp://tracker.sheesh.rip:6969/announce
 udp://tracker.shkinev.me:6969/announce
 udp://tracker.sigterm.xyz:6969/announce

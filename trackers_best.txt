@@ -3,12 +3,13 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
-http://93.88.129.16/announce
+http://222.191.171.198:6969/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
+http://btracker.top:11451/announce
 http://extracker.dahrkael.net:6969/announce
 http://ftp.pet:6969/announce
 http://grifon.info/announce
@@ -21,17 +22,16 @@ http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
-http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
+http://share.hkg-fansub.info/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
-http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://torrentzilla.org/announce
 http://tr.nyacat.pw/announce
@@ -80,7 +80,6 @@ https://tracker.totheglory.im/announce
 https://tracker.uraniumhexafluori.de/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
-https://tracker1.520.jp/announce
 udp://0205.uptm.ch:6969/announce
 udp://103.122.21.50:6969/announce
 udp://103.251.166.126:6969/announce
@@ -1098,6 +1097,7 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.renfei.net:8080/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.sbsub.com:2710/announce
+udp://tracker.sharebro.in:6969/announce
 udp://tracker.shkinev.me:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.silksa.co.za:6969/announce
@@ -1169,7 +1169,6 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.community:6969/announce
-udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vps02.net.orel.ru:80/announce
 udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wg.mortis.me:6969/announce
@@ -1200,4 +1199,3 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.webtorrent.dev:443/announce
