@@ -1036,6 +1036,7 @@ http://tracker.1048576.cn:17272/announce
 http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.aibt.xyz:900/announce
+http://tracker.alaskantf.com:6969/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.ali213.net00/announce
 http://tracker.ali213.net80/announce
@@ -1566,6 +1567,7 @@ https://tracker.home.kmzs123.cn:4443/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.internetwarriors.net:1337/announce
 https://tracker.iochimari.moe/announce
+https://tracker.iperson.xyz/announce
 https://tracker.ipfsscan.io/announce
 https://tracker.ipv6tracker.ru:80/announce
 https://tracker.iriseden.fr/announce
@@ -2775,6 +2777,7 @@ udp://tracker.1h.is:1337/announce
 udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.acgnx.se/announce
+udp://tracker.alaskantf.com:6969/announce
 udp://tracker.aletorrenty.pl:2710/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.anima.nz:6969/announce
