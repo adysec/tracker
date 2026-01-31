@@ -1,4 +1,5 @@
 udp://0205.uptm.ch:6969/announce
+udp://101.99.94.187:6969/announce
 udp://103.122.21.50:6969/announce
 udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
@@ -108,6 +109,7 @@ udp://167.99.185.219:6969/announce
 udp://168.235.67.63:6969/announce
 udp://171.104.111.201:6969/announce
 udp://172.105.235.127:6969/announce
+udp://173.201.36.219:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.123.1.180:6969/announce
 udp://176.31.250.174:6969/announce
@@ -291,6 +293,7 @@ udp://200.161.254.194:6969/announce
 udp://200.161.254.20:6969/announce
 udp://200.168.116.107:6969/announce
 udp://200.168.116.200:6969/announce
+udp://200.168.116.61:6969/announce
 udp://200.168.117.55:6969/announce
 udp://200.170.109.125:6969/announce
 udp://200.170.109.148:6969/announce
@@ -436,6 +439,7 @@ udp://27.155.141.50:2710/announce
 udp://27.155.141.50:6969/announce
 udp://31.38.161.123:6969/announce
 udp://34.66.57.33:1337/announce
+udp://34.66.57.33:80/announce
 udp://34.89.30.59:1337/announce
 udp://34.89.30.59:6969/announce
 udp://34.89.51.235:1337/announce
@@ -490,6 +494,7 @@ udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://5.255.124.190:6969/announce
 udp://5.45.69.185:6969/announce
+udp://5.75.253.124:6969/announce
 udp://5.79.249.77:6969/announce
 udp://5.79.83.193:6969/announce
 udp://504e163a.host.njalla.net:6969/announce
@@ -538,6 +543,7 @@ udp://77.91.85.95:6969/announce
 udp://78.153.130.109:6969/announce
 udp://78.30.254.12:2710/announce
 udp://78.40.116.12:6969/announce
+udp://78.71.168.156:6969/announce
 udp://79.112.33.41:1234/announce
 udp://79.112.45.138:1234/announce
 udp://79.116.13.63:1234/announce
@@ -558,6 +564,7 @@ udp://79.117.133.1:1234/announce
 udp://79.117.28.48:1234/announce
 udp://79.117.5.107:1234/announce
 udp://79.117.63.250:1234/announce
+udp://80.71.224.126:1337/announce
 udp://80.71.224.126:6969/announce
 udp://81.230.84.201:6969/announce
 udp://81.7.10.104:6969/announce
@@ -636,6 +643,7 @@ udp://86.127.239.222:1234/announce
 udp://86.127.250.81:1234/announce
 udp://86.57.161.157:6969/announce
 udp://88.216.2.71:6969/announce
+udp://88.80.22.67:2710/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
 udp://89.110.76.229:6969/announce
@@ -1049,6 +1057,7 @@ udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.waaa.moe:6969/announce
+udp://tracker.wepzone.net:6969/announce
 udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.ygsub.com:6969/announce
@@ -1090,6 +1099,7 @@ udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.community:6969/announce
 udp://vps02.net.orel.ru:80/announce
 udp://wegkxfcivgx.ydns.eu:80/announce
+udp://wepzone.net:6969/announce
 udp://wg.mortis.me:6969/announce
 udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce
