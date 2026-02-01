@@ -2149,6 +2149,9 @@ udp://34.94.76.146:6969/announce
 udp://35.227.59.57:1337/announce
 udp://35.227.59.57:6969/announce
 udp://37.1.205.12:6969/announce
+udp://37.120.182.83:15480/announce
+udp://37.120.182.83:1984/announce
+udp://37.120.182.83:54123/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.19.5.155:2710/announce
