@@ -148,6 +148,7 @@ http://157.90.169.123/announce
 http://158.101.137.177:6969/announce
 http://158.69.146.212:7777/announce
 http://159.148.57.222:6969/announce
+http://159.195.43.181:6969/announce
 http://159.69.65.157:6969/announce
 http://160.251.231.187:6969/announce
 http://160.251.78.190:6969/announce
