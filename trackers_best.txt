@@ -1,3 +1,4 @@
+http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
@@ -18,7 +19,6 @@ http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
-http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
@@ -54,6 +54,8 @@ http://www.ansktracker.net/announce
 http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
+https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
@@ -211,6 +213,7 @@ udp://177.144.178.170:6969/announce
 udp://177.144.178.39:6969/announce
 udp://177.172.61.249:6969/announce
 udp://177.172.61.33:6969/announce
+udp://177.172.62.154:6969/announce
 udp://177.172.62.168:6969/announce
 udp://177.172.62.185:6969/announce
 udp://177.172.62.240:6969/announce
@@ -1208,3 +1211,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
