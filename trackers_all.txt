@@ -1216,6 +1216,7 @@ http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
+http://tracker.umunu.ru:6969/announce
 http://tracker.uw0.xyz:6969/announce
 http://tracker.valete.tf:9999/announce
 http://tracker.vanitycore.co:6969/announce
