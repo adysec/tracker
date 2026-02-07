@@ -1,13 +1,18 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
+http://180.114.103.80:6969/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
+http://93.88.129.16/announce
+http://asiatorrent.giize.com:51413/announce
+http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://extracker.dahrkael.net:6969/announce
+http://ftp.pet:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
@@ -26,6 +31,7 @@ http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
+http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://torrentzilla.org/announce
 http://tr.nyacat.pw/announce
@@ -41,8 +47,6 @@ http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.xfapi.top:6868/announce
-http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.top/announce
