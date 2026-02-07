@@ -235,6 +235,7 @@ http://179.98.51.66:6969/announce
 http://180.112.57.159:6969/announce
 http://180.113.224.97:6969/announce
 http://180.113.227.211:6969/announce
+http://180.114.103.80:6969/announce
 http://180.97.219.76:8070/announce
 http://181.214.58.63:6969/announce
 http://182.176.139.129:6969/announce
