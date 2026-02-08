@@ -1995,6 +1995,7 @@ udp://195.123.209.40:80/announce
 udp://198.100.149.66:6969/announce
 udp://198.91.25.157:8000/announce
 udp://1c.premierzal.ru:6969/announce
+udp://200.111.152.53:1337/announce
 udp://200.111.152.54:1337/announce
 udp://200.148.11.147:6969/announce
 udp://200.148.11.156:6969/announce
