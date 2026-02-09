@@ -102,6 +102,8 @@ udp://154.40.43.165:6969/announce
 udp://156.234.201.18:80/announce
 udp://157.131.124.190:6969/announce
 udp://158.101.161.60:3131/announce
+udp://159.195.43.181:6969/announce
+udp://159.195.43.181:80/announce
 udp://160.251.231.187:6969/announce
 udp://161.97.67.210:6969/announce
 udp://163.172.29.130:80/announce
@@ -164,6 +166,7 @@ udp://178.215.224.155:6969/announce
 udp://178.33.73.26:2710/announce
 udp://179.118.129.194:6969/announce
 udp://179.118.132.77:6969/announce
+udp://179.146.54.147:6969/announce
 udp://179.175.247.60:6969/announce
 udp://179.175.247.70:6969/announce
 udp://179.43.155.30:6969/announce
@@ -1070,6 +1073,7 @@ udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.waaa.moe:6969/announce
+udp://tracker.wepzone.net:6969/announce
 udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.ygsub.com:6969/announce
@@ -1111,6 +1115,7 @@ udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vps02.net.orel.ru:80/announce
 udp://wegkxfcivgx.ydns.eu:80/announce
+udp://wepzone.net:6969/announce
 udp://wg.mortis.me:6969/announce
 udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce
