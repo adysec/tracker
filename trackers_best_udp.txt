@@ -1,4 +1,5 @@
 udp://0205.uptm.ch:6969/announce
+udp://10.rarbg.com:6969/announce
 udp://101.99.94.187:6969/announce
 udp://103.122.21.50:6969/announce
 udp://103.251.166.126:6969/announce
@@ -20,6 +21,7 @@ udp://108.53.194.223:6969/announce
 udp://108.61.166.249:6969/announce
 udp://109.121.134.121:1337/announce
 udp://109.201.134.183:80/announce
+udp://11.rarbg.com:80/announce
 udp://110.187.214.10:6969/announce
 udp://110.187.214.137:6969/announce
 udp://110.187.214.29:6969/announce
@@ -666,6 +668,12 @@ udp://89.234.156.205:451/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
+udp://9.rarbg.com:2710/announce
+udp://9.rarbg.com:2790/announce
+udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2880/announce
+udp://9.rarbg.com:2930/announce
+udp://9.rarbg.com:2940/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2720/announce
 udp://9.rarbg.me:2730/announce
@@ -752,7 +760,6 @@ udp://ch3oh.ru:6969/announce
 udp://chihaya.de:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://city21.pk:6969/announce
-udp://cloud.arzanmodern.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 udp://colivioo.com:6969/announce
 udp://commento.getblog.cn:6969/announce
@@ -1076,6 +1083,7 @@ udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.waaa.moe:6969/announce
+udp://tracker.wepzone.net:6969/announce
 udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.ygsub.com:6969/announce
@@ -1099,6 +1107,7 @@ udp://tracker2.dler.org:80/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://tracker4.piratux.com:6969/announce
 udp://trackerb.jonaslsa.com:6969/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://ts.populargamers.co.za:6969/announce
