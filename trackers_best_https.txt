@@ -14,6 +14,7 @@ https://tracker.bt4g.com/announce
 https://tracker.iochimari.moe/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
+https://tracker.maya.no.eu.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.uraniumhexafluori.de/announce
