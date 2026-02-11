@@ -1082,7 +1082,6 @@ udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.waaa.moe:6969/announce
-udp://tracker.wepzone.net:6969/announce
 udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.ygsub.com:6969/announce
