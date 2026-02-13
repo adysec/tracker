@@ -1619,6 +1619,7 @@ https://tracker.loli.co.nz/announce
 https://tracker.loligirl.cn/announce
 https://tracker.m-team.cc/announce
 https://tracker.madtia.cc/announce
+https://tracker.manager.v6.navy/announce
 https://tracker.maya.no.eu.org/announce
 https://tracker.mg64.net:6881/announce
 https://tracker.midnightprogrammer.net/announce
