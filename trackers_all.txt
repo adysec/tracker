@@ -1388,6 +1388,7 @@ https://agusiq-torrents.pl:6969/announce
 https://alpha.torrenttracker.nl/announce
 https://api.ipv4online.uk/announce
 https://atrack.pow7.com/announce
+https://bdremux.club/announce
 https://bittorrent.gongt.net/announce
 https://bittorrent.service.gongt.me:59443/announce
 https://bittracker.nekosunevr.co.uk/announce
