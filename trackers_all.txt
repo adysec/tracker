@@ -2655,6 +2655,7 @@ udp://movies.zsw.ca:6969/announce
 udp://mserver.link:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
+udp://navegador.click:6969/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
 udp://node01.edge-team.cc:42069/announce
