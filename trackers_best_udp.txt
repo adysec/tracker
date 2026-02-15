@@ -82,6 +82,7 @@ udp://145.223.96.109:8000/announce
 udp://147.45.77.75:6969/announce
 udp://147job.com:6969/announce
 udp://148.113.168.115:6969/announce
+udp://148.135.112.164:6969/announce
 udp://148.251.53.72:6969/announce
 udp://149.202.88.193:80/announce
 udp://15.204.205.14:6969/announce
@@ -313,6 +314,7 @@ udp://200.168.117.55:6969/announce
 udp://200.170.109.125:6969/announce
 udp://200.170.109.148:6969/announce
 udp://200.170.110.108:6969/announce
+udp://200.170.110.170:6969/announce
 udp://200.170.113.35:6969/announce
 udp://200.170.113.5:6969/announce
 udp://201.13.49.112:6969/announce
@@ -990,6 +992,7 @@ udp://tracker.dump.cl:6969/announce
 udp://tracker.e-utp.net:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.edkj.club:6969/announce
+udp://tracker.emule.best:6969/announce
 udp://tracker.encrypted-data.xyz:1337/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
