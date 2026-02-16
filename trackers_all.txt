@@ -1136,6 +1136,7 @@ http://tracker.grepler.com:6969/announce
 http://tracker.guguan.000.pe/announce
 http://tracker.h0me.cc:8880/announce
 http://tracker.hiyj.cn/announce
+http://tracker.huadongblower.xyz:8080/announce
 http://tracker.ilibr.org/announce
 http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
@@ -1162,6 +1163,7 @@ http://tracker.lintk.me:2710/announce
 http://tracker.loadbt.com:6969/announce
 http://tracker.lyretain.site:2710/announce
 http://tracker.m-team.cc/announce
+http://tracker.memelords.xyz/announce
 http://tracker.merded.xyz00/announce
 http://tracker.merded.xyz:8000/announce
 http://tracker.mg64.net:6881/announce
@@ -1635,6 +1637,7 @@ https://tracker.moxing.party:6969/announce
 https://tracker.nanoha.org/announce
 https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me/announce
+https://tracker.novy.vip/announce
 https://tracker.nyaa.tk/announce
 https://tracker.opendev.cloud/announce
 https://tracker.opentracker.se/announce
@@ -1647,7 +1650,9 @@ https://tracker.projectk.org/announce
 https://tracker.ptchdbits.co/announce
 https://tracker.pterclub.com/announce
 https://tracker.publictorrent.net/announce
+https://tracker.puvvadi.net/announce
 https://tracker.qingwa.pro/announce
+https://tracker.qingwapt.org/announce
 https://tracker.quix.cf/announce
 https://tracker.rainbowisland.co/announce
 https://tracker.renfei.net/announce
@@ -2982,6 +2987,7 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.renfei.net:8080/announce
 udp://tracker.rescuecrew7.com:1337/announce
+udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.sbsub.com:2710/announce
 udp://tracker.sharebro.in:6969/announce
 udp://tracker.sheesh.rip:6969/announce
