@@ -1668,6 +1668,7 @@ https://tracker.srv00.com/announce
 https://tracker.tamersunion.org/announce
 https://tracker.tfile.me/announce
 https://tracker.tiny-vps.com:6969/announce
+https://tracker.torrentbd.net/announce
 https://tracker.torrentsnows.com/announce
 https://tracker.totheglory.im/announce
 https://tracker.tvgc.win/announce
