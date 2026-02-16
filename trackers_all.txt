@@ -2209,6 +2209,7 @@ udp://43.154.112.29:17272/announce
 udp://43.250.54.137:6969/announce
 udp://44.30.4.3:6969/announce
 udp://44.30.4.4:6969/announce
+udp://44.30.4.70:6969/announce
 udp://45.13.119.213:6969/announce
 udp://45.130.21.69:6969/announce
 udp://45.134.88.121:6969/announce
@@ -2816,6 +2817,7 @@ udp://torrentclub.tech:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
+udp://torrentvpn.club:6990/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
