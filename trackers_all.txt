@@ -2920,6 +2920,7 @@ udp://tracker.hentai.gg:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
+udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.iamhansen.xyz:2000/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.ilibr.org:80/announce
@@ -3095,6 +3096,7 @@ udp://ttr.croco.net:6969/announce
 udp://u.peer-exchange.download:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
+udp://uabits.today:6990/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://udp.yarr.pt:1337/announce
