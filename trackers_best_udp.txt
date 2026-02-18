@@ -560,6 +560,7 @@ udp://68.193.189.231:6969/announce
 udp://69.30.224.166:6969/announce
 udp://69.30.233.234:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://7.rarbg.me:2710/announce
 udp://74.119.150.221:6969/announce
 udp://74.82.52.209:6969/announce
 udp://77.91.85.95:6969/announce
@@ -680,6 +681,14 @@ udp://9.rarbg.com:2810/announce
 udp://9.rarbg.com:2880/announce
 udp://9.rarbg.com:2930/announce
 udp://9.rarbg.com:2940/announce
+udp://9.rarbg.me:2710/announce
+udp://9.rarbg.me:2720/announce
+udp://9.rarbg.me:2730/announce
+udp://9.rarbg.me:2770/announce
+udp://9.rarbg.me:2780/announce
+udp://9.rarbg.me:2790/announce
+udp://9.rarbg.me:2930/announce
+udp://9.rarbg.me:2980/announce
 udp://91.186.213.204:6969/announce
 udp://91.208.197.19:6969/announce
 udp://91.208.206.133:6969/announce
