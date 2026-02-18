@@ -323,6 +323,7 @@ udp://201.13.49.202:6969/announce
 udp://201.13.50.75:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
@@ -689,6 +690,10 @@ udp://9.rarbg.me:2780/announce
 udp://9.rarbg.me:2790/announce
 udp://9.rarbg.me:2930/announce
 udp://9.rarbg.me:2980/announce
+udp://9.rarbg.to:2710/announce
+udp://9.rarbg.to:2730/announce
+udp://9.rarbg.to:2740/announce
+udp://9.rarbg.to:2800/announce
 udp://91.186.213.204:6969/announce
 udp://91.208.197.19:6969/announce
 udp://91.208.206.133:6969/announce
@@ -900,8 +905,8 @@ udp://public.popcorn-tracker.org:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
+udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
-udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
@@ -1088,7 +1093,6 @@ udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.trojangogogo.site:8080/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-udp://tracker.umunu.ru:6969/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
