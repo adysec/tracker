@@ -767,7 +767,6 @@ udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
-udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
@@ -1113,6 +1112,7 @@ udp://tracker2.dler.org:80/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://tracker4.piratux.com:6969/announce
 udp://trackerb.jonaslsa.com:6969/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://ts.populargamers.co.za:6969/announce
