@@ -744,6 +744,7 @@ http://big-boss-tracker.net/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://bithq.org/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+http://bittorrent.kali.org/announce
 http://bjlt.zhuqiy.eu.org:6666/announce
 http://blackz.ro/announce
 http://bluebird-hd.org/announce
