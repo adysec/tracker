@@ -1,5 +1,4 @@
 udp://0205.uptm.ch:6969/announce
-udp://10.rarbg.com:6969/announce
 udp://101.99.94.187:6969/announce
 udp://103.122.21.50:6969/announce
 udp://103.251.166.126:6969/announce
@@ -1084,7 +1083,6 @@ udp://tracker.trojangogogo.site:8080/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.umunu.ru:6969/announce
-udp://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
