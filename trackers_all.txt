@@ -280,6 +280,7 @@ http://187.11.75.196:6969/announce
 http://187.11.75.60:6969/announce
 http://187.34.25.113:6969/announce
 http://187.56.163.140:6969/announce
+http://187.56.163.25:6969/announce
 http://187.56.163.73:6969/announce
 http://187.56.205.168:6969/announce
 http://187.56.205.90:6969/announce
@@ -1952,6 +1953,7 @@ udp://187.11.75.196:6969/announce
 udp://187.11.75.60:6969/announce
 udp://187.34.25.113:6969/announce
 udp://187.56.163.140:6969/announce
+udp://187.56.163.25:6969/announce
 udp://187.56.205.91:6969/announce
 udp://187.57.130.109:6969/announce
 udp://187.57.130.147:6969/announce
