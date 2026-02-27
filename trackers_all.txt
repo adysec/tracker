@@ -64,6 +64,7 @@ http://116.9.207.226:6969/announce
 http://117.72.34.150:6969/announce
 http://117.84.129.196:6969/announce
 http://117.84.134.178:6969/announce
+http://117.84.154.98:6969/announce
 http://118.163.198.106/announce
 http://118.163.198.106:6969/announce
 http://118.25.157.230:6969/announce
