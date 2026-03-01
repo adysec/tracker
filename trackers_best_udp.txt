@@ -744,6 +744,7 @@ udp://bt2.54new.com:8080/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
+udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
 udp://buny.uk:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
