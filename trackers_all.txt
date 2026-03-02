@@ -1151,6 +1151,7 @@ http://tracker.ipv6tracker.ru/announce
 http://tracker.iro.moe/announce
 http://tracker.ismaarino.com:8880/announce
 http://tracker.istole.it/announce
+http://tracker.jiesen.life:8443/announce
 http://tracker.k.vu:6969/announce
 http://tracker.kali.org:6969/announce
 http://tracker.kamigami.org:2710/announce
@@ -2836,6 +2837,7 @@ udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tr.movian.eu:6969/announce
 udp://tr2.cubonegro.lol:6969/announce
+udp://tr2.ysagin.top:2710/announce
 udp://tr2.ysagin.top:2715/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
