@@ -583,6 +583,8 @@ http://59.32.95.85:6969/announce
 http://59.36.96.77:6969/announce
 http://5rt.tace.ru:60889/announce
 http://6.tracker.devnak.win:6969/announce
+http://60-fps.org/bt/announce
+http://60-fps.org/bt:80/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
 http://60.249.37.21/announce
@@ -727,6 +729,8 @@ http://aaa.army:8866/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://agusiq-torrents.pl:6969/announce
 http://all4nothin.net/announce
+http://alltorrents.net/bt/announce
+http://alltorrents.net/bt:80/announce
 http://alpha.torrenttracker.nl:443/announce
 http://anidex.moe:6969/announce
 http://anisource.spb.ru/announce
@@ -848,6 +852,7 @@ http://ftp.pet:7777/announce
 http://ftp.pet:999/announce
 http://fxtt.ru/announce
 http://grifon.info/announce
+http://gshk.happy-host.com/test:80/announce
 http://h4.trakx.nibba.trade/announce
 http://hdreactor.org:2710/announce
 http://highteahop.top:6960/announce
@@ -1061,6 +1066,7 @@ http://tr.cili001.com:8070/announce
 http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
+http://tr.nyacat.pw:443/announce
 http://tr1.aag.moe:2095/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker-rh.zhuqiy.eu.org/announce
@@ -1141,6 +1147,7 @@ http://tracker.foreverpirates.co:443/announce
 http://tracker.frozen-layer.com:6969/announce
 http://tracker.frozen-layer.net:6969/announce
 http://tracker.gbitt.info/announce
+http://tracker.gcrenwp.top:443/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gdp.pw:900/announce
 http://tracker.ghostchu-services.top/announce
@@ -1267,6 +1274,7 @@ http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zhuqiy.com/announce
+http://tracker.zhuqiy.com:443/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.eu.org:36107/announce
 http://tracker.zhuqiy.top/announce
@@ -1340,6 +1348,8 @@ http://www.siambt.com/announce
 http://www.skyts.net:6969/announce
 http://www.thegeeks.bz:3210/announce
 http://www.theplace.bz:2910/announce
+http://www.thetradersden.org/forums/tracker/announce
+http://www.thetradersden.org/forums/tracker:80/announce
 http://www.torrent-downloads.to:2710/announce
 http://www.torrentsnipe.info:2701/announce
 http://www.tribalmixes.com/announce
