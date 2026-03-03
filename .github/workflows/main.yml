@@ -14,14 +14,17 @@ permissions:
 
 concurrency:
   group: daily-update-tracker
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Setup Rust
         uses: dtolnay/rust-toolchain@stable
@@ -74,6 +77,10 @@ jobs:
 
       - name: Commit and Push changes
         run: |
+          git fetch origin main
+          git checkout main
+          git rebase origin/main
+
           echo $(date +'%Y%m%d%H') > date.txt
           git config --local user.email "admin@adysec.com"
           git config --local user.name "adysec"
@@ -85,10 +92,12 @@ jobs:
           fi
           git commit -m "$(date +'%Y%m%d')"
           for i in 1 2 3; do
-            git pull --rebase origin main && git push -v --progress && break
+            git push -v --progress origin HEAD:main && break
             if [ "$i" -eq 3 ]; then
               echo "Push failed after 3 attempts."
               exit 1
             fi
+            git fetch origin main
+            git rebase origin/main
             sleep 5
           done
