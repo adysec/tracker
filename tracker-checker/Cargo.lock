@@ -1067,7 +1067,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "tracker-checker-rs"
+name = "tracker-checker"
 version = "0.1.0"
 dependencies = [
  "rand 0.8.5",

@@ -18,9 +18,9 @@ https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.highstar.shop/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
-https://tr.torland.ga/announce
 https://tr.zukizuki.org/announce
 https://tr2.trkb.ru/announce
+https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker-zhuqiy.xn--1r3au8b.space/announce
 https://tracker.3moredays.com/announce
 https://tracker.bt4g.com/announce
@@ -35,3 +35,4 @@ https://tracker.novy.vip/announce
 https://tracker.pmman.tech/announce
 https://tracker.qingwapt.org/announce
 https://tracker.zhuqiy.com/announce
+https://tracker1.520.jp/announce
