@@ -2989,6 +2989,7 @@ udp://tracker.monitorit4.me:6969/announce
 udp://tracker.moxing.party:6969/announce
 udp://tracker.msm8916.com:6969/announce
 udp://tracker.mywaifu.best:6969/announce
+udp://tracker.nanoha.org:443/announce
 udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://tracker.nitrix.me:6969/announce
