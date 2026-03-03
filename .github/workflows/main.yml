@@ -12,6 +12,10 @@ env:
 permissions:
   contents: write
 
+concurrency:
+  group: daily-update-tracker
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -80,4 +84,11 @@ jobs:
             exit 0
           fi
           git commit -m "$(date +'%Y%m%d')"
-          git push -v --progress
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push -v --progress && break
+            if [ "$i" -eq 3 ]; then
+              echo "Push failed after 3 attempts."
+              exit 1
+            fi
+            sleep 5
+          done
