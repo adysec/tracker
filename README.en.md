@@ -70,6 +70,13 @@ curl -s https://down.adysec.com/trackers_best.txt
 curl -s https://down.adysec.com/trackers_best_udp.txt
 ```
 
+### Strict Checker Tool (same as CI)
+
+```bash
+# Run the Rust tool directly (normalizes trackers_all.txt and generates trackers_best*.txt)
+cargo run --release --manifest-path tracker-checker/Cargo.toml -- trackers_all.txt trackers_best.txt --workers 40
+```
+
 ### 🔧 Custom Filtering
 Create a blackstr.txt file to filter specific IP addresses or domains:
 

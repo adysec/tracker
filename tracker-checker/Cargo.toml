@@ -1,0 +1,11 @@
+[package]
+name = "tracker-checker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+rayon = "1.10"
+url = "2.5"
+reqwest = { version = "0.12", default-features = false, features = ["blocking", "rustls-tls"] }
+regex = "1.11"

@@ -63,6 +63,13 @@ curl -s https://down.adysec.com/trackers_best.txt
 curl -s https://down.adysec.com/trackers_best_udp.txt
 ```
 
+### 严格校验工具（本项目 CI 同款）
+
+```bash
+# 直接运行 Rust 工具（会清洗 trackers_all.txt 并生成 trackers_best*.txt）
+cargo run --release --manifest-path tracker-checker/Cargo.toml -- trackers_all.txt trackers_best.txt --workers 40
+```
+
 ## 自定义配置
 
 创建 blackstr.txt 文件来过滤特定的 IP 地址或域名：

@@ -3,6 +3,7 @@ name: Daily Update Tracker
 on:
   schedule:
     - cron: '0 */4 * * *'
+  workflow_dispatch:
 
 env:
   innoextract_version: 1.9
@@ -17,6 +18,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+
+      - name: Setup Rust
+        uses: dtolnay/rust-toolchain@stable
 
       - name: Update trackers_all.txt
         shell: pwsh
@@ -59,21 +63,21 @@ jobs:
           curl "https://newtrackon.com/api/stable?include_ipv4_only_trackers=1&include_ipv6_only_trackers=1" >> trackers_all.txt
           curl "https://dns.icoa.cn/tracker/" >> trackers_all.txt
           curl "https://trackerstatus.live/?download=online" >> trackers_all.txt
-          bash format.sh trackers_all.txt
-          sort formatted_trackers.txt | uniq > trackers_all.txt
-          rm -rf formatted_trackers.txt
 
       - name: Test tracker availability
-        shell: bash
         run: |
-          sudo apt install node-ws -y
-          bash test_trackers.sh trackers_all.txt
+          cargo run --release --manifest-path tracker-checker/Cargo.toml -- trackers_all.txt trackers_best.txt --workers 40
 
       - name: Commit and Push changes
         run: |
           echo $(date +'%Y%m%d%H') > date.txt
           git config --local user.email "admin@adysec.com"
           git config --local user.name "adysec"
+          git rm -r --cached --ignore-unmatch tracker-checker/target tracker-server/target || true
           git add .
-          git commit -am "$(date +'%Y%m%d')"
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "$(date +'%Y%m%d')"
           git push -v --progress
