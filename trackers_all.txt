@@ -775,6 +775,7 @@ http://bt.endpot.com/announce
 http://bt.firebit.org:2710/announce
 http://bt.henbt.com:2710/announce
 http://bt.ktkj.com:8080/announce
+http://bt.nfshost.com:443/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.poletracker.org:2710/announce
@@ -1181,6 +1182,7 @@ http://tracker.lelux.fi/announce
 http://tracker.letpo.com/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.lintk.me:2710/announce
+http://tracker.linvk.com:443/announce
 http://tracker.loadbt.com:6969/announce
 http://tracker.lyretain.site:2710/announce
 http://tracker.m-team.cc/announce
@@ -2305,6 +2307,7 @@ udp://61.216.165.60:6969/announce
 udp://61.216.165.60:80/announce
 udp://61.221.26.18:6969/announce
 udp://61.221.26.18:80/announce
+udp://61626c.net:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.138.18.152:6969/announce
 udp://62.165.63.187:6969/announce
