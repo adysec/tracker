@@ -74,14 +74,6 @@ jobs:
         run: |
           cargo run --release --manifest-path tracker-checker/Cargo.toml -- trackers_all.txt trackers_best.txt --workers 40
 
-      - name: Setup proxychains
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y proxychains4
-          if [ -n "${{ secrets.PROXYCHAINS_CONF }}" ]; then
-            printf "%s\n" "${{ secrets.PROXYCHAINS_CONF }}" > "$HOME/.proxychains.conf"
-          fi
-
       - name: Commit and Push changes
         run: |
           echo $(date +'%Y%m%d%H') > date.txt
@@ -95,16 +87,8 @@ jobs:
           fi
           git commit -m "$(date +'%Y%m%d')"
 
-          run_git_with_proxy() {
-            local config_path="/etc/proxychains4.conf"
-            if [ -f "$HOME/.proxychains.conf" ]; then
-              config_path="$HOME/.proxychains.conf"
-            fi
-            proxychains4 -f "$config_path" git "$@"
-          }
-
           for i in 1 2 3; do
-            run_git_with_proxy pull --rebase origin main && run_git_with_proxy push -v --progress origin main && break
+            git pull --rebase origin main && git push -v --progress origin main && break
             if [ "$i" -eq 3 ]; then
               echo "Push failed after 3 attempts."
               exit 1
