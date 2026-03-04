@@ -2521,6 +2521,7 @@ udp://bt.aoeex.com:8000/announce
 udp://bt.bontal.net:443/announce
 udp://bt.bontal.net:6969/announce
 udp://bt.delbertbeta.cc:19943/announce
+udp://bt.henbt.com:2710/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
