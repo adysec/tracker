@@ -688,10 +688,10 @@ fn generate_github_pages(
                     (h.alive_checks as f64) * 100.0 / (h.checks as f64)
                 };
 
-                let days = if h.first_alive_ts == 0 {
+                let days = if h.first_seen_ts == 0 {
                     0
                 } else {
-                    ((ts.saturating_sub(h.first_alive_ts)) / 86_400) + 1
+                    ((ts.saturating_sub(h.first_seen_ts)) / 86_400) + 1
                 };
 
                 (format!("{:.2}%", uptime), days.to_string())

@@ -28,6 +28,10 @@ jobs:
       - name: Setup Rust
         uses: dtolnay/rust-toolchain@stable
 
+      - name: Sync latest history baseline
+        run: |
+          git pull --rebase origin main || true
+
       - name: Update trackers_all.txt
         shell: pwsh
         run: |
