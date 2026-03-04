@@ -1873,6 +1873,7 @@ udp://171.104.111.201:6969/announce
 udp://172.105.235.127:6969/announce
 udp://173.201.36.219:6969/announce
 udp://173.249.201.201:6969/announce
+udp://173.254.204.71:1096/announce
 udp://176.123.1.180:6969/announce
 udp://176.31.250.174:6969/announce
 udp://176.32.38.223:6961/announce
@@ -2666,6 +2667,7 @@ udp://leet-tracker.moe:38151/announce
 udp://leidenfro.st:6969/announce
 udp://li1406-230.members.linode.com:6969/announce
 udp://li2021-95.members.linode.com:6969/announce
+udp://lima-peru.subventas.com:443/announce
 udp://line-net.ru:6969/announce
 udp://linfan.moe:6969/announce
 udp://litter.fluffykitten.moe:1337/announce

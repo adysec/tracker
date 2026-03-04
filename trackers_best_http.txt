@@ -1,4 +1,5 @@
 http://117.72.34.150:6969/announce
+http://1337.abcvg.info/announce
 http://138.124.183.78:6969/announce
 http://140.235.237.23:6969/announce
 http://159.195.43.181/announce
@@ -8,7 +9,6 @@ http://187.56.163.25:6969/announce
 http://193.31.26.113:6969/announce
 http://207.211.184.229:6969/announce
 http://207.241.226.111:6969/announce
-http://207.241.231.226:6969/announce
 http://209.50.255.93:3218/announce
 http://211.75.205.187/announce
 http://211.75.205.187:6969/announce
@@ -69,6 +69,7 @@ http://ehtracker.org/2541477/announce
 http://ehtracker.org/2566145/1159106xUfsJkT9Btg/announce
 http://exodus.desync.com/announce
 http://extracker.dahrkael.net:6969/announce
+http://ftp.pet:2710/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://lucke.fenesisu.moe:6969/announce
@@ -91,9 +92,11 @@ http://tk.trojangogogo.site:8989/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
+http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.acgnx.se/announce
 http://tracker.alaskantf.com:6969/announce
 http://tracker.anonwebz.xyz:8080/announce
@@ -132,7 +135,6 @@ http://tracker.wepzone.net:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
-http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.com/announce
