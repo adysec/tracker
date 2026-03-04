@@ -1152,6 +1152,7 @@ http://tracker.gcrenwp.top:443/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gdp.pw:900/announce
 http://tracker.ghostchu-services.top/announce
+http://tracker.ghostchu-services.top:443/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.grepler.com:6969/announce
 http://tracker.guguan.000.pe/announce
@@ -2905,6 +2906,7 @@ udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cubonegro.org:1337/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cuntflaps.me:6969/announce
+udp://tracker.cutie.dating:80/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.darkness.services:6969/announce
