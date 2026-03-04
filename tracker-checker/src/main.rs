@@ -3,7 +3,7 @@ use rayon::prelude::*;
 use regex::Regex;
 use reqwest::blocking::Client;
 use reqwest::StatusCode;
-use std::collections::HashSet;
+use std::collections::{HashMap, HashSet};
 use std::fs;
 use std::io::Write;
 use std::net::IpAddr;
@@ -13,7 +13,7 @@ use std::sync::mpsc;
 use std::sync::OnceLock;
 use std::thread;
 use std::time::{SystemTime, UNIX_EPOCH};
-use std::time::Duration;
+use std::time::{Duration, Instant};
 use url::Url;
 
 const DEFAULT_TIMEOUT_SECS: u64 = 10;
@@ -30,6 +30,17 @@ enum Status {
 struct CheckResult {
     url: String,
     status: Status,
+    ping_ms: Option<u64>,
+}
+
+#[derive(Debug, Clone, Default)]
+struct TrackerHistory {
+    checks: u64,
+    alive_checks: u64,
+    first_seen_ts: u64,
+    first_alive_ts: u64,
+    last_seen_ts: u64,
+    last_alive_ts: u64,
 }
 
 fn parse_tracker_line(line: &str) -> String {
@@ -160,10 +171,10 @@ fn is_parked_or_expired_domain(content: &[u8]) -> bool {
     head.contains("<html") || head.contains("<!doctype html")
 }
 
-fn check_http_tracker(url: &str, timeout: Duration) -> Status {
+fn check_http_tracker(url: &str, timeout: Duration) -> (Status, Option<u64>) {
     let client = match Client::builder().timeout(timeout).build() {
         Ok(c) => c,
-        Err(_) => return Status::Dead,
+        Err(_) => return (Status::Dead, None),
     };
 
     let mut rng = rand::thread_rng();
@@ -172,6 +183,7 @@ fn check_http_tracker(url: &str, timeout: Duration) -> Status {
         .collect();
     let peer_id = format!("-RS0001-{peer_id_random}");
 
+    let started = Instant::now();
     let response = match client
         .get(url)
         .query(&[
@@ -187,49 +199,50 @@ fn check_http_tracker(url: &str, timeout: Duration) -> Status {
         .send()
     {
         Ok(r) => r,
-        Err(_) => return Status::Dead,
+        Err(_) => return (Status::Dead, None),
     };
+    let ping_ms = Some(started.elapsed().as_millis() as u64);
 
     let status_code = response.status();
     let body = response.bytes().unwrap_or_default().to_vec();
 
     if is_parked_or_expired_domain(&body) {
-        return Status::Invalid;
+        return (Status::Invalid, ping_ms);
     }
 
     if bdecode_simple(&body) {
-        return Status::Alive;
+        return (Status::Alive, ping_ms);
     }
 
     if status_code == StatusCode::OK {
         let head = String::from_utf8_lossy(&body[..body.len().min(200)]).to_lowercase();
         if head.contains("<html") || head.contains("<body") || head.contains("<head") {
-            return Status::Invalid;
+            return (Status::Invalid, ping_ms);
         }
         if body.len() > 50_000 {
-            return Status::Invalid;
+            return (Status::Invalid, ping_ms);
         }
-        return Status::Dead;
+        return (Status::Dead, ping_ms);
     }
 
     if status_code == StatusCode::BAD_REQUEST || status_code == StatusCode::FORBIDDEN {
         if bdecode_simple(&body) {
-            return Status::Alive;
+            return (Status::Alive, ping_ms);
         }
     }
 
-    Status::Dead
+    (Status::Dead, ping_ms)
 }
 
-fn check_udp_tracker(url: &str, timeout: Duration) -> Status {
+fn check_udp_tracker(url: &str, timeout: Duration) -> (Status, Option<u64>) {
     let parsed = match Url::parse(url) {
         Ok(p) => p,
-        Err(_) => return Status::Invalid,
+        Err(_) => return (Status::Invalid, None),
     };
 
     let host = match parsed.host_str() {
         Some(h) => h,
-        None => return Status::Invalid,
+        None => return (Status::Invalid, None),
     };
     let port = parsed.port().unwrap_or(80);
 
@@ -239,12 +252,12 @@ fn check_udp_tracker(url: &str, timeout: Duration) -> Status {
         .and_then(|mut it| it.next())
     {
         Some(a) => a,
-        None => return Status::Invalid,
+        None => return (Status::Invalid, None),
     };
 
     let socket = match UdpSocket::bind("0.0.0.0:0") {
         Ok(s) => s,
-        Err(_) => return Status::Dead,
+        Err(_) => return (Status::Dead, None),
     };
 
     let _ = socket.set_read_timeout(Some(timeout));
@@ -259,27 +272,28 @@ fn check_udp_tracker(url: &str, timeout: Duration) -> Status {
     req.extend_from_slice(&action.to_be_bytes());
     req.extend_from_slice(&transaction_id.to_be_bytes());
 
+    let started = Instant::now();
     if socket.send_to(&req, addr).is_err() {
-        return Status::Dead;
+        return (Status::Dead, None);
     }
 
     let mut response = [0u8; 16];
     match socket.recv_from(&mut response) {
-        Ok((size, _)) if size >= 8 => Status::Alive,
-        Ok(_) => Status::Alive,
-        Err(_) => Status::Dead,
+        Ok((size, _)) if size >= 8 => (Status::Alive, Some(started.elapsed().as_millis() as u64)),
+        Ok(_) => (Status::Alive, Some(started.elapsed().as_millis() as u64)),
+        Err(_) => (Status::Dead, None),
     }
 }
 
-fn check_wss_tracker(url: &str, timeout: Duration) -> Status {
+    fn check_wss_tracker(url: &str, timeout: Duration) -> (Status, Option<u64>) {
     let parsed = match Url::parse(url) {
         Ok(p) => p,
-        Err(_) => return Status::Invalid,
+        Err(_) => return (Status::Invalid, None),
     };
 
     let host = match parsed.host_str() {
         Some(h) => h,
-        None => return Status::Invalid,
+        None => return (Status::Invalid, None),
     };
     let port = parsed.port().unwrap_or(443);
 
@@ -289,12 +303,13 @@ fn check_wss_tracker(url: &str, timeout: Duration) -> Status {
         .and_then(|mut it| it.next())
     {
         Some(a) => a,
-        None => return Status::Invalid,
+        None => return (Status::Invalid, None),
     };
 
+    let started = Instant::now();
     match TcpStream::connect_timeout(&addr, timeout) {
-        Ok(_) => Status::Alive,
-        Err(_) => Status::Dead,
+        Ok(_) => (Status::Alive, Some(started.elapsed().as_millis() as u64)),
+        Err(_) => (Status::Dead, None),
     }
 }
 
@@ -305,21 +320,23 @@ fn validate_tracker(tracker: &str, timeout: Duration) -> CheckResult {
             return CheckResult {
                 url: tracker.to_string(),
                 status: Status::Invalid,
+                ping_ms: None,
             }
         }
     };
 
     let protocol = parsed.scheme().to_lowercase();
-    let status = match protocol.as_str() {
+    let (status, ping_ms) = match protocol.as_str() {
         "http" | "https" => check_http_tracker(tracker, timeout),
         "udp" => check_udp_tracker(tracker, timeout),
         "wss" => check_wss_tracker(tracker, timeout),
-        _ => Status::Invalid,
+        _ => (Status::Invalid, None),
     };
 
     CheckResult {
         url: tracker.to_string(),
         status,
+        ping_ms,
     }
 }
 
@@ -474,8 +491,84 @@ fn tracker_protocol(url: &str) -> &'static str {
     }
 }
 
+fn load_tracker_history(path: &Path) -> HashMap<String, TrackerHistory> {
+    let mut map = HashMap::new();
+    let text = match fs::read_to_string(path) {
+        Ok(v) => v,
+        Err(_) => return map,
+    };
+
+    for line in text.lines() {
+        let parts = line.split('\t').collect::<Vec<_>>();
+        if parts.len() != 7 {
+            continue;
+        }
+
+        let url = parts[0].to_string();
+        let checks = parts[1].parse::<u64>().unwrap_or(0);
+        let alive_checks = parts[2].parse::<u64>().unwrap_or(0);
+        let first_seen_ts = parts[3].parse::<u64>().unwrap_or(0);
+        let first_alive_ts = parts[4].parse::<u64>().unwrap_or(0);
+        let last_seen_ts = parts[5].parse::<u64>().unwrap_or(0);
+        let last_alive_ts = parts[6].parse::<u64>().unwrap_or(0);
+
+        map.insert(
+            url,
+            TrackerHistory {
+                checks,
+                alive_checks,
+                first_seen_ts,
+                first_alive_ts,
+                last_seen_ts,
+                last_alive_ts,
+            },
+        );
+    }
+
+    map
+}
+
+fn save_tracker_history(path: &Path, history: &HashMap<String, TrackerHistory>) -> Result<(), String> {
+    let mut urls = history.keys().cloned().collect::<Vec<_>>();
+    urls.sort_unstable();
+
+    let mut out = String::new();
+    for url in urls {
+        if let Some(h) = history.get(&url) {
+            out.push_str(&format!(
+                "{}\t{}\t{}\t{}\t{}\t{}\t{}\n",
+                url, h.checks, h.alive_checks, h.first_seen_ts, h.first_alive_ts, h.last_seen_ts, h.last_alive_ts
+            ));
+        }
+    }
+
+    fs::write(path, out)
+        .map_err(|e| format!("Failed to write {}: {}", path.display(), e))
+}
+
+fn update_tracker_history(history: &mut HashMap<String, TrackerHistory>, results: &[CheckResult], now_ts: u64) {
+    for result in results {
+        let entry = history.entry(result.url.clone()).or_default();
+
+        entry.checks = entry.checks.saturating_add(1);
+        if entry.first_seen_ts == 0 {
+            entry.first_seen_ts = now_ts;
+        }
+        entry.last_seen_ts = now_ts;
+
+        if result.status == Status::Alive {
+            entry.alive_checks = entry.alive_checks.saturating_add(1);
+            if entry.first_alive_ts == 0 {
+                entry.first_alive_ts = now_ts;
+            }
+            entry.last_alive_ts = now_ts;
+        }
+    }
+}
+
 fn generate_github_pages(
     results: &[CheckResult],
+    history: &HashMap<String, TrackerHistory>,
     input_file: &str,
     output_file: &str,
 ) -> Result<(), String> {
@@ -549,10 +642,36 @@ fn generate_github_pages(
                 Status::Dead => "bad",
                 Status::Invalid => "warn",
             };
+
+            let ping_text = match r.ping_ms {
+                Some(v) => format!("{} ms", v),
+                None => "-".to_string(),
+            };
+
+            let (uptime_text, days_text) = if let Some(h) = history.get(&r.url) {
+                let uptime = if h.checks == 0 {
+                    0.0
+                } else {
+                    (h.alive_checks as f64) * 100.0 / (h.checks as f64)
+                };
+
+                let days = if h.first_alive_ts == 0 {
+                    0
+                } else {
+                    ((ts.saturating_sub(h.first_alive_ts)) / 86_400) + 1
+                };
+
+                (format!("{:.2}%", uptime), days.to_string())
+            } else {
+                ("0.00%".to_string(), "0".to_string())
+            };
+
             format!(
-                "<tr><td class=\"{status_class}\">{status}</td><td>{proto}</td><td><a href=\"{url}\" target=\"_blank\">{url}</a></td></tr>",
-                proto = tracker_protocol(&r.url).to_uppercase(),
+                "<tr><td class=\"{status_class}\">{status}</td><td><a href=\"{url}\" target=\"_blank\">{url}</a></td><td>{ping}</td><td>{uptime}</td><td>{days}</td></tr>",
                 url = html_escape(&r.url),
+                ping = ping_text,
+                uptime = uptime_text,
+                days = days_text,
             )
         })
         .collect::<Vec<_>>()
@@ -606,7 +725,7 @@ fn generate_github_pages(
       <div class=\"card\">Protocols<div class=\"v\">H:{http} HS:{https} U:{udp} W:{wss}</div></div>
     </div>
     <table>
-      <thead><tr><th>Status</th><th>Protocol</th><th>Tracker</th></tr></thead>
+            <thead><tr><th>Status</th><th>URL</th><th>Ping</th><th>Uptime</th><th>Days</th></tr></thead>
       <tbody>
         {rows}
       </tbody>
@@ -866,7 +985,19 @@ fn main() {
         std::process::exit(1);
     }
 
-    if let Err(e) = generate_github_pages(&all_results, &input_file, &output_file) {
+    let history_path = PathBuf::from("tracker_history.tsv");
+    let mut history = load_tracker_history(&history_path);
+    let now_ts = SystemTime::now()
+        .duration_since(UNIX_EPOCH)
+        .map(|d| d.as_secs())
+        .unwrap_or(0);
+    update_tracker_history(&mut history, &all_results, now_ts);
+    if let Err(e) = save_tracker_history(&history_path, &history) {
+        eprintln!("❌ {e}");
+        std::process::exit(1);
+    }
+
+    if let Err(e) = generate_github_pages(&all_results, &history, &input_file, &output_file) {
         eprintln!("❌ {e}");
         std::process::exit(1);
     }
