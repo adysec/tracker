@@ -14,16 +14,15 @@ permissions:
 
 concurrency:
   group: daily-update-tracker
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
-          ref: main
           fetch-depth: 0
 
       - name: Setup Rust
@@ -75,12 +74,16 @@ jobs:
         run: |
           cargo run --release --manifest-path tracker-checker/Cargo.toml -- trackers_all.txt trackers_best.txt --workers 40
 
+      - name: Setup proxychains
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y proxychains4
+          if [ -n "${{ secrets.PROXYCHAINS_CONF }}" ]; then
+            printf "%s\n" "${{ secrets.PROXYCHAINS_CONF }}" > "$HOME/.proxychains.conf"
+          fi
+
       - name: Commit and Push changes
         run: |
-          git fetch origin main
-          git checkout main
-          git rebase origin/main
-
           echo $(date +'%Y%m%d%H') > date.txt
           git config --local user.email "admin@adysec.com"
           git config --local user.name "adysec"
@@ -91,13 +94,20 @@ jobs:
             exit 0
           fi
           git commit -m "$(date +'%Y%m%d')"
+
+          run_git_with_proxy() {
+            local config_path="/etc/proxychains4.conf"
+            if [ -f "$HOME/.proxychains.conf" ]; then
+              config_path="$HOME/.proxychains.conf"
+            fi
+            proxychains4 -f "$config_path" git "$@"
+          }
+
           for i in 1 2 3; do
-            git push -v --progress origin HEAD:main && break
+            run_git_with_proxy pull --rebase origin main && run_git_with_proxy push -v --progress origin main && break
             if [ "$i" -eq 3 ]; then
               echo "Push failed after 3 attempts."
               exit 1
             fi
-            git fetch origin main
-            git rebase origin/main
             sleep 5
           done
