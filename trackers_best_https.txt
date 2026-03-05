@@ -13,11 +13,12 @@ https://sparkle.ghostchu-services.top/tracker/announce
 https://t.213891.xyz/announce
 https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
+https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr.highstar.shop/announce
 https://tr.nyacat.pw/announce
+https://tr.torland.ga/announce
 https://tr.zukizuki.org/announce
 https://tr2.trkb.ru/announce
-https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker-zhuqiy.xn--1r3au8b.space/announce
 https://tracker.bt4g.com/announce
 https://tracker.ghostchu-services.top/announce
