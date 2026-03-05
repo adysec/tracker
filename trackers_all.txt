@@ -1846,6 +1846,7 @@ udp://149.202.88.193:80/announce
 udp://15.204.205.14:6969/announce
 udp://15.204.56.171:6969/announce
 udp://15.204.57.168:6969/announce
+udp://151.242.30.86:42069/announce
 udp://151.243.109.110:6969/announce
 udp://151.243.109.163:6969/announce
 udp://151.80.120.114:2710/announce
