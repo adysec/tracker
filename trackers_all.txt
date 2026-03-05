@@ -1461,6 +1461,7 @@ https://gwp2-v19.rinet.ru/announce
 https://gwp2-v19.rinet.ru:80/announce
 https://hcbt.pp.ua/announce
 https://hdpt.xyz/announce
+https://http1.torrust-tracker-demo.com/announce
 https://inferno.demonoid.is/announce
 https://ipv4.rer.lol:2710/announce
 https://ipv6.tracker.m-team.cc/announce
