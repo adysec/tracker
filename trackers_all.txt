@@ -3128,6 +3128,7 @@ udp://uabits.today:6990/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://udp.yarr.pt:1337/announce
+udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://unknownsite.de:6969/announce
 udp://uploads.gamecoast.net:6969/announce
