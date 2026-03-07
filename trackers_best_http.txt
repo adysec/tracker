@@ -75,6 +75,7 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://open.touki.ru/announce
 http://opentracker.acgnx.se/announce
+http://opentrackr.org:1337/announce
 http://pow7.com/announce
 http://retracker.x2k.ru/announce
 http://secure.pow7.com/announce
@@ -89,13 +90,15 @@ http://tk.trojangogogo.site:8989/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
+http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
-http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.acgnx.se/announce
 http://tracker.alaskantf.com:6969/announce
 http://tracker.anonwebz.xyz:8080/announce
+http://tracker.auctor.tv:6969/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
