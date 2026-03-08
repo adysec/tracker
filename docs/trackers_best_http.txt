@@ -1,6 +1,7 @@
 http://117.72.34.150:6969/announce
 http://1337.abcvg.info/announce
 http://138.124.183.78:6969/announce
+http://140.235.237.23:6969/announce
 http://167.253.78.20:8080/announce
 http://193.31.26.113:6969/announce
 http://200.170.110.114:6969/announce
@@ -53,6 +54,7 @@ http://bt2.archive.org:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
+http://btracker.top:11451/announce
 http://bttracker.debian.org:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://ch3oh.ru:6969/announce
@@ -82,7 +84,6 @@ http://retracker.x2k.ru/announce
 http://secure.pow7.com/announce
 http://sukebei.tracker.wf:8888/announce
 http://t-backup.213891.xyz/announce
-http://t.nyaatracker.com/announce
 http://t.overflow.biz:6969/announce
 http://t1.pow7.com/announce
 http://t2.pow7.com/announce
@@ -114,11 +115,13 @@ http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.ghostchu-services.top/announce
 http://tracker.gigatorrents.ws:2710/announce
+http://tracker.huadongblower.xyz:8080/announce
 http://tracker.kali.org:6969/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
 http://tracker.pow7.com/announce
 http://tracker.pussytorrents.org:3000/announce
@@ -126,7 +129,6 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.trancetraffic.com/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.wepzone.net:6969/announce
