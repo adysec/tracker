@@ -1,4 +1,5 @@
 http://117.72.34.150:6969/announce
+http://1337.abcvg.info/announce
 http://138.124.183.78:6969/announce
 http://140.235.237.23:6969/announce
 http://167.253.78.20:8080/announce
@@ -7,6 +8,7 @@ http://200.170.110.114:6969/announce
 http://207.211.184.229:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
+http://209.50.255.93:3218/announce
 http://211.75.205.187/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.188/announce
@@ -28,6 +30,7 @@ http://5.75.253.124:6969/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
 http://79.111.12.213:6969/announce
+http://93.158.213.92:1337/announce
 http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://atrack.pow7.com/announce
@@ -66,14 +69,12 @@ http://exodus.desync.com/announce
 http://extracker.dahrkael.net:6969/announce
 http://ftp.pet:2710/announce
 http://ipv4.rer.lol:2710/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://open.touki.ru/announce
 http://opentracker.acgnx.se/announce
-http://opentrackr.org:1337/announce
 http://pow7.com/announce
 http://retracker.x2k.ru/announce
 http://secure.pow7.com/announce
@@ -90,7 +91,6 @@ http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
-http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
