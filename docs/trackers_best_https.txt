@@ -17,7 +17,6 @@ https://torrent.ubuntu.com/announce
 https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.highstar.shop/announce
 https://tr.nyacat.pw/announce
-https://tr.torland.ga/announce
 https://tr.zukizuki.org/announce
 https://tr2.trkb.ru/announce
 https://tracker-zhuqiy.xn--1r3au8b.space/announce
