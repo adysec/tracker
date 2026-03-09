@@ -41,6 +41,7 @@ struct TrackerHistory {
     first_alive_ts: u64,
     last_seen_ts: u64,
     last_alive_ts: u64,
+    streak_alive_start_ts: u64,
 }
 
 fn parse_tracker_line(line: &str) -> String {
@@ -500,7 +501,7 @@ fn load_tracker_history(path: &Path) -> HashMap<String, TrackerHistory> {
 
     for line in text.lines() {
         let parts = line.split('\t').collect::<Vec<_>>();
-        if parts.len() != 7 {
+        if parts.len() != 7 && parts.len() != 8 {
             continue;
         }
 
@@ -511,6 +512,15 @@ fn load_tracker_history(path: &Path) -> HashMap<String, TrackerHistory> {
         let first_alive_ts = parts[4].parse::<u64>().unwrap_or(0);
         let last_seen_ts = parts[5].parse::<u64>().unwrap_or(0);
         let last_alive_ts = parts[6].parse::<u64>().unwrap_or(0);
+        let streak_alive_start_ts = if parts.len() == 8 {
+            parts[7].parse::<u64>().unwrap_or(0)
+        } else if last_seen_ts != 0 && last_seen_ts == last_alive_ts {
+            // Backward-compatibility: old history format has no streak data.
+            // If the tracker was alive in the last run, start with a 1-run streak baseline.
+            last_seen_ts
+        } else {
+            0
+        };
 
         map.insert(
             url,
@@ -521,6 +531,7 @@ fn load_tracker_history(path: &Path) -> HashMap<String, TrackerHistory> {
                 first_alive_ts,
                 last_seen_ts,
                 last_alive_ts,
+                streak_alive_start_ts,
             },
         );
     }
@@ -536,8 +547,15 @@ fn save_tracker_history(path: &Path, history: &HashMap<String, TrackerHistory>) 
     for url in urls {
         if let Some(h) = history.get(&url) {
             out.push_str(&format!(
-                "{}\t{}\t{}\t{}\t{}\t{}\t{}\n",
-                url, h.checks, h.alive_checks, h.first_seen_ts, h.first_alive_ts, h.last_seen_ts, h.last_alive_ts
+                "{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n",
+                url,
+                h.checks,
+                h.alive_checks,
+                h.first_seen_ts,
+                h.first_alive_ts,
+                h.last_seen_ts,
+                h.last_alive_ts,
+                h.streak_alive_start_ts
             ));
         }
     }
@@ -549,6 +567,7 @@ fn save_tracker_history(path: &Path, history: &HashMap<String, TrackerHistory>) 
 fn update_tracker_history(history: &mut HashMap<String, TrackerHistory>, results: &[CheckResult], now_ts: u64) {
     for result in results {
         let entry = history.entry(result.url.clone()).or_default();
+        let was_alive_last_run = entry.last_seen_ts != 0 && entry.last_seen_ts == entry.last_alive_ts;
 
         entry.checks = entry.checks.saturating_add(1);
         if entry.first_seen_ts == 0 {
@@ -557,11 +576,16 @@ fn update_tracker_history(history: &mut HashMap<String, TrackerHistory>, results
         entry.last_seen_ts = now_ts;
 
         if result.status == Status::Alive {
+            if !was_alive_last_run || entry.streak_alive_start_ts == 0 {
+                entry.streak_alive_start_ts = now_ts;
+            }
             entry.alive_checks = entry.alive_checks.saturating_add(1);
             if entry.first_alive_ts == 0 {
                 entry.first_alive_ts = now_ts;
             }
             entry.last_alive_ts = now_ts;
+        } else {
+            entry.streak_alive_start_ts = 0;
         }
     }
 }
@@ -688,10 +712,10 @@ fn generate_github_pages(
                     (h.alive_checks as f64) * 100.0 / (h.checks as f64)
                 };
 
-                let days = if h.first_seen_ts == 0 {
-                    0
+                let days = if r.status == Status::Alive && h.streak_alive_start_ts != 0 {
+                    ((ts.saturating_sub(h.streak_alive_start_ts)) / 86_400) + 1
                 } else {
-                    ((ts.saturating_sub(h.first_seen_ts)) / 86_400) + 1
+                    0
                 };
 
                 (format!("{:.2}%", uptime), days.to_string())
