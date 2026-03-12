@@ -7,7 +7,6 @@ http://200.170.110.114:6969/announce
 http://207.211.184.229:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
-http://209.50.255.93:3218/announce
 http://211.75.205.187/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.188/announce
@@ -67,6 +66,7 @@ http://ehtracker.org/2541477/announce
 http://ehtracker.org/2566145/1159106xUfsJkT9Btg/announce
 http://exodus.desync.com/announce
 http://extracker.dahrkael.net:6969/announce
+http://ftp.pet:2710/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://lucke.fenesisu.moe:6969/announce
@@ -75,7 +75,6 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://open.touki.ru/announce
 http://opentracker.acgnx.se/announce
-http://opentrackr.org:1337/announce
 http://pow7.com/announce
 http://retracker.x2k.ru/announce
 http://secure.pow7.com/announce
@@ -95,6 +94,7 @@ http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
+http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.acgnx.se/announce
 http://tracker.alaskantf.com:6969/announce
 http://tracker.anonwebz.xyz:8080/announce
@@ -108,6 +108,7 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
@@ -118,12 +119,12 @@ http://tracker.linkomanija.org:2710/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
-http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
 http://tracker.pow7.com/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.skyts.net:6969/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.tritan.gg:8080/announce
