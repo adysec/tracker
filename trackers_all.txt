@@ -1373,6 +1373,7 @@ http://yolo.liberbear.com/announce
 https://00.alarmasqueretaro.com/announce
 https://00.mercax.com/announce
 https://00.xxtor.com/announce
+https://004430.xyz/announce
 https://0d.kebhana.mx/announce
 https://1.tracker.eu.org/announce
 https://104.28.1.30:8080/announce
@@ -2880,6 +2881,7 @@ udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker-us.silksa.co.za:6969/announce
 udp://tracker-v6.opendev.cloud:8000/announce
+udp://tracker.004430.xyz:1337/announce
 udp://tracker.0o.is:6969/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.0x7c0.com:6969/announce
