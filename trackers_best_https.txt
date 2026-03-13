@@ -1,4 +1,5 @@
 https://004430.xyz/announce
+https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bdremux.club/announce
 https://bt.beatrice-raws.org/announce
@@ -14,6 +15,8 @@ https://sparkle.ghostchu-services.top/announce
 https://sparkle.ghostchu-services.top/tracker/announce
 https://t.213891.xyz/announce
 https://torrent.ubuntu.com/announce
+https://tr-rh-zhuqiy.dgj055.icu/announce
+https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.highstar.shop/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
