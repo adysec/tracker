@@ -994,6 +994,9 @@ http://rstracker.ohys.net/announce
 http://rt.optizone.ru/announce
 http://rt.tace.ru/announce
 http://s1124554.ha012.t.mydomain.zone/announce
+http://s1130638.ha016.t.mydomain.zone/announce
+http://s1130639.ha009.t.mydomain.zone/announce
+http://s1130642.ha014.t.mydomain.zone/announce
 http://s926723.ha016.t.mydomain.zone/announce
 http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
@@ -1750,6 +1753,7 @@ https://ttk.pp.ua/announce
 https://ttracker.just-h.party/announce
 https://voxhost.fr/announce
 https://w.wwwww.wtf/announce
+https://wsad.run.place/announce
 https://www.peckservers.com:9000/announce
 https://www.peckservers.com:9443/announce
 https://www.wareztorrent.com/announce
