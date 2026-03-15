@@ -1,13 +1,10 @@
-http://1337.abcvg.info/announce
 http://138.124.183.78:6969/announce
 http://140.235.237.23:6969/announce
-http://167.253.78.20:8080/announce
 http://193.31.26.113:6969/announce
 http://200.170.110.114:6969/announce
 http://207.211.184.229:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
-http://209.50.255.93:3218/announce
 http://211.75.205.187/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.188/announce
@@ -28,6 +25,7 @@ http://5.75.253.124:6969/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
 http://79.111.12.213:6969/announce
+http://93.158.213.92:1337/announce
 http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://atrack.pow7.com/announce
@@ -89,7 +87,6 @@ http://tk.trojangogogo.site:8989/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
-http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
@@ -112,7 +109,6 @@ http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.ghostchu-services.top/announce
 http://tracker.gigatorrents.ws:2710/announce
-http://tracker.kali.org:6969/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
@@ -123,10 +119,11 @@ http://tracker.pow7.com/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.skyts.net:6969/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.trancetraffic.com/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
+http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.wepzone.net:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
