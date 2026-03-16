@@ -2838,6 +2838,7 @@ udp://t.zerg.pw:1337/announce
 udp://t.zerg.pw:6969/announce
 udp://t1.chfs.ch:6969/announce
 udp://t2.leech.ie:1337/announce
+udp://t2.pow7.com:6969/announce
 udp://t3.leech.ie:1337/announce
 udp://taciturn-shadow.spb.ru:6969/announce
 udp://tamas3.ynh.fr:6969/announce
