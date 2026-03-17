@@ -79,6 +79,7 @@ http://123.245.62.112:6969/announce
 http://123.245.62.16:6969/announce
 http://123.245.62.21:6969/announce
 http://123.245.62.37:6969/announce
+http://123.245.62.39:6969/announce
 http://123.245.62.3:6969/announce
 http://123.245.62.41:6969/announce
 http://123.245.62.47:6969/announce
@@ -944,6 +945,7 @@ http://open.tracker.ink:6969/announce
 http://open.trackerlist.xyz/announce
 http://open.va.wiki:900/announce
 http://openbittorrent.com/announce
+http://opentracker.91kf.top:16969/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se/announce
 http://opentracker.i2p.rocks:6969/announce
@@ -1456,6 +1458,7 @@ https://chdbits.xyz/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://chihaya.de/announce
 https://cny.fan/announce
+https://colibri.parrot.run/announce
 https://danielcloud.ddns.net/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://docker-tracker-production.up.railway.app/announce
@@ -1753,6 +1756,7 @@ https://ttk.pp.ua/announce
 https://ttracker.just-h.party/announce
 https://voxhost.fr/announce
 https://w.wwwww.wtf/announce
+https://wolf.parrot.run/announce
 https://wsad.run.place/announce
 https://www.peckservers.com:9000/announce
 https://www.peckservers.com:9443/announce
