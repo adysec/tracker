@@ -625,10 +625,10 @@ fn generate_github_pages(
         (alive as f64) * 100.0 / (total as f64)
     };
 
-    let ts = SystemTime::now()
-        .duration_since(UNIX_EPOCH)
-        .map(|d| d.as_secs())
-        .unwrap_or(0);
+    // let ts = SystemTime::now()
+    //     .duration_since(UNIX_EPOCH)
+    //     .map(|d| d.as_secs())
+    //     .unwrap_or(0);
 
     let alive_list = sort_and_dedupe(
         results
@@ -671,19 +671,56 @@ fn generate_github_pages(
             .collect(),
     );
 
+    let ts = SystemTime::now()
+        .duration_since(UNIX_EPOCH)
+        .map(|d| d.as_secs())
+        .unwrap_or(0);
+
     let mut ordered = results.to_vec();
     ordered.sort_by(|a, b| {
-        let a_rank = match a.status {
-            Status::Alive => 0,
-            Status::Dead => 1,
-            Status::Invalid => 2,
-        };
-        let b_rank = match b.status {
-            Status::Alive => 0,
-            Status::Dead => 1,
-            Status::Invalid => 2,
-        };
-        a_rank.cmp(&b_rank).then_with(|| a.url.cmp(&b.url))
+        // 1. streak days (desc)
+        let a_streak = if let Some(h) = history.get(&a.url) {
+            if a.status == Status::Alive && h.streak_alive_start_ts != 0 {
+                ((ts.saturating_sub(h.streak_alive_start_ts)) / 86_400) + 1
+            } else { 0 }
+        } else { 0 };
+        let b_streak = if let Some(h) = history.get(&b.url) {
+            if b.status == Status::Alive && h.streak_alive_start_ts != 0 {
+                ((ts.saturating_sub(h.streak_alive_start_ts)) / 86_400) + 1
+            } else { 0 }
+        } else { 0 };
+        b_streak.cmp(&a_streak)
+        // 2. uptime (desc)
+        .then_with(|| {
+            let a_uptime = if let Some(h) = history.get(&a.url) {
+                if h.checks == 0 { 0.0 } else { (h.alive_checks as f64) * 100.0 / (h.checks as f64) }
+            } else { 0.0 };
+            let b_uptime = if let Some(h) = history.get(&b.url) {
+                if h.checks == 0 { 0.0 } else { (h.alive_checks as f64) * 100.0 / (h.checks as f64) }
+            } else { 0.0 };
+            b_uptime.partial_cmp(&a_uptime).unwrap_or(std::cmp::Ordering::Equal)
+        })
+        // 3. ping (asc)
+        .then_with(|| {
+            let a_ping = a.ping_ms.unwrap_or(u64::MAX);
+            let b_ping = b.ping_ms.unwrap_or(u64::MAX);
+            a_ping.cmp(&b_ping)
+        })
+        // 4. fallback: status, url
+        .then_with(|| {
+            let a_rank = match a.status {
+                Status::Alive => 0,
+                Status::Dead => 1,
+                Status::Invalid => 2,
+            };
+            let b_rank = match b.status {
+                Status::Alive => 0,
+                Status::Dead => 1,
+                Status::Invalid => 2,
+            };
+            a_rank.cmp(&b_rank)
+        })
+        .then_with(|| a.url.cmp(&b.url))
     });
 
     let rows = ordered
