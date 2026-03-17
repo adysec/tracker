@@ -1,8 +1,6 @@
 http://123.245.62.39:6969/announce
-http://1337.abcvg.info/announce
 http://138.124.183.78:6969/announce
 http://140.235.237.23:6969/announce
-http://167.253.78.20:8080/announce
 http://193.31.26.113:6969/announce
 http://207.211.184.229:6969/announce
 http://207.241.226.111:6969/announce
@@ -68,7 +66,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
-http://open.stealth.si/announce
 http://open.touki.ru/announce
 http://opentracker.91kf.top:16969/announce
 http://opentracker.acgnx.se/announce
@@ -91,7 +88,6 @@ http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
-http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
@@ -129,9 +125,7 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.trancetraffic.com/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
-http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
