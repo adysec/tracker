@@ -2843,6 +2843,7 @@ udp://t.publictracker.xyz:6969/announce
 udp://t.zerg.pw:1337/announce
 udp://t.zerg.pw:6969/announce
 udp://t1.chfs.ch:6969/announce
+udp://t1.pow7.com:6969/announce
 udp://t2.leech.ie:1337/announce
 udp://t2.pow7.com:6969/announce
 udp://t3.leech.ie:1337/announce
@@ -3174,6 +3175,7 @@ udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
 udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
+udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
 udp://www.theoccult.bz:3010/announce
 udp://www.torrent.eu.org:451/announce
