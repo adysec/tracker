@@ -1084,6 +1084,7 @@ http://tracker-sanopiracy.hopto.org:9123/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-udp.gbitt.info/announce
 http://tracker-zhuqiy.dgj055.icu/announce
+http://tracker.004430.xyz:1337/announce
 http://tracker.1048576.cn:17272/announce
 http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
