@@ -18,9 +18,7 @@ https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
 https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr.highstar.shop/announce
-https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
-https://tr.torland.ga/announce
 https://tr.zukizuki.org/announce
 https://tr2.trkb.ru/announce
 https://tracker-zhuqiy.xn--1r3au8b.space/announce
@@ -34,4 +32,3 @@ https://tracker.qingwapt.org/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.yggleak.top/announce
 https://tracker.zhuqiy.com/announce
-https://wsad.run.place/announce
