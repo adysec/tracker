@@ -3,11 +3,9 @@ https://337hhh.xyz/announce
 https://bdremux.club/announce
 https://bt.beatrice-raws.org/announce
 https://chihaya-heroku.120181311.xyz/announce
-https://cny.fan/announce
 https://colibri.parrot.run/announce
 https://fbiagent.cyou/announce
 https://http1.torrust-tracker-demo.com/announce
-https://pybittrack.retiolus.net/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://shahidrazi.online/announce
@@ -15,9 +13,7 @@ https://t.213891.xyz/announce
 https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
 https://tr.highstar.shop/announce
-https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
-https://tr.torland.ga/announce
 https://tr.zukizuki.org/announce
 https://tr2.trkb.ru/announce
 https://tracker-zhuqiy.xn--1r3au8b.space/announce
@@ -30,4 +26,3 @@ https://tracker.qingwapt.org/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.yggleak.top/announce
 https://tracker.zhuqiy.com/announce
-https://tracker1.520.jp/announce
