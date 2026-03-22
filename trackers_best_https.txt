@@ -1,4 +1,4 @@
-https://1337.abcvg.info/announce
+https://004430.xyz/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
 https://btn-prod.ghostchu-services.top/tracker/announce
@@ -23,10 +23,8 @@ https://tracker.bt4g.com/announce
 https://tracker.ghostchu-services.top/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.moeblog.cn/announce
-https://tracker.nekomi.cn/announce
 https://tracker.pmman.tech/announce
 https://tracker.qingwapt.org/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.yggleak.top/announce
 https://tracker.zhuqiy.com/announce
-https://wolf.parrot.run/announce

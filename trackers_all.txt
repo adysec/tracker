@@ -933,6 +933,7 @@ http://ns3107607.ip-54-36-126.eu:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 http://ns349743.ip-91-121-106.eu/announce
 http://nyaa.tracker.wf:7777/announce
+http://nyaaplus.i2p/announce
 http://open-v6.demonoid.ch:6969/announce
 http://open.8a.is:6969/announce
 http://open.acgnxtracker.com/announce
@@ -1219,6 +1220,7 @@ http://tracker.novalayer.org:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyaa.uk:6969/announce
+http://tracker.nyaa2p.i2p/announce
 http://tracker.nyacat.pw:7000/announce
 http://tracker.nyap2p.com:8080/announce
 http://tracker.openbittorrent.com/announce
@@ -2285,6 +2287,7 @@ udp://45.154.214.21:6969/announce
 udp://45.154.96.35:6969/announce
 udp://45.155.53.144:6969/announce
 udp://45.63.30.114:6969/announce
+udp://45.7.231.102:80/announce
 udp://45.76.120.37:6969/announce
 udp://45.9.60.30:6969/announce
 udp://45.92.156.182:2710/announce
