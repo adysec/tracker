@@ -544,6 +544,7 @@ http://45.63.111.135:2710/announce
 http://45.63.111.135:6961/announce
 http://45.63.111.135:8080/announce
 http://45.67.35.111:6969/announce
+http://45.7.231.102/announce
 http://46.17.46.112:8080/announce
 http://46.231.241.43:6969/announce
 http://46.29.161.6:2710/announce
@@ -1895,6 +1896,7 @@ udp://167.99.185.219:6969/announce
 udp://168.235.67.63:6969/announce
 udp://171.104.111.201:6969/announce
 udp://172.105.235.127:6969/announce
+udp://172.245.168.134:1337/announce
 udp://173.201.36.219:6969/announce
 udp://173.249.201.201:6969/announce
 udp://173.254.204.71:1096/announce
