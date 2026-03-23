@@ -811,6 +811,7 @@ http://btracker.top:11451/announce
 http://bttracker.crunchbanglinux.org:6969/announce
 http://bttracker.debian.org:6969/announce
 http://btx.anifilm.tv/announce
+http://bughome.de:2832/announce
 http://buny.uk:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://bz.tracker.bz/announce
@@ -1334,6 +1335,7 @@ http://uatracker.net/announce
 http://unknownsite.de:6969/announce
 http://uraniumhexafluori.de:1919/announce
 http://v6-tracker.0g.cx:6969/announce
+http://vps-c1adea63.vps.ovh.net:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://vps02.net.orel.ru/announce
 http://web.open-tracker.cf:6969/announce
@@ -1688,6 +1690,7 @@ https://tracker.moeking.me/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.morian.icu/announce
 https://tracker.moxing.party:6969/announce
+https://tracker.mrhei.tech:666/announce
 https://tracker.nanoha.org/announce
 https://tracker.nekomi.cn/announce
 https://tracker.netmap.top:8443/announce
