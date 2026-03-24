@@ -1,4 +1,5 @@
 http://004430.xyz/announce
+http://1337.abcvg.info/announce
 http://138.124.183.78:6969/announce
 http://140.235.237.23:6969/announce
 http://167.253.78.20:8080/announce
@@ -16,6 +17,7 @@ http://211.75.205.189:6969/announce
 http://211.75.210.221/announce
 http://211.75.210.221:6969/announce
 http://211.97.119.76:2710/announce
+http://216.144.239.90:6969/announce
 http://31.38.161.123:6969/announce
 http://37.120.182.83/announce
 http://43.250.54.137:6969/announce
@@ -28,6 +30,7 @@ http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
 http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
+http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bittorrent.kali.org/announce
@@ -65,7 +68,6 @@ http://exodus.desync.com/announce
 http://extracker.dahrkael.net:6969/announce
 http://ftp.pet:2710/announce
 http://ipv4.rer.lol:2710/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
@@ -80,6 +82,7 @@ http://s1130642.ha014.t.mydomain.zone/announce
 http://secure.pow7.com/announce
 http://sukebei.tracker.wf:8888/announce
 http://t-backup.213891.xyz/announce
+http://t.overflow.biz:6969/announce
 http://t1.pow7.com/announce
 http://t2.pow7.com/announce
 http://tk.cubicview.site/announce
@@ -92,7 +95,6 @@ http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
-http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.004430.xyz:1337/announce
 http://tracker.acgnx.se/announce
 http://tracker.anonwebz.xyz:8080/announce
@@ -118,7 +120,6 @@ http://tracker.linkomanija.org:2710/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
-http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
 http://tracker.pow7.com/announce
 http://tracker.pussytorrents.org:3000/announce
@@ -129,16 +130,15 @@ http://tracker.swifte.space:2710/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
+http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
-http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.com/announce
 http://tracker2.dler.org/announce
 http://tracker3.dler.org:2710/announce
-http://vps-c1adea63.vps.ovh.net:6969/announce
 http://wepzone.net:6969/announce
 http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
