@@ -320,6 +320,7 @@ http://189.18.97.201:6969/announce
 http://189.18.97.57:6969/announce
 http://189.69.167.105:6969/announce
 http://189.69.167.130:6969/announce
+http://189.69.168.147:6969/announce
 http://189.69.168.180:6969/announce
 http://189.69.169.237:6969/announce
 http://189.69.169.89:6969/announce
@@ -2043,6 +2044,7 @@ udp://189.18.97.201:6969/announce
 udp://189.18.97.57:6969/announce
 udp://189.69.167.105:6969/announce
 udp://189.69.167.130:6969/announce
+udp://189.69.168.147:6969/announce
 udp://189.69.168.180:6969/announce
 udp://189.69.169.237:6969/announce
 udp://189.69.169.89:6969/announce
