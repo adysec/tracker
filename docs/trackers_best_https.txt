@@ -1,10 +1,10 @@
 https://004430.xyz/announce
-https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
 https://btn-prod.ghostchu-services.top/tracker/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://cny.fan/announce
+https://colibri.parrot.run/announce
 https://fbiagent.cyou/announce
 https://http1.torrust-tracker-demo.com/announce
 https://pybittrack.retiolus.net/announce
@@ -31,3 +31,4 @@ https://tracker.pmman.tech/announce
 https://tracker.qingwapt.org/announce
 https://tracker.yggleak.top/announce
 https://tracker.zhuqiy.com/announce
+https://tracker1.520.jp/announce
