@@ -1,3 +1,4 @@
+udp://103.251.166.126:6969/announce
 udp://107.189.4.235:1337/announce
 udp://107.189.7.165:6969/announce
 udp://109.201.134.183:80/announce
@@ -53,6 +54,7 @@ udp://5.255.124.190:6969/announce
 udp://51.15.41.46:6969/announce
 udp://51.222.82.36:6969/announce
 udp://51.81.222.188:6969/announce
+udp://52.58.128.163:6969/announce
 udp://54.36.179.216:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -62,12 +64,10 @@ udp://78.40.116.12:6969/announce
 udp://81.230.84.201:6969/announce
 udp://88.80.22.67:2710/announce
 udp://89.234.156.205:451/announce
-udp://91.186.213.204:6969/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.53:451/announce
 udp://93.158.213.92:1337/announce
 udp://94.23.207.177:6969/announce
-udp://admin.52ywp.com:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://bt.okmp3.ru:2710/announce
@@ -77,6 +77,7 @@ udp://ch3oh.ru:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://ipv4.rer.lol:2710/announce
@@ -99,9 +100,11 @@ udp://opentrackr.org:1337/announce
 udp://pirate.t-1.org:1337/announce
 udp://qg.lorzl.gq:2710/announce
 udp://rekcart.duckdns.org:15480/announce
+udp://seedpeer.net:6969/announce
 udp://su-data.com:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://t1.pow7.com:6969/announce
+udp://t2.pow7.com:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
@@ -136,15 +139,14 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.sbsub.com:2710/announce
-udp://tracker.srv00.com:6969/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.tallpenguin.org:15750/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trojangogogo.site:8080/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
 udp://uabits.today:6990/announce
@@ -152,6 +154,7 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
