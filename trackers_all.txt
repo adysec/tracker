@@ -1217,6 +1217,7 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.morian.icu:443/announce
 http://tracker.moxing.party:6969/announce
+http://tracker.mrhei.tech:666/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 http://tracker.netmap.top:6969/announce
@@ -1846,6 +1847,7 @@ udp://125.227.79.123:80/announce
 udp://128.199.70.66:5944/announce
 udp://130.61.158.165:6969/announce
 udp://132.226.6.145:6969/announce
+udp://132.243.174.78:6969/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
 udp://135.125.236.64:6969/announce
@@ -2099,6 +2101,7 @@ udp://195.123.209.40:80/announce
 udp://198.100.149.66:6969/announce
 udp://198.91.25.157:8000/announce
 udp://1c.premierzal.ru:6969/announce
+udp://2.57.214.218:6969/announce
 udp://2.tracker.eu.org:443/announce
 udp://200.111.152.53:1337/announce
 udp://200.111.152.54:1337/announce
