@@ -1,4 +1,5 @@
 http://004430.xyz/announce
+http://1337.abcvg.info/announce
 http://138.124.183.78:6969/announce
 http://140.235.237.23:6969/announce
 http://172.245.168.134/announce
@@ -6,7 +7,6 @@ http://193.31.26.113:6969/announce
 http://207.211.184.229:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
-http://209.50.255.93:3218/announce
 http://211.75.205.187/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.188/announce
@@ -25,6 +25,8 @@ http://44.30.4.70:6969/announce
 http://45.146.254.59/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
+http://79.111.12.213:6969/announce
+http://93.158.213.92:1337/announce
 http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://atrack.pow7.com/announce
@@ -69,10 +71,12 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://open.touki.ru/announce
 http://opentracker.acgnx.se/announce
+http://opentrackr.org:1337/announce
 http://pow7.com/announce
 http://retracker.x2k.ru/announce
 http://s1130639.ha009.t.mydomain.zone/announce
 http://secure.pow7.com/announce
+http://shubt.net:2710/announce
 http://sukebei.tracker.wf:8888/announce
 http://t-backup.213891.xyz/announce
 http://t.overflow.biz:6969/announce
@@ -85,6 +89,7 @@ http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
+http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker.004430.xyz:1337/announce
@@ -100,7 +105,6 @@ http://tracker.ddunlimited.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
-http://tracker.dm258.cn:7070/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
@@ -120,9 +124,10 @@ http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.trancetraffic.com/announce
+http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
+http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.xfapi.top:6868/announce
-http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
