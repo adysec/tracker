@@ -19,11 +19,11 @@ https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
 https://tr.highstar.shop/announce
 https://tr.nyacat.pw/announce
+https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
-https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker-zhuqiy.xn--1r3au8b.space/announce
 https://tracker.7471.top/announce
-https://tracker.bt4g.com/announce
+https://tracker.cutie.dating/announce
 https://tracker.ghostchu-services.top/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.nekomi.cn/announce
