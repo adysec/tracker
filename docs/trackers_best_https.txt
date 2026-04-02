@@ -17,7 +17,6 @@ https://sparkle.ghostchu-services.top/tracker/announce
 https://t.213891.xyz/announce
 https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
-https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.highstar.shop/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
@@ -31,5 +30,3 @@ https://tracker.moeblog.cn/announce
 https://tracker.nekomi.cn/announce
 https://tracker.qingwapt.org/announce
 https://tracker.yggleak.top/announce
-https://tracker1.520.jp/announce
-https://wsad.run.place/announce
