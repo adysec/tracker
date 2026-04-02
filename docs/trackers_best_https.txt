@@ -5,7 +5,6 @@ https://bt.beatrice-raws.org/announce
 https://btn-prod.ghostchu-services.top/tracker/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://cny.fan/announce
-https://colibri.parrot.run/announce
 https://fbiagent.cyou/announce
 https://http1.torrust-tracker-demo.com/announce
 https://opentracker.8880085.xyz/announce
@@ -18,9 +17,9 @@ https://sparkle.ghostchu-services.top/tracker/announce
 https://t.213891.xyz/announce
 https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
+https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.highstar.shop/announce
 https://tr.nyacat.pw/announce
-https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
 https://tracker-zhuqiy.xn--1r3au8b.space/announce
 https://tracker.7471.top/announce
@@ -28,9 +27,9 @@ https://tracker.bt4g.com/announce
 https://tracker.cutie.dating/announce
 https://tracker.ghostchu-services.top/announce
 https://tracker.manager.v6.navy/announce
-https://tracker.maya.no.eu.org/announce
+https://tracker.moeblog.cn/announce
 https://tracker.nekomi.cn/announce
 https://tracker.qingwapt.org/announce
 https://tracker.yggleak.top/announce
-https://tracker.zhuqiy.com/announce
 https://tracker1.520.jp/announce
+https://wsad.run.place/announce
