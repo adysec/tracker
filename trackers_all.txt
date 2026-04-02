@@ -3060,6 +3060,7 @@ udp://tracker.netmap.top:6969/announce
 udp://tracker.nitrix.me:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.nyaa.uk:6969/announce
+udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ocnix.net:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-data.network:8888/announce
