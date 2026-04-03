@@ -1,5 +1,4 @@
 https://004430.xyz/announce
-https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
 https://btn-prod.ghostchu-services.top/tracker/announce
@@ -18,6 +17,7 @@ https://t.213891.xyz/announce
 https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
 https://tr.highstar.shop/announce
+https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
 https://tracker-zhuqiy.xn--1r3au8b.space/announce
@@ -25,10 +25,7 @@ https://tracker.7471.top/announce
 https://tracker.cutie.dating/announce
 https://tracker.ghostchu-services.top/announce
 https://tracker.manager.v6.navy/announce
-https://tracker.maya.no.eu.org/announce
-https://tracker.moeblog.cn/announce
 https://tracker.nekomi.cn/announce
 https://tracker.qingwapt.org/announce
 https://tracker.yggleak.top/announce
 https://tracker.zhuqiy.com/announce
-https://tracker1.520.jp/announce
