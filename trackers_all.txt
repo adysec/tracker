@@ -814,6 +814,7 @@ http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
+http://bt4.t-ru.org/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
 http://bttracker.crunchbanglinux.org:6969/announce
