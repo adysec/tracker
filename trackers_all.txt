@@ -793,6 +793,7 @@ http://bt.nfshost.com:443/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.poletracker.org:2710/announce
+http://bt.publicvm.com:8080/announce
 http://bt.pusacg.org:8080/announce
 http://bt.rer.lol:2710/announce
 http://bt.rghost.net/announce
@@ -1349,6 +1350,7 @@ http://v6-tracker.0g.cx:6969/announce
 http://vps-c1adea63.vps.ovh.net:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://vps02.net.orel.ru/announce
+http://w.wwwww.wtf:443/announce
 http://web.open-tracker.cf:6969/announce
 http://wegkxfcivgx.chickenkiller.com/announce
 http://wegkxfcivgx.ydns.eu/announce
@@ -3234,6 +3236,7 @@ udp://yahor.ftp.sh:6969/announce
 udp://yahor.of.by:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
 udp://yuki.bt.bontal.net:6969/announce
+udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://z.crazyhd.com:2710/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce
