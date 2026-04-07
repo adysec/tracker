@@ -1567,6 +1567,7 @@ https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
 https://torrentonline.cc/announce
 https://torrents.linuxmint.com/announce
+https://torrents.tmtime.dev/announce
 https://torrentsmd.com:8080/announce
 https://torrentsmd.eu:8080/announce
 https://torrentsmd.me:8080/announce
@@ -3023,6 +3024,7 @@ udp://tracker.healthcareindia.store:1337/announce
 udp://tracker.hentai.gg:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
+udp://tracker.hismz.cn:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.iamhansen.xyz:2000/announce
