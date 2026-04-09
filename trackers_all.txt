@@ -3096,6 +3096,7 @@ udp://tracker.piratepublic.com:1337/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.pomf.se:80/announce
+udp://tracker.port443.xyz:6969/announce
 udp://tracker.prq.to/announce
 udp://tracker.prq.to:80/announce
 udp://tracker.ptrmc.net:6969/announce
