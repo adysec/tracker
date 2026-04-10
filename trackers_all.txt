@@ -2005,6 +2005,7 @@ udp://185.121.168.244:1337/announce
 udp://185.121.168.244:6969/announce
 udp://185.121.168.96:1337/announce
 udp://185.121.168.96:6969/announce
+udp://185.121.24.141:6969/announce
 udp://185.134.22.3:6969/announce
 udp://185.146.233.150:6969/announce
 udp://185.181.60.155:80/announce
