@@ -1,6 +1,10 @@
+udp://103.251.166.126:6969/announce
 udp://107.189.4.235:1337/announce
 udp://107.189.7.165:6969/announce
+udp://109.201.134.183:80/announce
+udp://132.226.6.145:6969/announce
 udp://135.125.236.64:6969/announce
+udp://138.124.183.78:6969/announce
 udp://144.126.245.19:6969/announce
 udp://147.45.77.75:6969/announce
 udp://148.135.112.164:6969/announce
@@ -9,7 +13,7 @@ udp://172.245.168.134:1337/announce
 udp://173.201.36.219:6969/announce
 udp://185.121.168.96:1337/announce
 udp://185.121.168.96:6969/announce
-udp://185.189.13.108:6969/announce
+udp://185.146.233.150:6969/announce
 udp://185.216.179.62:25/announce
 udp://185.243.218.213:80/announce
 udp://192.3.130.53:1337/announce
@@ -61,7 +65,6 @@ udp://91.216.110.53:451/announce
 udp://94.23.207.177:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://archive.torrentonline.cc:42069/announce
-udp://bandito.byterunner.io:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bttracker.debian.org:6969/announce
@@ -79,10 +82,10 @@ udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://obey.torrentonline.cc:42069/announce
+udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.stealth.si/announce
 udp://open.stealth.si:80/announce
-udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
 udp://pirate.t-1.org:1337/announce
 udp://qg.lorzl.gq:2710/announce
@@ -92,7 +95,9 @@ udp://su-data.com:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.anirena.com:80/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.004430.xyz:1337/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.bittor.pw:1337/announce
@@ -102,12 +107,12 @@ udp://tracker.btzoo.eu:80/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
+udp://tracker.dhitechnical.com:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce
-udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -139,7 +144,7 @@ udp://tracker3.t-1.org:6969/announce
 udp://trackthis.cyber.pz.it:1337/announce
 udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
-udp://udp1.torrust-tracker-demo.com:6969/announce
+udp://utracker.ghostchu-services.top:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vito-tracker.duckdns.org:6969/announce
