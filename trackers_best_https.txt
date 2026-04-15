@@ -1,9 +1,7 @@
-https://004430.xyz/announce
 https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
 https://chihaya-heroku.120181311.xyz/announce
-https://colibri.parrot.run/announce
 https://fbiagent.cyou/announce
 https://http1.torrust-tracker-demo.com/announce
 https://opentracker.8880085.xyz/announce
@@ -21,6 +19,7 @@ https://tracker.7471.top/announce
 https://tracker.bt4g.com/announce
 https://tracker.nekomi.cn/announce
 https://tracker.qingwapt.org/announce
+https://tracker.yemekyedim.com/announce
 https://tracker.yggleak.top/announce
 https://tracker.zhuqiy.com/announce
 https://tracker1.520.jp/announce
