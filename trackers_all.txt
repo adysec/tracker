@@ -2927,6 +2927,7 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://tk4.leechshield.link:6969/announce
+udp://torrent.bowed.net:8081/announce
 udp://torrent.fedoraproject.org:6969/announce
 udp://torrent.gresille.org:80/announce
 udp://torrent.hificode.in:6969/announce
