@@ -2,10 +2,12 @@ http://004430.xyz/announce
 http://1337.abcvg.info/announce
 http://138.124.183.78:6969/announce
 http://140.235.237.23:6969/announce
+http://167.253.78.20:8080/announce
 http://172.245.168.134/announce
 http://177.16.198.58:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
+http://209.50.255.93:3218/announce
 http://211.75.205.187/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.188/announce
@@ -22,7 +24,7 @@ http://45.146.254.59/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
 http://64.226.122.118:6969/announce
-http://79.111.12.213:6969/announce
+http://93.158.213.92:1337/announce
 http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -36,6 +38,7 @@ http://bt.edwardk.info:676/announce
 http://bt.edwardk.info:6767/announce
 http://bt.edwardk.info:6969/announce
 http://bt.nnm-club.info:2710/announce
+http://bt.okmp3.ru:2710/announce
 http://bt.zlofenix.org:81/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -56,7 +59,6 @@ http://ehtracker.org/1226599/1080494xo5eXcwFOBq/announce
 http://ehtracker.org/2496841/announce
 http://ehtracker.org/2541477/announce
 http://ehtracker.org/2566145/1159106xUfsJkT9Btg/announce
-http://isk.richardsw.club:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.stealth.si/announce
 http://opentracker.acgnx.se/announce
@@ -70,8 +72,8 @@ http://tk.trojangogogo.site:8989/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
-http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker.004430.xyz:1337/announce
 http://tracker.acgnx.se/announce
@@ -87,11 +89,11 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
-http://tracker.huadongblower.xyz:8080/announce
 http://tracker.kali.org:6969/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.minglong.org:8080/announce
@@ -113,6 +115,7 @@ http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
+http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.com/announce
 http://tracker2.dler.org/announce
