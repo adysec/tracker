@@ -10,6 +10,7 @@ udp://148.135.112.164:6969/announce
 udp://151.242.30.86:42069/announce
 udp://172.245.168.134:1337/announce
 udp://173.201.36.219:6969/announce
+udp://177.16.198.58:6969/announce
 udp://185.121.168.96:1337/announce
 udp://185.121.168.96:6969/announce
 udp://185.146.233.150:6969/announce
@@ -20,7 +21,8 @@ udp://192.3.130.53:1337/announce
 udp://193.148.251.93:6969/announce
 udp://193.187.90.12:6969/announce
 udp://193.34.92.5:80/announce
-udp://2.57.214.218:6969/announce
+udp://193.42.111.57:9337/announce
+udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.250.249.67:6969/announce
 udp://209.50.255.93:3218/announce
@@ -31,7 +33,6 @@ udp://211.75.210.221:6969/announce
 udp://212.42.38.197:6969/announce
 udp://23.134.88.9:1337/announce
 udp://23.134.88.9:6969/announce
-udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
 udp://31.38.161.123:6969/announce
 udp://34.66.57.33:1337/announce
@@ -46,6 +47,7 @@ udp://43.250.54.137:6969/announce
 udp://44.30.4.4:6969/announce
 udp://44.30.4.70:6969/announce
 udp://45.134.88.121:6969/announce
+udp://45.9.60.30:6969/announce
 udp://5.255.124.190:6969/announce
 udp://51.15.41.46:6969/announce
 udp://51.222.82.36:6969/announce
@@ -74,6 +76,7 @@ udp://ch3oh.ru:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://evan.im:6969/announce
+udp://explodie.org:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://leet-tracker.moe:1337/announce
 udp://leet-tracker.moe:23861/announce
@@ -82,10 +85,12 @@ udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://obey.torrentonline.cc:42069/announce
+udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.ftorrent.com:443/announce
 udp://open.stealth.si/announce
 udp://open.stealth.si:80/announce
+udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
 udp://pirate.t-1.org:1337/announce
 udp://qg.lorzl.gq:2710/announce
@@ -113,12 +118,10 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce
-udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hismz.cn:6969/announce
-udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://tracker.kali.org:6969/announce
@@ -135,13 +138,10 @@ udp://tracker.t-1.org:6969/announce
 udp://tracker.tallpenguin.org:15750/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trojangogogo.site:8080/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.wildkat.net:6969/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-udp://tracker1.myporn.club:9337/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.t-1.org:6969/announce
