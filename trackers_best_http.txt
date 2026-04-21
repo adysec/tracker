@@ -1,7 +1,6 @@
 http://004430.xyz/announce
 http://1337.abcvg.info/announce
 http://140.235.237.23:6969/announce
-http://167.253.78.20:8080/announce
 http://172.245.168.134/announce
 http://177.16.198.58:6969/announce
 http://207.241.226.111:6969/announce
@@ -18,15 +17,12 @@ http://216.144.239.90:6969/announce
 http://31.38.161.123:6969/announce
 http://37.120.182.83/announce
 http://43.250.54.137:6969/announce
-http://45.146.254.59/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
 http://64.226.122.118:6969/announce
-http://93.158.213.92:1337/announce
 http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-http://bittorrent.kali.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.edwardk.info:12891/announce
 http://bt.edwardk.info:2710/announce
@@ -45,6 +41,8 @@ http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
 http://bttracker.debian.org:6969/announce
+http://bvarf.tracker.sh:2086/announce
+http://ch3oh.ru:6969/announce
 http://concen.org:6969/announce
 http://connect.swifte.space:2710/announce
 http://ehtracker.org/1/announce
@@ -56,6 +54,7 @@ http://ehtracker.org/2541477/announce
 http://ehtracker.org/2566145/1159106xUfsJkT9Btg/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.stealth.si/announce
+http://open.touki.ru/announce
 http://opentracker.acgnx.se/announce
 http://sukebei.tracker.wf:8888/announce
 http://t-backup.213891.xyz/announce
@@ -77,7 +76,6 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubicview.site/announce
-http://tracker.cutie.dating/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
@@ -87,7 +85,6 @@ http://tracker.exe.in.th:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
-http://tracker.kali.org:6969/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
@@ -98,17 +95,17 @@ http://tracker.openzim.org/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.skyts.net:6969/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.trancetraffic.com/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
+http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
-http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.com/announce
 http://tracker2.dler.org/announce
