@@ -1,12 +1,11 @@
 http://004430.xyz/announce
-http://113.16.153.249:6969/announce
-http://138.124.183.78:6969/announce
+http://1337.abcvg.info/announce
 http://140.235.237.23:6969/announce
-http://167.253.78.20:8080/announce
 http://172.245.168.134/announce
 http://177.16.198.58:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
+http://209.50.255.93:3218/announce
 http://211.75.205.187/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.188/announce
@@ -19,6 +18,7 @@ http://216.144.239.90:6969/announce
 http://31.38.161.123:6969/announce
 http://37.120.182.83/announce
 http://43.250.54.137:6969/announce
+http://45.146.254.59/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
 http://64.226.122.118:6969/announce
@@ -37,7 +37,6 @@ http://bt.edwardk.info:676/announce
 http://bt.edwardk.info:6767/announce
 http://bt.edwardk.info:6969/announce
 http://bt.nnm-club.info:2710/announce
-http://bt.okmp3.ru:2710/announce
 http://bt.zlofenix.org:81/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -65,14 +64,12 @@ http://opentrackr.org:1337/announce
 http://retracker.x2k.ru/announce
 http://sukebei.tracker.wf:8888/announce
 http://t-backup.213891.xyz/announce
-http://t.nyaatracker.com/announce
 http://t.overflow.biz:6969/announce
 http://tk.cubicview.site/announce
 http://tk.trojangogogo.site:8989/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
-http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
@@ -86,7 +83,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubicview.site/announce
 http://tracker.cutie.dating/announce
-http://tracker.darkness.services:6969/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
@@ -110,6 +106,7 @@ http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.trancetraffic.com/announce
+http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
