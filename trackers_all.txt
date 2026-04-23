@@ -1038,6 +1038,7 @@ http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce
 http://siambit.org/announce
+http://siwserver.duckdns.org:9900/announce
 http://smurfsoft.com:6969/announce
 http://sound-park.world:443/announce
 http://sparkle.ghostchu-services.top:443/announce
