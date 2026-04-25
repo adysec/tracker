@@ -3,7 +3,6 @@ https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
 https://chihaya-heroku.120181311.xyz/announce
-https://cny.fan/announce
 https://colibri.parrot.run/announce
 https://fbiagent.cyou/announce
 https://http1.torrust-tracker-demo.com/announce
@@ -12,7 +11,6 @@ https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://shahidrazi.online/announce
 https://t.213891.xyz/announce
-https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
 https://torrents.tmtime.dev/announce
 https://tr.highstar.shop/announce
