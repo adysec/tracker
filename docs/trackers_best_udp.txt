@@ -33,6 +33,7 @@ udp://211.75.210.221:6969/announce
 udp://212.42.38.197:6969/announce
 udp://23.134.88.9:1337/announce
 udp://23.134.88.9:6969/announce
+udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
 udp://31.38.161.123:6969/announce
 udp://34.66.57.33:1337/announce
@@ -51,7 +52,6 @@ udp://5.255.124.190:6969/announce
 udp://51.15.41.46:6969/announce
 udp://51.222.82.36:6969/announce
 udp://51.81.222.188:6969/announce
-udp://52.58.128.163:6969/announce
 udp://54.36.179.216:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -74,6 +74,7 @@ udp://ch3oh.ru:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://evan.im:6969/announce
+udp://explodie.org:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://leet-tracker.moe:1337/announce
 udp://leet-tracker.moe:23861/announce
@@ -82,7 +83,6 @@ udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
-udp://open.demonii.com:1337/announce
 udp://open.ftorrent.com:443/announce
 udp://open.stealth.si/announce
 udp://open.stealth.si:80/announce
@@ -91,7 +91,6 @@ udp://pirate.t-1.org:1337/announce
 udp://qg.lorzl.gq:2710/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://seedpeer.net:6969/announce
-udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
@@ -113,9 +112,11 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.exe.in.th:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce
-udp://tracker.filemail.com:6969/announce
+udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.hismz.cn:6969/announce
+udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
@@ -135,7 +136,6 @@ udp://tracker.trojangogogo.site:8080/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.wildkat.net:6969/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.t-1.org:6969/announce
@@ -147,7 +147,6 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vito-tracker.duckdns.org:6969/announce
 udp://vito-tracker.space:2095/announce
 udp://wepzone.net:6969/announce
-udp://whybother.torrentonline.cc:42069/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
 udp://www.torrent.eu.org:451/announce
