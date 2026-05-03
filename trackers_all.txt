@@ -31,6 +31,7 @@ http://110.187.215.166:6969/announce
 http://113.13.6.40:6969/announce
 http://113.13.7.124:6969/announce
 http://113.16.153.249:6969/announce
+http://113.16.153.98:6969/announce
 http://113.16.155.111:6969/announce
 http://113.16.155.112:6969/announce
 http://113.16.155.116:6969/announce
@@ -322,6 +323,7 @@ http://189.0.78.245:6969/announce
 http://189.0.78.33:6969/announce
 http://189.110.233.96:6969/announce
 http://189.18.126.32:6969/announce
+http://189.18.126.49:6969/announce
 http://189.18.127.125:6969/announce
 http://189.18.127.57:6969/announce
 http://189.18.162.106:6969/announce
@@ -733,6 +735,7 @@ http://91.216.110.47/announce
 http://91.217.91.21:3218/announce
 http://91.218.230.81:6969/announce
 http://91.224.92.110:6969/announce
+http://91.98.161.68:6969/announce
 http://93.158.213.92:1337/announce
 http://93.185.165.29:6969/announce
 http://93.88.129.16/announce
@@ -2078,6 +2081,7 @@ udp://188.165.253.109:1337/announce
 udp://189.0.78.245:6969/announce
 udp://189.0.78.33:6969/announce
 udp://189.18.126.32:6969/announce
+udp://189.18.126.49:6969/announce
 udp://189.18.127.125:6969/announce
 udp://189.18.127.57:6969/announce
 udp://189.18.162.106:6969/announce
@@ -2242,6 +2246,7 @@ udp://212.60.5.147:2710/announce
 udp://212.60.5.203:2710/announce
 udp://212.8.249.30:6969/announce
 udp://213.163.67.56:1337/announce
+udp://216.110.169.204:443/announce
 udp://216.238.80.236:3074/announce
 udp://217.156.123.49:1337/announce
 udp://217.30.10.77:6969/announce
@@ -2271,6 +2276,7 @@ udp://222.216.139.72:6969/announce
 udp://222.84.22.60:6969/announce
 udp://222.84.22.86:6969/announce
 udp://222.84.23.141:6969/announce
+udp://23.134.124.81:8081/announce
 udp://23.134.88.11:6969/announce
 udp://23.134.88.9:1337/announce
 udp://23.134.88.9:6969/announce
@@ -2389,6 +2395,7 @@ udp://54.39.48.3:6969/announce
 udp://57.128.230.226:80/announce
 udp://6.pocketnet.app:6969/announce
 udp://6.tracker.devnak.win:6969/announce
+udp://60.172.236.18:6969/announce
 udp://60.249.37.20:6969/announce
 udp://60.249.37.20:80/announce
 udp://60.249.37.21:6969/announce
