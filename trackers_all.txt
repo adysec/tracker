@@ -1577,6 +1577,7 @@ https://t.hdhome.org/announce
 https://t.peer-exchange.download/announce
 https://t.quic.ws/announce
 https://t.ubits.club/announce
+https://t.warwarez.ru/announce
 https://t.zerg.pw/announce
 https://t1.hloli.org/announce
 https://t1.leech.ie/announce
