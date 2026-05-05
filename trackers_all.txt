@@ -1716,6 +1716,7 @@ https://tracker.kuroy.me:5944/announce
 https://tracker.leaves.red/announce
 https://tracker.leechshield.link/announce
 https://tracker.lelux.fi/announce
+https://tracker.lenition.de/announce
 https://tracker.lilithraws.cf/announce
 https://tracker.lilithraws.org/announce
 https://tracker.linvk.com/announce
@@ -1761,6 +1762,7 @@ https://tracker.rainbowisland.co/announce
 https://tracker.renfei.net/announce
 https://tracker.renfei.net:8080/announce
 https://tracker.sakurato.art:23334/announce
+https://tracker.samcze.pl/announce
 https://tracker.shittyurl.org/announce
 https://tracker.sjtu.edu.cn/announce
 https://tracker.skynetcloud.site:8443/announce
