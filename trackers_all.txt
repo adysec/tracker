@@ -736,6 +736,7 @@ http://91.217.91.21:3218/announce
 http://91.218.230.81:6969/announce
 http://91.224.92.110:6969/announce
 http://91.98.161.68:6969/announce
+http://92.112.126.44:6969/announce
 http://93.158.213.92:1337/announce
 http://93.185.165.29:6969/announce
 http://93.88.129.16/announce
