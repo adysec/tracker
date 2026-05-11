@@ -1,5 +1,4 @@
 https://004430.xyz/announce
-https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
 https://http1.torrust-tracker-demo.com/announce
@@ -8,11 +7,10 @@ https://pybittrack.retiolus.net/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://t.213891.xyz/announce
-https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
 https://torrents.tmtime.dev/announce
+https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.nyacat.pw/announce
-https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.manager.v6.navy/announce
