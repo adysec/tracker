@@ -4,7 +4,6 @@ udp://118.196.100.63:6969/announce
 udp://120.78.150.131:6969/announce
 udp://132.226.6.145:6969/announce
 udp://135.125.236.64:6969/announce
-udp://144.126.245.19:6969/announce
 udp://147.45.74.251:6969/announce
 udp://147.45.77.75:6969/announce
 udp://148.135.112.164:6969/announce
@@ -23,11 +22,9 @@ udp://185.189.13.108:6969/announce
 udp://185.216.179.62:25/announce
 udp://185.243.218.213:80/announce
 udp://192.3.130.53:1337/announce
-udp://193.148.251.93:6969/announce
 udp://193.187.90.12:6969/announce
 udp://193.34.92.5:80/announce
 udp://2.57.214.218:6969/announce
-udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.250.249.67:6969/announce
 udp://211.75.205.187:6969/announce
@@ -36,6 +33,7 @@ udp://211.75.205.189:6969/announce
 udp://211.75.210.221:6969/announce
 udp://212.42.38.197:6969/announce
 udp://216.110.169.204:443/announce
+udp://23.134.124.81:8081/announce
 udp://23.134.88.9:1337/announce
 udp://23.134.88.9:6969/announce
 udp://23.175.184.30:23333/announce
@@ -98,12 +96,12 @@ udp://open.stealth.si/announce
 udp://open.stealth.si:80/announce
 udp://opentrackr.org:1337/announce
 udp://pirate.t-1.org:1337/announce
-udp://public.demonoid.ch:6969/announce
 udp://qg.lorzl.gq:2710/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://seedpeer.net:6969/announce
 udp://su-data.com:6969/announce
 udp://t.overflow.biz:6969/announce
+udp://torrent.bowed.net:8081/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
@@ -127,11 +125,12 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
-udp://tracker.iperson.xyz:6969/announce
+udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.opentorrent.top:6969/announce
+udp://tracker.opentrackr.org:1337/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
@@ -147,10 +146,10 @@ udp://tracker.trackarr.org:6969/announce
 udp://tracker.trojangogogo.site:8080/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.t-1.org:6969/announce
-udp://trackthis.cyber.pz.it:1337/announce
 udp://u.peer-exchange.download:6969/announce
 udp://uabits.today:6990/announce
 udp://udp.trackarr.org:6969/announce
