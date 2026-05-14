@@ -745,6 +745,7 @@ http://93.185.165.29:6969/announce
 http://93.88.129.16/announce
 http://93.92.64.5/announce
 http://94.228.192.98/announce
+http://94.72.140.51:6969/announce
 http://95.107.48.115/announce
 http://95.211.168.204:2710/announce
 http://95.217.161.135/announce
