@@ -37,6 +37,7 @@ http://113.16.155.112:6969/announce
 http://113.16.155.116:6969/announce
 http://113.16.155.146:6969/announce
 http://113.16.155.226:6969/announce
+http://113.16.155.243:6969/announce
 http://113.17.152.163:6969/announce
 http://113.17.152.249:6969/announce
 http://113.17.153.206:6969/announce
@@ -2547,6 +2548,7 @@ udp://83.6.231.203:6969/announce
 udp://83.6.233.63:6969/announce
 udp://84.197.224.61:6969/announce
 udp://84.54.51.78:6969/announce
+udp://85.121.5.80:6969/announce
 udp://85.17.19.180:80/announce
 udp://85.239.33.28:6969/announce
 udp://86.127.239.222:1234/announce
