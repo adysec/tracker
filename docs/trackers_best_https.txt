@@ -1,5 +1,4 @@
 https://004430.xyz/announce
-https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
 https://open.ftorrent.com/announce
@@ -13,11 +12,10 @@ https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
 https://tracker.7471.top/announce
 https://tracker.bt4g.com/announce
-https://tracker.cangku.moe/announce
 https://tracker.manager.v6.navy/announce
-https://tracker.moeblog.cn/announce
 https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
 https://tracker.qingwapt.org/announce
+https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker1.520.jp/announce
