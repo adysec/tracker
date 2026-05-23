@@ -2616,6 +2616,7 @@ udp://94.23.207.177:6969/announce
 udp://94.243.222.100:6969/announce
 udp://94.250.253.220:6969/announce
 udp://94.72.140.51:6969/announce
+udp://95.179.232.193:6969/announce
 udp://95.211.168.204:2710/announce
 udp://95.216.74.39:6969/announce
 udp://95.31.11.224:6969/announce
