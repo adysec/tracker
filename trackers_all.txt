@@ -1655,6 +1655,7 @@ https://tracker.acgnx.se/announce
 https://tracker.alaskantf.com/announce
 https://tracker.aletorrenty.pl:2710/announce
 https://tracker.amelia.fun/announce
+https://tracker.anibt.net/announce
 https://tracker.babico.name.tr/announce
 https://tracker.baka.ink/announce
 https://tracker.bangumi.zip/announce
