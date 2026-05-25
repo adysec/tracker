@@ -1939,6 +1939,7 @@ udp://147job.com:6969/announce
 udp://148.113.168.115:6969/announce
 udp://148.135.112.164:6969/announce
 udp://148.251.53.72:6969/announce
+udp://149.106.106.25:443/announce
 udp://149.202.88.193:80/announce
 udp://15.204.205.14:6969/announce
 udp://15.204.56.171:6969/announce
