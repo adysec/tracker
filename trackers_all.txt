@@ -1451,6 +1451,7 @@ https://00.alarmasqueretaro.com/announce
 https://00.mercax.com/announce
 https://00.xxtor.com/announce
 https://004430.xyz/announce
+https://021912.xyz/announce
 https://0d.kebhana.mx/announce
 https://1.tracker.eu.org/announce
 https://104.28.1.30:8080/announce
@@ -1505,6 +1506,7 @@ https://agusiq-torrents.pl:6969/announce
 https://alpha.torrenttracker.nl/announce
 https://api.ipv4online.uk/announce
 https://atrack.pow7.com/announce
+https://banananetwork.qzz.io/announce
 https://bdremux.club/announce
 https://bittorrent.gongt.net/announce
 https://bittorrent.service.gongt.me:59443/announce
@@ -1571,6 +1573,7 @@ https://opentracker.cc/announce
 https://opentracker.co/announce
 https://opentracker.i2p.rocks/announce
 https://opentracker.xyz/announce
+https://orgtgju.org/announce
 https://ourbits.club/announce
 https://p2p.azu.red/announce
 https://p4p.arenabg.ch:1337/announce
