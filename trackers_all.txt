@@ -28,6 +28,7 @@ http://110.187.214.137:6969/announce
 http://110.187.214.29:6969/announce
 http://110.187.214.6:6969/announce
 http://110.187.215.166:6969/announce
+http://113.13.6.197:6969/announce
 http://113.13.6.40:6969/announce
 http://113.13.7.124:6969/announce
 http://113.13.7.90:6969/announce
