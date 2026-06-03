@@ -5,6 +5,7 @@ https://337hhh.xyz/announce
 https://banananetwork.qzz.io/announce
 https://bt.beatrice-raws.org/announce
 https://chihaya-heroku.120181311.xyz/announce
+https://colibri.parrot.run/announce
 https://open.ftorrent.com/announce
 https://orgtgju.org/announce
 https://pybittrack.retiolus.net/announce
@@ -14,6 +15,8 @@ https://shahidrazi.online/announce
 https://t.213891.xyz/announce
 https://torrent.ubuntu.com/announce
 https://torrents.tmtime.dev/announce
+https://tr-zhuqiy-2.dgj055.icu/announce
+https://tr.nyacat.pw/announce
 https://tr.zukizuki.org/announce
 https://tr2.trkb.ru/announce
 https://tracker.7471.top/announce
@@ -25,6 +28,5 @@ https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
 https://tracker.qingwapt.org/announce
-https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
-https://tracker1.520.jp/announce
+https://wolf.parrot.run/announce
