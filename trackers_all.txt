@@ -1,3 +1,4 @@
+udp://tracker.peerfect.org:6969/announce
 http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
