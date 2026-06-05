@@ -164,3 +164,4 @@ udp://whybother.torrentonline.cc:42069/announce
 udp://www.torrent.eu.org:451/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://zer0day.ch:1337/announce
+udp://peerfect.org:6969/announce
