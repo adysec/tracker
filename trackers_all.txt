@@ -3097,6 +3097,7 @@ udp://tracker.dix.tf:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.dorcus.digital:1337/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker.ds.is:6969/announce
 udp://tracker.ducks.party:1984/announce
