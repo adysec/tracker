@@ -885,6 +885,7 @@ http://connect.swifte.space:2710/announce
 http://cpleft.com:2710/announce
 http://data-bg.net/announce
 http://datascene.net/announce
+http://de7c0e7a567e.sn.mynetname.net:59002/announce
 http://debuz.com:6969/announce
 http://denis.stalker.h3q.com/announce
 http://denis.stalker.h3q.com:6969/announce
@@ -1675,6 +1676,7 @@ https://tracker.baka.ink/announce
 https://tracker.bangumi.zip/announce
 https://tracker.baravik.org:6970/announce
 https://tracker.belmult.online/announce
+https://tracker.bigbewbs.online/announce
 https://tracker.bittor.pw:1337/announce
 https://tracker.bittorrent.am/announce
 https://tracker.bjut.jp/announce
