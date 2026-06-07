@@ -54,6 +54,7 @@ http://113.17.152.30:6969/announce
 http://113.17.153.206:6969/announce
 http://113.17.153.227:6969/announce
 http://113.17.153.71:6969/announce
+http://113.17.66.164:6969/announce
 http://113.17.66.235:6969/announce
 http://113.17.66.72:6969/announce
 http://113.17.67.93:6969/announce
@@ -3193,6 +3194,7 @@ udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
+udp://tracker.opentrackr.com:1337/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pcfreetime.com:6969/announce
@@ -3215,6 +3217,7 @@ udp://tracker.renfei.net:8080/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.sbsub.com:2710/announce
+udp://tracker.segso.net:6969/announce
 udp://tracker.sharebro.in:6969/announce
 udp://tracker.sheesh.rip:6969/announce
 udp://tracker.shkinev.me:6969/announce
@@ -3378,5 +3381,3 @@ wss://tracker.ghostchu-services.top/announce
 wss://tracker.magnetoo.io/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.webtorrent.dev/announce
-udp://tracker.segso.net:6969/announce
-udp://tracker.opentrackr.com:1337/announce
