@@ -11,8 +11,10 @@ https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://shahidrazi.online/announce
 https://t.213891.xyz/announce
+https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
 https://torrents.tmtime.dev/announce
+https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr.zukizuki.org/announce
 https://tr2.trkb.ru/announce
@@ -20,6 +22,7 @@ https://tracker.7471.top/announce
 https://tracker.anibt.net/announce
 https://tracker.bigbewbs.online/announce
 https://tracker.bt4g.com/announce
+https://tracker.manager.itislove.cz/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
