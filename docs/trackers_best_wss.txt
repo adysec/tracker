@@ -4,4 +4,3 @@ wss://tracker.btorrent.xyz/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.magnetoo.io/announce
 wss://tracker.openwebtorrent.com/announce
-wss://tracker.webtorrent.dev/announce
