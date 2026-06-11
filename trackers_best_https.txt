@@ -1,6 +1,7 @@
 https://004430.xyz/announce
 https://021912.xyz/announce
 https://1337.abcvg.info/announce
+https://337hhh.xyz/announce
 https://banananetwork.qzz.io/announce
 https://bt.beatrice-raws.org/announce
 https://open.ftorrent.com/announce
@@ -8,7 +9,6 @@ https://orgtgju.org/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://t.213891.xyz/announce
-https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
 https://torrents.tmtime.dev/announce
 https://tr.nyacat.pw/announce
@@ -23,4 +23,5 @@ https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
+https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
