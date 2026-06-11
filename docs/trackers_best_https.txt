@@ -3,11 +3,11 @@ https://021912.xyz/announce
 https://1337.abcvg.info/announce
 https://banananetwork.qzz.io/announce
 https://bt.beatrice-raws.org/announce
+https://chihaya-heroku.120181311.xyz/announce
 https://open.ftorrent.com/announce
 https://orgtgju.org/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
-https://shahidrazi.online/announce
 https://t.213891.xyz/announce
 https://torrent.tracker.durukanbal.com/announce
 https://torrent.ubuntu.com/announce
@@ -19,10 +19,10 @@ https://tracker.7471.top/announce
 https://tracker.anibt.net/announce
 https://tracker.bigbewbs.online/announce
 https://tracker.bt4g.com/announce
+https://tracker.cangku.moe/announce
 https://tracker.manager.itislove.cz/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
-https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce

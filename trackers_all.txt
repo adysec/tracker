@@ -39,6 +39,7 @@ http://113.16.152.94:6969/announce
 http://113.16.153.116:6969/announce
 http://113.16.153.192:6969/announce
 http://113.16.153.249:6969/announce
+http://113.16.153.28:6969/announce
 http://113.16.153.98:6969/announce
 http://113.16.154.16:6969/announce
 http://113.16.154.70:6969/announce
@@ -870,6 +871,7 @@ http://bt2.edwardk.info:6969/announce
 http://bt4.t-ru.org/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
+http://btrackrqkjp6kgelov5a3uxisis77ofxqt5nvy5hvvtoybjpmq4q.b32.i2p/announce
 http://bttracker.crunchbanglinux.org:6969/announce
 http://bttracker.debian.org:6969/announce
 http://btx.anifilm.tv/announce
@@ -1981,6 +1983,7 @@ udp://152.249.214.74:6969/announce
 udp://152.53.152.105:15480/announce
 udp://152.53.152.105:1984/announce
 udp://152.53.152.105:54123/announce
+udp://152.53.194.103:54123/announce
 udp://152.89.29.128:6969/announce
 udp://154.40.43.165:6969/announce
 udp://156.234.201.18:80/announce
@@ -2425,6 +2428,7 @@ udp://47.ip-51-68-199.eu:6969/announce
 udp://49.12.76.8:8080/announce
 udp://49.13.133.10:6969/announce
 udp://5.102.159.190:6969/announce
+udp://5.135.104.146:6969/announce
 udp://5.161.187.83:53/announce
 udp://5.181.156.41:6969/announce
 udp://5.181.188.172:1337/announce
@@ -2596,6 +2600,7 @@ udp://88.80.22.67:2710/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
 udp://89.110.76.229:6969/announce
+udp://89.117.57.95:1337/announce
 udp://89.234.156.205:451/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
