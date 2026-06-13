@@ -33,6 +33,7 @@ http://113.13.6.40:6969/announce
 http://113.13.7.124:6969/announce
 http://113.13.7.149:6969/announce
 http://113.13.7.186:6969/announce
+http://113.13.7.215:6969/announce
 http://113.13.7.90:6969/announce
 http://113.16.152.171:6969/announce
 http://113.16.152.94:6969/announce
@@ -422,6 +423,7 @@ http://200.161.254.131:6969/announce
 http://200.161.254.194:6969/announce
 http://200.161.254.20:6969/announce
 http://200.168.116.107:6969/announce
+http://200.168.116.191:6969/announce
 http://200.168.116.200:6969/announce
 http://200.168.116.61:6969/announce
 http://200.168.117.124:6969/announce
@@ -2220,6 +2222,7 @@ udp://200.161.254.131:6969/announce
 udp://200.161.254.194:6969/announce
 udp://200.161.254.20:6969/announce
 udp://200.168.116.107:6969/announce
+udp://200.168.116.191:6969/announce
 udp://200.168.116.200:6969/announce
 udp://200.168.116.61:6969/announce
 udp://200.168.117.124:6969/announce
