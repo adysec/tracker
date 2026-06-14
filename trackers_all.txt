@@ -57,6 +57,7 @@ http://113.17.152.249:6969/announce
 http://113.17.152.30:6969/announce
 http://113.17.153.206:6969/announce
 http://113.17.153.227:6969/announce
+http://113.17.153.232:6969/announce
 http://113.17.153.71:6969/announce
 http://113.17.66.164:6969/announce
 http://113.17.66.235:6969/announce
@@ -181,6 +182,7 @@ http://152.249.214.68:6969/announce
 http://152.249.214.74:6969/announce
 http://152.249.75.131:6969/announce
 http://152.249.97.159:6969/announce
+http://152.53.194.103:2710/announce
 http://152.67.8.255:6969/announce
 http://154.29.145.56:17715/announce
 http://155.248.200.105/announce
