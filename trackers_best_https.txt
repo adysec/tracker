@@ -16,7 +16,6 @@ https://torrents.tmtime.dev/announce
 https://tr.nyacat.pw/announce
 https://tr.zukizuki.org/announce
 https://tr2.trkb.ru/announce
-https://tracker.7471.top/announce
 https://tracker.anibt.net/announce
 https://tracker.bigbewbs.online/announce
 https://tracker.bt4g.com/announce
