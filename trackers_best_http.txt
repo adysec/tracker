@@ -34,6 +34,7 @@ http://bt.edwardk.info:676/announce
 http://bt.edwardk.info:6767/announce
 http://bt.edwardk.info:6969/announce
 http://bt.nnm-club.info:2710/announce
+http://bt.okmp3.ru:2710/announce
 http://bt.zlofenix.org:81/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -61,19 +62,16 @@ http://retracker.x2k.ru/announce
 http://retracker01-msk-virt.corbina.net/announce
 http://sukebei.tracker.wf:8888/announce
 http://t-backup.213891.xyz/announce
+http://t.overflow.biz:6969/announce
 http://tk.cubicview.site/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
-http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
-http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.004430.xyz:1337/announce
-http://tracker.23794.top:6969/announce
-http://tracker.acgnx.se/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.auctor.tv:6969/announce
 http://tracker.breizh.pm:6969/announce
@@ -94,9 +92,7 @@ http://tracker.merded.xyz:8000/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
-http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
-http://tracker.plx.im:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
@@ -104,7 +100,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.trancetraffic.com/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
