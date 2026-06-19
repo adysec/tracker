@@ -515,6 +515,7 @@ http://222.216.138.237:6969/announce
 http://222.216.139.165:6969/announce
 http://222.216.139.217:6969/announce
 http://222.216.139.248:6969/announce
+http://222.216.139.71:6969/announce
 http://222.216.139.72:6969/announce
 http://222.84.20.142:6969/announce
 http://222.84.20.42:6969/announce
