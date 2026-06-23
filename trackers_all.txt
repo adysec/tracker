@@ -1199,6 +1199,7 @@ http://tracker.btsync.gq:233/announce
 http://tracker.btzero.net:8080/announce
 http://tracker.bz/announce
 http://tracker.calculate.ru:6969/announce
+http://tracker.cbase.cc:6969/announce
 http://tracker.ccc.de/announce
 http://tracker.ccp.ovh:6969/announce
 http://tracker.chaoz.li:2710/announce
