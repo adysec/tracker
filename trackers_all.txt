@@ -3404,6 +3404,9 @@ udp://yahor.of.by:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
 udp://yuki.bt.bontal.net:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
+udp://yuptracker-sa.gaijinent.com:27022/announce
+udp://yuptracker-us.gaijinent.com:27022/announce
+udp://yuptracker.gaijinent.com:27022/announce
 udp://z.crazyhd.com:2710/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce
