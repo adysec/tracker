@@ -22,6 +22,7 @@ http://37.120.182.83:2710/announce
 http://43.250.54.126:6969/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
+http://93.158.213.92:1337/announce
 http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://announce.sktorrent.eu:6969/announce
@@ -59,11 +60,9 @@ http://nyaa.tracker.wf:7777/announce
 http://opentracker.acgnx.se/announce
 http://opentracker.xyz/announce
 http://opentrackr.org:1337/announce
-http://retracker.x2k.ru/announce
 http://retracker01-msk-virt.corbina.net/announce
 http://sukebei.tracker.wf:8888/announce
 http://t-backup.213891.xyz/announce
-http://t.nyaatracker.com/announce
 http://t.overflow.biz:6969/announce
 http://tk.cubicview.site/announce
 http://torrent.fedoraproject.org:6969/announce
@@ -73,6 +72,7 @@ http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
+http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.004430.xyz:1337/announce
 http://tracker.acgnx.se/announce
 http://tracker.anonwebz.xyz:8080/announce
@@ -86,6 +86,7 @@ http://tracker.ddunlimited.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
@@ -104,6 +105,7 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.trancetraffic.com/announce
+http://tracker.tritan.gg:8080/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
