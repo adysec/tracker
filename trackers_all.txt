@@ -277,6 +277,7 @@ http://179.118.129.194:6969/announce
 http://179.118.132.77:6969/announce
 http://179.118.133.224:6969/announce
 http://179.146.54.147:6969/announce
+http://179.146.54.238:6969/announce
 http://179.175.247.60:6969/announce
 http://179.175.247.70:6969/announce
 http://179.175.247.98:6969/announce
@@ -1607,6 +1608,7 @@ https://ourbits.club/announce
 https://p2p.azu.red/announce
 https://p4p.arenabg.ch:1337/announce
 https://p4p.arenabg.com:1337/announce
+https://php-bobcat.wasmer.app/announce
 https://pow7.com:80/announce
 https://prestige.minimafia.nl/announce
 https://private.minimafia.nl/announce
@@ -2084,6 +2086,7 @@ udp://179.118.129.138:6969/announce
 udp://179.118.129.194:6969/announce
 udp://179.118.132.77:6969/announce
 udp://179.146.54.147:6969/announce
+udp://179.146.54.238:6969/announce
 udp://179.175.247.60:6969/announce
 udp://179.175.247.70:6969/announce
 udp://179.43.155.30:6969/announce
