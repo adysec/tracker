@@ -77,6 +77,9 @@ jobs:
       - name: Test tracker availability
         run: |
           cargo run --release --manifest-path tracker-checker/Cargo.toml -- trackers_all.txt trackers_best.txt --workers 40
+      - name: Copy all.txt file
+        run: |
+          cp trackers_all.txt docs/trackers_all.txt
 
       - name: Commit and Push changes
         run: |
