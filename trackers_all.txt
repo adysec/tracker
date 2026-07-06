@@ -2506,6 +2506,7 @@ udp://62.212.85.66:2710/announce
 udp://62.60.157.92:6969/announce
 udp://64.23.195.62:6969/announce
 udp://65.108.102.76:6969/announce
+udp://65.109.28.17:6969/announce
 udp://65.21.91.32:6969/announce
 udp://67.222.238.222:2010/announce
 udp://68.193.189.231:6969/announce
