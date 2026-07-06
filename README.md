@@ -8,20 +8,6 @@
 
 本项目自动收集、测试和维护高质量的 BitTorrent Tracker 服务器列表。通过每日自动化流程，从多个开源项目聚合 Tracker 数据，进行连通性测试，并提供按协议分类的优选列表。
 
-**提供推荐tracker服务器，使用本项目中全量tracker服务器进行负载均衡配置，理论上相当于加入了本项目所有tracker服务器，且可以大幅度减少对tracker服务器的并发请求**
-
-[`https://tracker.adysec.com/announce`](https://tracker.adysec.com/announce)
-```
-       客户端
-          │
-          ▼
-    推荐 Tracker
-       │
-  ┌────┼────┼────┐
-  ▼    ▼    ▼
-  A    B    C
-```
-
 ## 📋 Tracker 列表
 
 本项目提供全量和优选两种类型的 Tracker 列表。全量列表包含从各大开源项目聚合的所有 Tracker 服务器，适合需要最大覆盖范围的用户；优选列表则经过严格的连通性测试，仅保留真正可用的高质量 Tracker，确保最佳的下载体验。
