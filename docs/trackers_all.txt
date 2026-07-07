@@ -1569,6 +1569,7 @@ https://colibri.parrot.run/announce
 https://danielcloud.ddns.net/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://docker-tracker-production.up.railway.app/announce
+https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).udp:/open.stealth.si:80/announce
 https://edge-team.cc/announce
 https://evening-badlands-6215.herokuapp.com/announce
 https://explodie.org:6969/announce
@@ -2239,6 +2240,7 @@ udp://2.57.214.218:6969/announce
 udp://2.tracker.eu.org:443/announce
 udp://200.111.152.53:1337/announce
 udp://200.111.152.54:1337/announce
+udp://200.111.84.93:1337/announce
 udp://200.148.11.147:6969/announce
 udp://200.148.11.156:6969/announce
 udp://200.148.11.61:6969/announce
