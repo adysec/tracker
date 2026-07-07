@@ -143,6 +143,7 @@ http://125.227.79.123:6969/announce
 http://128.199.70.66:5944/announce
 http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
+http://132.243.161.144:6969/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info:443/announce
 http://138.124.183.78:6969/announce
@@ -988,6 +989,7 @@ http://mail.lakameraobscura.com:6969/announce
 http://mail.martin-gebhardt.com:8443/announce
 http://mail2.zelenaya.net/announce
 http://masters-tb.com/announce
+http://maxsrv.xyz:9000/announce
 http://mc.itscraftsoftware.my.id:8804/announce
 http://mediaclub.tv/announce
 http://mgtracker.org:2710/announce
@@ -1312,6 +1314,7 @@ http://tracker.nyacat.pw:7000/announce
 http://tracker.nyap2p.com:8080/announce
 http://tracker.openbittorrent.com/announce
 http://tracker.openbittorrrent.com/announce
+http://tracker.opentorrent.top:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
 http://tracker.pcfreetime.com:6969/announce
@@ -1346,6 +1349,7 @@ http://tracker.tasvideos.org:6969/announce
 http://tracker.tfile.co/announce
 http://tracker.tfile.me/announce
 http://tracker.theempire.bz:3110/announce
+http://tracker.therarbg.to:6969/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.torrent.to:2710/announce
 http://tracker.torrentbay.to:6969/announce
