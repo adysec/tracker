@@ -2105,6 +2105,7 @@ udp://179.98.51.208:6969/announce
 udp://179.98.51.248:6969/announce
 udp://179.98.51.66:6969/announce
 udp://18.191.163.220:6969/announce
+udp://180.131.145.175:6969/announce
 udp://181.214.58.63:6969/announce
 udp://182.176.139.129:6969/announce
 udp://184.105.151.166:6969/announce
