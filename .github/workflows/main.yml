@@ -74,6 +74,9 @@ jobs:
           curl "https://dns.icoa.cn/tracker/" >> trackers_all.txt
           curl "https://trackerstatus.live/?download=online" >> trackers_all.txt
 
+      - name: Update rust
+        run: cargo update
+        
       - name: Test tracker availability
         run: |
           cargo run --release --manifest-path tracker-checker/Cargo.toml -- trackers_all.txt trackers_best.txt --workers 40
