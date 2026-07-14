@@ -75,7 +75,7 @@ jobs:
           curl "https://trackerstatus.live/?download=online" >> trackers_all.txt
 
       - name: Update rust
-        run: cargo update
+        run: cd tracker-checker && cargo update
         
       - name: Test tracker availability
         run: |
