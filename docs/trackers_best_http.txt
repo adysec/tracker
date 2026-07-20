@@ -17,6 +17,7 @@ http://211.75.210.221/announce
 http://211.75.210.221:6969/announce
 http://216.144.239.90:6969/announce
 http://31.38.161.123:6969/announce
+http://34.66.57.33:2701/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
 http://43.250.54.126:6969/announce
@@ -38,7 +39,6 @@ http://bt.edwardk.info:676/announce
 http://bt.edwardk.info:6767/announce
 http://bt.edwardk.info:6969/announce
 http://bt.nnm-club.info:2710/announce
-http://bt.okmp3.ru:2710/announce
 http://bt.zlofenix.org:81/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -47,7 +47,6 @@ http://bt2.archive.org:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
-http://bttracker.debian.org:6969/announce
 http://ch3oh.ru:6969/announce
 http://connect.swifte.space:2710/announce
 http://ehtracker.org/1/announce
@@ -63,6 +62,7 @@ http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://opentracker.acgnx.se/announce
 http://opentracker.xyz/announce
+http://opentrackr.org:1337/announce
 http://retracker.x2k.ru/announce
 http://retracker01-msk-virt.corbina.net/announce
 http://sukebei.tracker.wf:8888/announce
@@ -75,17 +75,13 @@ http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
-http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
-http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.acgnx.se/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.auctor.tv:6969/announce
 http://tracker.breizh.pm:6969/announce
-http://tracker.bt-hash.com/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.bz/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubicview.site/announce
 http://tracker.ddunlimited.net:6969/announce
@@ -121,9 +117,9 @@ http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
+http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.com/announce
 http://tracker2.dler.org/announce
 http://tracker3.dler.org:2710/announce
 http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
-http://www.chouchou.club:8080/announce
