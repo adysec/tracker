@@ -1306,6 +1306,7 @@ http://tracker.mrhei.tech:666/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 http://tracker.netmap.top:6969/announce
+http://tracker.nexusstream.eu:6969/announce
 http://tracker.noobsubs.net/announce
 http://tracker.novalayer.org:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
@@ -1574,6 +1575,7 @@ https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://docker-tracker-production.up.railway.app/announce
 https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).udp:/open.stealth.si:80/announce
 https://edge-team.cc/announce
+https://edgev.duckdns.org/announce
 https://evening-badlands-6215.herokuapp.com/announce
 https://explodie.org:6969/announce
 https://fbiagent.cyou/announce
@@ -2810,6 +2812,7 @@ udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://eccologic.net:6969/announce
 udp://eddie4.nl:6969/announce
+udp://edgev.duckdns.org:6969/announce
 udp://edu.uifr.ru:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://engplus.ru:6969/announce
