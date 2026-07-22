@@ -1484,6 +1484,7 @@ http://www.yqzuji.com/announce
 http://www.zone-torrent.net/announce
 http://xbtrutor.com:2710/announce
 http://xtremewrestlingtorrents.net/announce
+http://ydlkccp.dscloud.me:6969/announce
 http://yggtracker.i2p.rocks/announce
 http://yolo.liberbear.com/announce
 https://00.alarmasqueretaro.com/announce
