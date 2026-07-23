@@ -2533,6 +2533,7 @@ udp://62.60.157.92:6969/announce
 udp://64.23.195.62:6969/announce
 udp://65.108.102.76:6969/announce
 udp://65.109.28.17:6969/announce
+udp://65.109.28.33:6969/announce
 udp://65.21.91.32:6969/announce
 udp://67.222.238.222:2010/announce
 udp://68.193.189.231:6969/announce
@@ -2710,6 +2711,8 @@ udp://94.72.140.51:6969/announce
 udp://95.179.232.193:6969/announce
 udp://95.211.168.204:2710/announce
 udp://95.216.74.39:6969/announce
+udp://95.217.80.20:6969/announce
+udp://95.217.80.22:6969/announce
 udp://95.31.11.224:6969/announce
 udp://96.126.98.54:6969/announce
 udp://960303.xyz:6969/announce
