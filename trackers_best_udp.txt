@@ -1,13 +1,11 @@
 udp://109.201.134.183:80/announce
 udp://118.196.100.63:6969/announce
 udp://132.226.6.145:6969/announce
-udp://135.125.236.64:6969/announce
 udp://149.106.106.25:443/announce
 udp://15.235.207.99:8081/announce
 udp://151.242.104.187:80/announce
 udp://152.53.194.103:1984/announce
 udp://152.53.194.103:54123/announce
-udp://164.152.110.70:6969/announce
 udp://172.245.168.134:1337/announce
 udp://173.201.36.219:6969/announce
 udp://177.172.61.26:6969/announce
@@ -19,8 +17,8 @@ udp://185.216.179.62:25/announce
 udp://193.148.251.93:6969/announce
 udp://193.187.90.12:6969/announce
 udp://193.34.92.5:80/announce
+udp://200.111.84.93:1337/announce
 udp://208.83.20.20:6969/announce
-udp://209.141.59.16:6969/announce
 udp://211.75.205.187:6969/announce
 udp://211.75.205.187:80/announce
 udp://211.75.205.188:6969/announce
@@ -45,7 +43,7 @@ udp://37.120.182.83:54123/announce
 udp://37.60.249.217:6969/announce
 udp://43.154.112.29:17272/announce
 udp://43.250.54.126:6969/announce
-udp://45.137.199.107:6969/announce
+udp://5.255.124.190:6969/announce
 udp://51.15.41.46:6969/announce
 udp://51.222.82.36:6969/announce
 udp://51.81.222.188:6969/announce
@@ -57,7 +55,6 @@ udp://65.109.28.17:6969/announce
 udp://65.109.28.33:6969/announce
 udp://74.119.149.136:6969/announce
 udp://83.102.180.21:80/announce
-udp://89.127.235.120:6969/announce
 udp://89.234.156.205:451/announce
 udp://91.177.126.188:6969/announce
 udp://91.211.5.21:6969/announce
@@ -70,6 +67,7 @@ udp://95.217.80.22:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://archive.torrentonline.cc:42069/announce
+udp://atrack.pow7.com:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bttracker.debian.org:6969/announce
@@ -95,6 +93,7 @@ udp://open.demonoid.ch:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://open.stealth.si/announce
 udp://open.stealth.si:80/announce
+udp://open.tracker.cl:1337/announce
 udp://peerfect.org:6969/announce
 udp://public.demonoid.ch:6969/announce
 udp://qg.lorzl.gq:2710/announce
@@ -105,7 +104,7 @@ udp://secure.pow7.com:6969/announce
 udp://seedpeer.net:6969/announce
 udp://shahidrazi.online:1984/announce
 udp://su-data.com:6969/announce
-udp://t.overflow.biz:6969/announce
+udp://t1.pow7.com:6969/announce
 udp://t2.pow7.com:6969/announce
 udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
@@ -127,7 +126,6 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce
-udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
@@ -137,10 +135,8 @@ udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.opentrackr.com:1337/announce
 udp://tracker.opentrackr.com:6969/announce
-udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.playground.ru:6969/announce
-udp://tracker.plx.im:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.sbsub.com:2710/announce
@@ -156,3 +152,5 @@ udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://whybother.torrentonline.cc:42069/announce
+udp://www.torrent.eu.org:451/announce
+udp://zer0day.ch:1337/announce
