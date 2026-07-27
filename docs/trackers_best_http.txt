@@ -64,6 +64,7 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
+http://open.tracker.cl:1337/announce
 http://opentracker.acgnx.se/announce
 http://opentracker.xyz/announce
 http://opentrackr.org:1337/announce
@@ -96,7 +97,6 @@ http://tracker.dler.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
-http://tracker.internetwarriors.net:1337/announce
 http://tracker.kali.org:6969/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.merded.xyz:8000/announce
@@ -117,6 +117,7 @@ http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
+http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.com/announce
 http://tracker2.dler.org/announce
