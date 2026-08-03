@@ -10,6 +10,7 @@ https://retracker2.x2k.ru/announce
 https://shahidrazi.online/announce
 https://t.213891.xyz/announce
 https://torrent.ubuntu.com/announce
+https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr.zukizuki.org/announce
 https://tr2.trkb.ru/announce
@@ -17,6 +18,7 @@ https://tracker.7471.top/announce
 https://tracker.adgk.net/announce
 https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
+https://tracker.cangku.moe/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.lenition.de/announce
