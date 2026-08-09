@@ -366,6 +366,7 @@ http://189.18.126.49:6969/announce
 http://189.18.127.125:6969/announce
 http://189.18.127.21:6969/announce
 http://189.18.127.57:6969/announce
+http://189.18.162.102:6969/announce
 http://189.18.162.106:6969/announce
 http://189.18.162.12:6969/announce
 http://189.18.162.54:6969/announce
@@ -2194,6 +2195,7 @@ udp://189.18.126.49:6969/announce
 udp://189.18.127.125:6969/announce
 udp://189.18.127.21:6969/announce
 udp://189.18.127.57:6969/announce
+udp://189.18.162.102:6969/announce
 udp://189.18.162.106:6969/announce
 udp://189.18.162.12:6969/announce
 udp://189.18.162.54:6969/announce
