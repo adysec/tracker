@@ -3178,6 +3178,7 @@ udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cuntflaps.me:6969/announce
 udp://tracker.cutie.dating:80/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.cynma.tv:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
