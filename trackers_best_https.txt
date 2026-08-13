@@ -1,8 +1,6 @@
 https://004430.xyz/announce
 https://1337.abcvg.info/announce
-https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
-https://chihaya-heroku.120181311.xyz/announce
 https://open.ftorrent.com/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
@@ -22,7 +20,6 @@ https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
 https://tracker.lenition.de/announce
 https://tracker.linvk.com/announce
-https://tracker.maya.no.eu.org/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
