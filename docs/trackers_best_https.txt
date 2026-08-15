@@ -19,10 +19,11 @@ https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.isbigdick.cc.cd/announce
+https://tracker.keepfrds.com/announce
 https://tracker.lenition.de/announce
 https://tracker.linvk.com/announce
 https://tracker.monikadesign.uk/announce
-https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
 https://tracker.qingwapt.org/announce
+https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
