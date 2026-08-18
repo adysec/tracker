@@ -1,6 +1,7 @@
 https://004430.xyz/announce
 https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
+https://bt.beatrice-raws.org/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://edgev.duckdns.org/announce
 https://open.ftorrent.com/announce
@@ -26,4 +27,5 @@ https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
 https://tracker.qingwapt.org/announce
+https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
