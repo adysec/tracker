@@ -1,14 +1,11 @@
 https://004430.xyz/announce
 https://1337.abcvg.info/announce
-https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
-https://chihaya-heroku.120181311.xyz/announce
 https://edgev.duckdns.org/announce
 https://open.ftorrent.com/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://t.213891.xyz/announce
-https://torrent.ubuntu.com/announce
 https://tr.nyacat.pw/announce
 https://tr.zukizuki.org/announce
 https://tr2.trkb.ru/announce
@@ -16,6 +13,7 @@ https://tracker.7471.top/announce
 https://tracker.adgk.net/announce
 https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
+https://tracker.bug38.com/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
@@ -25,5 +23,5 @@ https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
 https://tracker.qingwapt.org/announce
+https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
-https://wolf.parrot.run/announce
