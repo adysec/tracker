@@ -3234,6 +3234,7 @@ udp://tracker.frozen-layer.net:6969/announce
 udp://tracker.gbitt.info:80/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.govt.hu:6969/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.halfchub.club:6969/announce
 udp://tracker.healthcareindia.store:1337/announce
