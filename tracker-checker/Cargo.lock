@@ -600,9 +600,9 @@ checksum = "f8dcc9c7d52a811697d2151c701e0d08956f92b0e24136cf4cf27b57a6a0d9bf"
 
 [[package]]
 name = "rand"
-version = "0.8.7"
+version = "0.8.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "22f6172bdec972074665ed81ed53b71da00bfc44b65a753cfde883ec4c702a1a"
+checksum = "e058c7de0b26af77780c769414d6257830bb240f3c38477dbc2c16e5f54d6d4c"
 dependencies = [
  "libc",
  "rand_chacha",
@@ -1083,7 +1083,7 @@ dependencies = [
 name = "tracker-checker"
 version = "0.1.0"
 dependencies = [
- "rand 0.8.7",
+ "rand 0.8.8",
  "rayon",
  "regex",
  "reqwest",
