@@ -13,11 +13,11 @@ https://tr2.trkb.ru/announce
 https://tracker.7471.top/announce
 https://tracker.adgk.net/announce
 https://tracker.anibt.net/announce
-https://tracker.bt4g.com/announce
 https://tracker.bug38.com/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
+https://tracker.lenition.de/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
