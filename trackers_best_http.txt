@@ -24,6 +24,7 @@ http://37.60.249.217:6969/announce
 http://43.250.54.126:6969/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
+http://79.111.12.213:6969/announce
 http://93.158.213.92:1337/announce
 http://94.23.207.177:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
@@ -82,10 +83,12 @@ http://tracker.auctor.tv:6969/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubicview.site/announce
+http://tracker.ddunlimited.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
@@ -100,7 +103,6 @@ http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.nyaa.vc:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
-http://tracker.plx.im:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
