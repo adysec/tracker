@@ -1,4 +1,3 @@
-https://004430.xyz/announce
 https://1.tracker.eu.org/announce
 https://1337.abcvg.info/announce
 https://2.tracker.eu.org/announce
@@ -7,6 +6,7 @@ https://337hhh.xyz/announce
 https://4.tracker.eu.org/announce
 https://5.tracker.eu.org/announce
 https://bt.beatrice-raws.org/announce
+https://colibri.parrot.run/announce
 https://open.ftorrent.com/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
@@ -23,7 +23,7 @@ https://tracker.keepfrds.com/announce
 https://tracker.lenition.de/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
-https://tracker.nekomi.cn/announce
 https://tracker.onetracker.net/announce
 https://tracker.qingwapt.org/announce
 https://tracker.zhuqiy.com/announce
+https://wolf.parrot.run/announce
