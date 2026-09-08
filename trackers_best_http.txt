@@ -1,4 +1,3 @@
-http://004430.xyz/announce
 http://1337.abcvg.info/announce
 http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
@@ -75,7 +74,6 @@ http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
-http://tracker.004430.xyz:1337/announce
 http://tracker.acgnx.se/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
@@ -87,7 +85,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
-http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
@@ -101,7 +98,6 @@ http://tracker.nexusstream.eu:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
-http://tracker.plx.im:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
