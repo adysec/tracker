@@ -13,7 +13,6 @@ https://retracker2.x2k.ru/announce
 https://t.213891.xyz/announce
 https://t.btcland.xyz/announce
 https://torrent.ubuntu.com/announce
-https://tr-zhuqiy-2.dgj055.icu/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
 https://tracker.7471.top/announce
