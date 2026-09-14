@@ -2458,6 +2458,7 @@ udp://27.155.141.50:2710/announce
 udp://27.155.141.50:6969/announce
 udp://31.38.161.123:6969/announce
 udp://31.56.179.159:6969/announce
+udp://31.59.141.120:6969/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
 udp://34.89.30.59:1337/announce
@@ -2482,6 +2483,7 @@ udp://37.27.4.53:6969/announce
 udp://37.59.48.81:6969/announce
 udp://37.60.249.217:6969/announce
 udp://38.175.99.50:6969/announce
+udp://38.180.157.12:2715/announce
 udp://4.tracker.devnak.win:6969/announce
 udp://41.79.68.156:6969/announce
 udp://43.139.20.56:6969/announce
@@ -2498,6 +2500,7 @@ udp://45.137.199.107:6969/announce
 udp://45.154.214.21:6969/announce
 udp://45.154.96.35:6969/announce
 udp://45.155.53.144:6969/announce
+udp://45.38.170.167:6969/announce
 udp://45.63.30.114:6969/announce
 udp://45.7.231.102:80/announce
 udp://45.76.120.37:6969/announce
@@ -2512,6 +2515,7 @@ udp://46.3.96.144:6969/announce
 udp://46.4.109.148:6969/announce
 udp://46.59.69.118:6969/announce
 udp://47.243.23.189:6969/announce
+udp://47.76.201.250:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://49.12.76.8:8080/announce
 udp://49.13.133.10:6969/announce
@@ -2683,6 +2687,7 @@ udp://84.197.224.61:6969/announce
 udp://84.54.51.78:6969/announce
 udp://85.121.5.80:6969/announce
 udp://85.17.19.180:80/announce
+udp://85.17.55.112:6969/announce
 udp://85.239.33.28:6969/announce
 udp://86.127.239.222:1234/announce
 udp://86.127.250.81:1234/announce
