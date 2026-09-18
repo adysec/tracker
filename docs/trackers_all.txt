@@ -3407,6 +3407,7 @@ udp://tracker.waaa.moe:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
 udp://tracker.wepzone.net:6969/announce
 udp://tracker.wildkat.net:6969/announce
+udp://tracker.willy.pro:6969/announce
 udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
