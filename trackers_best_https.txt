@@ -31,3 +31,4 @@ https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
 https://tracker.onetracker.net/announce
 https://tracker.qingwapt.org/announce
+https://tracker.zhuqiy.com/announce
