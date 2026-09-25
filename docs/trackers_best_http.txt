@@ -2,6 +2,7 @@ http://004430.xyz/announce
 http://1337.abcvg.info/announce
 http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
+http://140.235.237.23:6969/announce
 http://152.53.194.103:2710/announce
 http://177.188.141.75:6969/announce
 http://185.126.65.92:6969/announce
@@ -108,6 +109,7 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
+http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker1.itzmx.com:8080/announce

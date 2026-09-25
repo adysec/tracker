@@ -2,6 +2,7 @@ http://004430.xyz/announce
 http://1337.abcvg.info/announce
 http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
+http://140.235.237.23:6969/announce
 http://152.53.194.103:2710/announce
 http://177.188.141.75:6969/announce
 http://185.126.65.92:6969/announce
@@ -108,6 +109,7 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
+http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker1.itzmx.com:8080/announce
@@ -125,6 +127,7 @@ https://4.tracker.eu.org/announce
 https://5.tracker.eu.org/announce
 https://bt.beatrice-raws.org/announce
 https://open.ftorrent.com/announce
+https://pybittrack.retiolus.net/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://t.213891.xyz/announce
@@ -154,6 +157,7 @@ udp://118.196.100.63:6969/announce
 udp://120.78.150.131:6969/announce
 udp://132.226.6.145:6969/announce
 udp://135.125.198.235:1984/announce
+udp://135.125.236.64:6969/announce
 udp://149.106.106.25:443/announce
 udp://15.235.207.99:8081/announce
 udp://151.242.104.187:80/announce
@@ -204,6 +208,7 @@ udp://51.15.41.46:6969/announce
 udp://51.222.82.36:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.211.139.85:27022/announce
+udp://52.58.128.163:6969/announce
 udp://60.172.236.18:6969/announce
 udp://60.249.37.20:6969/announce
 udp://60.249.37.20:80/announce
@@ -224,14 +229,12 @@ udp://95.217.80.20:6969/announce
 udp://95.217.80.22:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://atrack.pow7.com:6969/announce
 udp://bttracker.debian.org:6969/announce
 udp://ch3oh.ru:6969/announce
 udp://chihaya.toss.li:9696/announce
-udp://coeus.torrentonline.cc:42069/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
-udp://explodie.org:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 udp://leet-tracker.moe:1337/announce
@@ -251,10 +254,9 @@ udp://qg.lorzl.gq:2710/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://santost12.xyz:6969/announce
+udp://secure.pow7.com:6969/announce
 udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
-udp://t1.pow7.com:6969/announce
-udp://t2.pow7.com:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr3.ysagin.top:2715/announce
