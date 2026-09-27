@@ -2061,6 +2061,7 @@ udp://159.146.99.45:6969/announce
 udp://159.195.43.181:6969/announce
 udp://159.195.43.181:80/announce
 udp://160.251.231.187:6969/announce
+udp://160.30.240.158:1337/announce
 udp://161.97.67.210:6969/announce
 udp://163.172.29.130:80/announce
 udp://163.5.63.253:6990/announce
