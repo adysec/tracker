@@ -26,8 +26,8 @@ https://tracker.foreverpirates.co/announce
 https://tracker.keepfrds.com/announce
 https://tracker.midnightprogrammer.net/announce
 https://tracker.monikadesign.uk/announce
-https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
 https://tracker.pmman.tech/announce
 https://tracker.qingwapt.org/announce
 https://tracker.zhuqiy.com/announce
+https://wolf.parrot.run/announce
