@@ -2016,6 +2016,8 @@ udp://139.202.231.55:6969/announce
 udp://141.11.240.19:6969/announce
 udp://142.132.183.104:6969/announce
 udp://143.198.64.177:6969/announce
+udp://143.20.154.228:42069/announce
+udp://143.20.154.229:42069/announce
 udp://143.246.43.3:6969/announce
 udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
