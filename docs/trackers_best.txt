@@ -22,9 +22,11 @@ http://37.120.182.83:2710/announce
 http://43.250.54.126:6969/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
+http://79.111.12.213:6969/announce
 http://93.158.213.92:1337/announce
 http://94.23.207.177:6969/announce
 http://announce.sktorrent.eu:6969/announce
+http://asiatorrent.giize.com:51413/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bittorrent.kali.org/announce
 http://bt.beatrice-raws.org/announce
@@ -77,12 +79,14 @@ http://tracker.acgnx.se/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.auctor.tv:6969/announce
+http://tracker.breizh.pm:6969/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
@@ -141,6 +145,7 @@ https://tracker.7471.top/announce
 https://tracker.anibt.net/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.keepfrds.com/announce
+https://tracker.maya.no.eu.org/announce
 https://tracker.midnightprogrammer.net/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.nekomi.cn/announce
@@ -152,6 +157,7 @@ udp://118.196.100.63:6969/announce
 udp://120.78.150.131:6969/announce
 udp://132.226.6.145:6969/announce
 udp://135.125.198.235:1984/announce
+udp://135.125.236.64:6969/announce
 udp://149.106.106.25:443/announce
 udp://15.235.207.99:8081/announce
 udp://151.242.104.187:80/announce
@@ -170,6 +176,7 @@ udp://193.148.251.93:6969/announce
 udp://193.187.90.12:6969/announce
 udp://193.34.92.5:80/announce
 udp://208.83.20.20:6969/announce
+udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://211.75.205.187:6969/announce
 udp://211.75.205.187:80/announce
@@ -219,13 +226,13 @@ udp://93.158.213.92:6969/announce
 udp://94.23.207.177:6969/announce
 udp://95.217.80.20:6969/announce
 udp://95.217.80.22:6969/announce
-udp://admin.52ywp.com:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://atrack.pow7.com:6969/announce
 udp://bttracker.debian.org:6969/announce
 udp://ch3oh.ru:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://evan.im:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
@@ -235,6 +242,7 @@ udp://leet-tracker.moe:38151/announce
 udp://mail.segso.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
+udp://obey.torrentonline.cc:42069/announce
 udp://open.demonii.com:1337/announce
 udp://open.ftorrent.com:443/announce
 udp://open.stealth.si/announce
@@ -249,7 +257,6 @@ udp://santost12.xyz:6969/announce
 udp://secure.pow7.com:6969/announce
 udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
-udp://t1.pow7.com:6969/announce
 udp://t2.pow7.com:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 udp://torrents.artixlinux.org:6969/announce
@@ -260,12 +267,12 @@ udp://tracker.004430.xyz:1337/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://tracker.auctor.tv:6969/announce
 udp://tracker.bittor.pw:1337/announce
+udp://tracker.breizh.pm:6969/announce
 udp://tracker.btzoo.eu:80/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
-udp://tracker.dhitechnical.com:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
@@ -281,6 +288,7 @@ udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker.nyaa.vc:6969/announce
+udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:1337/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
