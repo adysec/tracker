@@ -3,7 +3,6 @@ http://1337.abcvg.info/announce
 http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
 http://138.186.10.167:1337/announce
-http://140.235.237.23:6969/announce
 http://152.249.214.196:6969/announce
 http://185.126.65.92:6969/announce
 http://207.241.226.111:6969/announce
@@ -68,7 +67,6 @@ http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.004430.xyz:1337/announce
-http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
@@ -103,7 +101,6 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
-http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker1.itzmx.com:8080/announce
