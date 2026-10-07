@@ -8,6 +8,7 @@ udp://149.106.106.25:443/announce
 udp://15.235.207.99:8081/announce
 udp://151.242.104.187:80/announce
 udp://152.249.214.196:6969/announce
+udp://159.146.99.45:6969/announce
 udp://160.30.240.158:1337/announce
 udp://164.152.110.70:6969/announce
 udp://173.201.36.219:6969/announce
@@ -20,8 +21,6 @@ udp://192.99.100.68:6969/announce
 udp://193.148.251.93:6969/announce
 udp://193.187.90.12:6969/announce
 udp://193.34.92.5:80/announce
-udp://208.83.20.20:6969/announce
-udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://211.75.205.187:6969/announce
 udp://211.75.205.187:80/announce
@@ -41,10 +40,10 @@ udp://34.66.57.33:80/announce
 udp://38.180.157.12:2715/announce
 udp://43.154.112.29:17272/announce
 udp://43.250.54.126:6969/announce
-udp://45.134.88.121:6969/announce
 udp://45.137.199.107:6969/announce
 udp://45.38.170.167:6969/announce
 udp://47.76.201.250:6969/announce
+udp://5.255.124.190:6969/announce
 udp://51.15.41.46:6969/announce
 udp://51.222.82.36:6969/announce
 udp://51.81.222.188:6969/announce
@@ -57,6 +56,7 @@ udp://74.119.149.136:6969/announce
 udp://83.102.180.21:80/announce
 udp://85.17.55.112:6969/announce
 udp://89.234.156.205:451/announce
+udp://91.211.5.21:6969/announce
 udp://91.216.110.53:451/announce
 udp://93.158.213.92:1337/announce
 udp://93.158.213.92:6969/announce
@@ -69,8 +69,8 @@ udp://bt-tracker.de:6969/announce
 udp://bttracker.debian.org:6969/announce
 udp://ch3oh.ru:6969/announce
 udp://chihaya.toss.li:9696/announce
+udp://edgev.duckdns.org:6969/announce
 udp://evan.im:6969/announce
-udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
@@ -103,6 +103,7 @@ udp://tracker.004430.xyz:1337/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://tracker.auctor.tv:6969/announce
 udp://tracker.bittor.pw:1337/announce
+udp://tracker.breizh.pm:6969/announce
 udp://tracker.btzoo.eu:80/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
@@ -140,7 +141,6 @@ udp://tracker.tallpenguin.org:15750/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrents.observer:80/announce
-udp://tracker.tryhackx.org:6969/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.willy.pro:6969/announce
