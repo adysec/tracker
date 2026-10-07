@@ -2818,6 +2818,7 @@ udp://boysbitte.be:6969/announce
 udp://brightstar.freeddns.org:6969/announce
 udp://brokenhelix.loseyourip.com:6969/announce
 udp://bry-dell-htpc.freeddns.org:6969/announce
+udp://bt-tracker.de:6969/announce
 udp://bt-tracker.devnak.win:6969/announce
 udp://bt.aoeex.com:8000/announce
 udp://bt.bontal.net:443/announce
