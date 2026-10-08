@@ -21,7 +21,6 @@ http://79.111.12.213:6969/announce
 http://93.158.213.92:1337/announce
 http://94.23.207.177:6969/announce
 http://announce.sktorrent.eu:6969/announce
-http://asiatorrent.giize.com:51413/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bittorrent.kali.org/announce
 http://bt.beatrice-raws.org/announce
@@ -60,6 +59,7 @@ http://opentracker.xyz/announce
 http://opentrackr.org:1337/announce
 http://retracker.x2k.ru/announce
 http://retracker01-msk-virt.corbina.net/announce
+http://share.hkg-fansub.info/announce
 http://sukebei.tracker.wf:8888/announce
 http://t-backup.213891.xyz/announce
 http://t.nyaatracker.com/announce
