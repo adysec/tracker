@@ -2805,6 +2805,7 @@ udp://auratorrent.pl:8089/announce
 udp://axell24.ru:6969/announce
 udp://bananas.space:6969/announce
 udp://bandito.byterunner.io:6969/announce
+udp://banzaitracker.com:2710/announce
 udp://bclearning.top:6969/announce
 udp://bedro.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
@@ -3338,6 +3339,7 @@ udp://tracker.nyaa.net:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ocnix.net:6969/announce
+udp://tracker.okade.pro:1337/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-data.network:8888/announce
 udp://tracker.open-internet.nl:6969/announce
