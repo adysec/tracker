@@ -1,6 +1,5 @@
 https://004430.xyz/announce
 https://1.tracker.eu.org/announce
-https://1337.abcvg.info/announce
 https://2.tracker.eu.org/announce
 https://3.tracker.eu.org/announce
 https://337hhh.xyz/announce
@@ -25,7 +24,6 @@ https://tracker.7471.top/announce
 https://tracker.anibt.net/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.keepfrds.com/announce
-https://tracker.midnightprogrammer.net/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.nekomi.cn/announce
 https://tracker.pmman.tech/announce
