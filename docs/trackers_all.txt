@@ -3378,6 +3378,7 @@ udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.sbsub.com:2710/announce
 udp://tracker.segso.net:6969/announce
+udp://tracker.sela.st:6969/announce
 udp://tracker.sharebro.in:6969/announce
 udp://tracker.sheesh.rip:6969/announce
 udp://tracker.shkinev.me:6969/announce
