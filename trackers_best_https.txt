@@ -31,3 +31,4 @@ https://tracker.nekomi.cn/announce
 https://tracker.qingwapt.org/announce
 https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
+https://wolf.parrot.run/announce
