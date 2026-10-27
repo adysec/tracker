@@ -1942,6 +1942,7 @@ udp://101.99.91.160:6969/announce
 udp://101.99.94.187:6969/announce
 udp://103.122.21.50:6969/announce
 udp://103.251.166.126:6969/announce
+udp://103.27.158.117:1914/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://104.238.198.186:8000/announce
