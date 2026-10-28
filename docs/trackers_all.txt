@@ -3059,6 +3059,7 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentracker.lain.moscow:6969/announce
 udp://opentracker.xyz:443/announce
+udp://opentracker2.lain.moscow:6969/announce
 udp://opentrackr.org:1337/announce
 udp://openwrt.lingyurouqing.xyz:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
