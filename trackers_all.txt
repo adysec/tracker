@@ -1616,6 +1616,7 @@ https://evening-badlands-6215.herokuapp.com/announce
 https://explodie.org:6969/announce
 https://fbiagent.cyou/announce
 https://fxtt.ru:80/announce
+https://gargoyleperch.de/announce
 https://grifon.info:80/announce
 https://gwp2-v19.rinet.ru/announce
 https://gwp2-v19.rinet.ru:80/announce
@@ -1896,6 +1897,7 @@ https://tracker.yarr.pt/announce
 https://tracker.yemekyedim.com/announce
 https://tracker.yggleak.top/announce
 https://tracker.yoshi210.com:6969/announce
+https://tracker.yume-hatsuyuki.moe/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker.zhuque.in/announce
