@@ -3425,6 +3425,7 @@ udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.trafficmgr.net:6969/announce
+udp://tracker.transfur.org:6969/announce
 udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tritan.gg:8080/announce
 udp://tracker.trojangogogo.site:8080/announce
