@@ -2447,6 +2447,7 @@ udp://220.200.35.97:6969/announce
 udp://220.250.51.200:6969/announce
 udp://221.153.216.56:8081/announce
 udp://222.216.138.237:6969/announce
+udp://222.216.138.251:6969/announce
 udp://222.216.139.217:6969/announce
 udp://222.216.139.248:6969/announce
 udp://222.216.139.72:6969/announce
@@ -2901,6 +2902,7 @@ udp://devops.gay:6969/announce
 udp://dex.email:6969/announce
 udp://dht.bt251.com:6969/announce
 udp://discord.heihachi.pw:6969/announce
+udp://discover.curiousfacts.blog:6969/announce
 udp://dmitrynegoda.com:6969/announce
 udp://dns.xxtor.com:53/announce
 udp://download.nerocloud.me:6969/announce
