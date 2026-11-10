@@ -3222,6 +3222,7 @@ udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.acgnx.se/announce
 udp://tracker.alaskantf.com:6969/announce
 udp://tracker.aletorrenty.pl:2710/announce
+udp://tracker.alt.cx:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 udp://tracker.anima.nz:6969/announce
 udp://tracker.arcbox.cc:6969/announce
