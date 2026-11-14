@@ -1,5 +1,4 @@
 http://004430.xyz/announce
-http://123.245.62.58:6969/announce
 http://123.245.62.62:6969/announce
 http://1337.abcvg.info/announce
 http://135.125.198.235/announce
@@ -61,7 +60,6 @@ http://sukebei.tracker.wf:8888/announce
 http://t-backup.213891.xyz/announce
 http://t.nyaatracker.com/announce
 http://t.overflow.biz:6969/announce
-http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://tr.nyacat.pw/announce
@@ -74,7 +72,6 @@ http://tracker.auctor.tv:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
-http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
@@ -96,10 +93,6 @@ http://tracker.torrents.observer/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xdvdz.com:2710/announce
-http://tracker.xfapi.top:6868/announce
-http://tracker.xfapi.top:7070/announce
-http://tracker.xfapi.top:9999/announce
-http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker1.itzmx.com:8080/announce
