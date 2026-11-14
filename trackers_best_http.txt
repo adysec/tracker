@@ -61,6 +61,7 @@ http://sukebei.tracker.wf:8888/announce
 http://t-backup.213891.xyz/announce
 http://t.nyaatracker.com/announce
 http://t.overflow.biz:6969/announce
+http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://tr.nyacat.pw/announce
@@ -69,18 +70,15 @@ http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.004430.xyz:1337/announce
 http://tracker.23794.top:6969/announce
 http://tracker.ali213.net:8000/announce
-http://tracker.ali213.net:8080/announce
 http://tracker.auctor.tv:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
-http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.internetwarriors.net:1337/announce
-http://tracker.k.vu:6969/announce
 http://tracker.kali.org:6969/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.minglong.org:8080/announce
