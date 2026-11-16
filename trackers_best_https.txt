@@ -3,6 +3,7 @@ https://1.tracker.eu.org/announce
 https://1337.abcvg.info/announce
 https://2.tracker.eu.org/announce
 https://3.tracker.eu.org/announce
+https://337hhh.xyz/announce
 https://4.tracker.eu.org/announce
 https://5.tracker.eu.org/announce
 https://bt.beatrice-raws.org/announce
@@ -29,5 +30,6 @@ https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
 https://tracker.qingwapt.org/announce
+https://tracker.vectahosting.eu/announce
 https://tracker.yume-hatsuyuki.moe/announce
 https://tracker.zhuqiy.com/announce
