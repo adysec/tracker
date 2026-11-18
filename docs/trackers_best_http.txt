@@ -6,7 +6,6 @@ http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
 http://138.186.10.167:1337/announce
 http://140.235.237.23:6969/announce
-http://177.112.215.133:6969/announce
 http://185.126.65.92:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
@@ -18,8 +17,8 @@ http://211.75.210.221/announce
 http://211.75.210.221:6969/announce
 http://216.144.239.90:6969/announce
 http://31.38.161.123:6969/announce
+http://34.66.57.33:1337/announce
 http://43.250.54.126:6969/announce
-http://79.111.12.213:6969/announce
 http://93.158.213.92:1337/announce
 http://bittorrent.kali.org/announce
 http://bt.beatrice-raws.org/announce
@@ -39,7 +38,6 @@ http://bt2.archive.org:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
-http://ch3oh.ru:6969/announce
 http://ehtracker.org/1/announce
 http://ehtracker.org/1104308/announce
 http://ehtracker.org/1113709/announce
@@ -70,14 +68,17 @@ http://tracker.23794.top:6969/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.auctor.tv:6969/announce
+http://tracker.bt-hash.com/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
+http://tracker.dmcomic.org:2710/announce
 http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.internetwarriors.net:1337/announce
+http://tracker.k.vu:6969/announce
 http://tracker.kali.org:6969/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.minglong.org:8080/announce
@@ -93,6 +94,7 @@ http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.torrents.observer/announce
 http://tracker.trancetraffic.com/announce
+http://tracker.vanitycore.co:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
