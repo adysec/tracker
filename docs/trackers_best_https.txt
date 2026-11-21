@@ -7,6 +7,7 @@ https://337hhh.xyz/announce
 https://4.tracker.eu.org/announce
 https://5.tracker.eu.org/announce
 https://bt.beatrice-raws.org/announce
+https://edge-team.cc/announce
 https://open.ftorrent.com/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
@@ -29,11 +30,11 @@ https://tracker.foreverpirates.co/announce
 https://tracker.gcrreen.xyz/announce
 https://tracker.hdarea.club/announce
 https://tracker.keepfrds.com/announce
+https://tracker.kitaujisub.site/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
 https://tracker.qingwapt.org/announce
-https://tracker.shittyurl.org/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker.yume-hatsuyuki.moe/announce
