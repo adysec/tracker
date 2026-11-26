@@ -1,5 +1,4 @@
 http://004430.xyz/announce
-http://0d.kebhana.mx:443/announce
 http://123.245.62.56:6969/announce
 http://123.245.62.58:6969/announce
 http://1337.abcvg.info/announce
@@ -20,12 +19,10 @@ http://211.75.210.221/announce
 http://211.75.210.221:6969/announce
 http://216.144.239.90:6969/announce
 http://31.38.161.123:6969/announce
-http://34.66.57.33:2710/announce
 http://43.250.54.126:6969/announce
 http://46.188.15.49:6969/announce
 http://82.192.67.238:6969/announce
 http://93.158.213.92:1337/announce
-http://all4nothin.net/announce
 http://bittorrent.kali.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.edwardk.info:12891/announce
@@ -44,7 +41,6 @@ http://bt2.archive.org:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
-http://btracker.top:11451/announce
 http://ehtracker.org/1/announce
 http://ehtracker.org/1104308/announce
 http://ehtracker.org/1113709/announce
@@ -74,7 +70,6 @@ http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.004430.xyz:1337/announce
 http://tracker.23794.top:6969/announce
 http://tracker.ali213.net:8000/announce
-http://tracker.ali213.net:8080/announce
 http://tracker.auctor.tv:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
@@ -100,10 +95,8 @@ http://tracker.renfei.net:8080/announce
 http://tracker.shittyurl.org/announce
 http://tracker.torrents.observer/announce
 http://tracker.trancetraffic.com/announce
-http://tracker.vanitycore.co:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xdvdz.com:2710/announce
-http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker1.itzmx.com:8080/announce
@@ -113,4 +106,3 @@ http://tracker3.dler.org:2710/announce
 http://tracker4.itzmx.com:2710/announce
 http://tracker4.itzmx.com:6961/announce
 http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
-http://www.torrentsnipe.info:2701/announce

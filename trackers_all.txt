@@ -1644,6 +1644,7 @@ https://ipv6.tracker.m-team.cc/announce
 https://jvavav.com/announce
 https://k.avc.cx/announce
 https://k3tracker.cc/announce
+https://lattice.peerrelay.workers.dev/announce
 https://lima-peru.subventas.com/announce
 https://mathkangaroo.jp/announce
 https://mgtracker.org:2710/announce
@@ -3274,6 +3275,7 @@ udp://tracker.bontal.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.btzoo.eu:80/announce
+udp://tracker.bunk.im:6969/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.christianbro.pw:6969/announce
