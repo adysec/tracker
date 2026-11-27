@@ -7,7 +7,9 @@ http://135.125.198.235:2710/announce
 http://138.186.10.167:1337/announce
 http://140.235.237.23:6969/announce
 http://177.172.66.244:6969/announce
+http://178.162.242.56:6969/announce
 http://185.126.65.92:6969/announce
+http://190.22.34.84:1337/announce
 http://194.247.183.66:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
@@ -70,6 +72,7 @@ http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.004430.xyz:1337/announce
 http://tracker.23794.top:6969/announce
 http://tracker.ali213.net:8000/announce
+http://tracker.ali213.net:8080/announce
 http://tracker.auctor.tv:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
@@ -97,6 +100,7 @@ http://tracker.torrents.observer/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xdvdz.com:2710/announce
+http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker1.itzmx.com:8080/announce

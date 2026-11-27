@@ -32,10 +32,12 @@ https://tracker.gcrreen.xyz/announce
 https://tracker.hdarea.club/announce
 https://tracker.keepfrds.com/announce
 https://tracker.kitaujisub.site/announce
+https://tracker.maya.no.eu.org/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
 https://tracker.qingwapt.org/announce
+https://tracker.shittyurl.org/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.vectahosting.eu:8443/announce
 https://tracker.yume-hatsuyuki.moe/announce
